@@ -1,0 +1,1001 @@
+customer_name,customer_location,product_name,brand,category,payment_method,order_status,quantity,price,total_amount,order_date,delivery_date
+Gamaliel Ambrosetti,Baguio,Headphones,Logitech,Gaming,PayPal,Returned,1,42813.4,42813.4,5/1/2026,4/26/2026
+Julius Siret,Antipolo,Power Bank,Logitech,Gaming,Credit Card,Returned,5,19551.96,97759.8,4/28/2026,4/4/2026
+Donall Boxall,Makati,Gaming Console,Asus,Accessories,Credit Card,Delivered,9,26961.33,242651.97,4/1/2026,4/15/2026
+Belita Cretney,Iloilo City,Power Bank,Huawei,Wearables,PayPal,Delivered,5,11518.89,57594.45,4/17/2026,4/17/2026
+Cacilia Eaklee,Antipolo,Tablet,HP,Gaming,PayPal,Pending,5,47248.58,236242.9,4/20/2026,4/19/2026
+Anthony Crepel,Baguio,Bluetooth Speaker,Asus,Wearables,GCash,Pending,4,37762.94,151051.76,4/13/2026,4/17/2026
+Lyn Endrighi,Baguio,Tablet,HP,Wearables,Credit Card,Returned,7,28179.23,197254.61,4/28/2026,4/20/2026
+Arvy Rockhall,Taguig,Smartphone,Dell,Mobile Devices,GCash,Pending,3,35759.05,107277.15,4/4/2026,5/7/2026
+Charmian Southern,Cebu City,Power Bank,Dell,Audio,PayPal,Pending,4,23183.26,92733.04,4/23/2026,5/5/2026
+Sherline Flukes,Bacoor,Laptop,Huawei,Computers,GCash,Shipped,8,34740.82,277926.56,5/4/2026,5/8/2026
+Clementine Kynan,Makati,Headphones,Xiaomi,Accessories,Debit Card,Pending,5,12106.01,60530.05,4/12/2026,4/9/2026
+Adorne Stanaway,Antipolo,Camera,Logitech,Mobile Devices,Credit Card,Pending,7,13529.92,94709.44,4/4/2026,5/9/2026
+Atalanta Borrett,Davao City,Bluetooth Speaker,Huawei,Computers,PayPal,Pending,4,42093.98,168375.92,4/17/2026,4/11/2026
+Trenna Rolph,Iloilo City,Monitor,Asus,Accessories,Credit Card,Returned,7,65373.16,457612.12,4/19/2026,4/19/2026
+Edsel Fann,Makati,Camera,Lenovo,Gaming,Debit Card,Pending,8,1029.25,8234.0,4/12/2026,4/22/2026
+Sky Easeman,Dasmariñas,Bluetooth Speaker,Samsung,Mobile Devices,Credit Card,Delivered,5,18327.77,91638.85,4/1/2026,4/8/2026
+Derby Fairlaw,Davao City,Tablet,Dell,Accessories,Debit Card,Returned,9,38834.66,349511.94,5/4/2026,5/9/2026
+Lura Ricciardi,Cagayan de Oro,Headphones,Asus,Audio,PayPal,Cancelled,2,19757.31,39514.62,4/25/2026,4/16/2026
+Darb Bradlaugh,Makati,Smartwatch,Apple,Accessories,Cash on Delivery,Returned,5,34059.4,170297.0,4/23/2026,4/22/2026
+Tuesday Pregal,Baguio,Bluetooth Speaker,Asus,Accessories,Credit Card,Shipped,9,63724.83,573523.47,4/13/2026,4/4/2026
+Brittany Sebrens,Quezon City,Laptop,Lenovo,Audio,Debit Card,Returned,5,14633.3,73166.5,4/17/2026,4/22/2026
+Tyler Newdick,Taguig,Headphones,Huawei,Gaming,GCash,Cancelled,6,57123.8,342742.8,4/23/2026,4/8/2026
+Luigi McCathie,Baguio,Camera,Samsung,Mobile Devices,Cash on Delivery,Cancelled,2,24249.0,48498.0,4/19/2026,5/1/2026
+Forbes Kingsley,Bacoor,Tablet,Sony,Accessories,Credit Card,Pending,2,36149.87,72299.74,4/3/2026,5/7/2026
+Pavla Santi,Bacoor,Headphones,Logitech,Computers,PayPal,Shipped,8,37849.23,302793.84,5/4/2026,4/5/2026
+Dyana Peirpoint,Pasig,Power Bank,Lenovo,Mobile Devices,Cash on Delivery,Delivered,4,44576.86,178307.44,4/17/2026,4/7/2026
+Corabella Kybird,Davao City,Monitor,Lenovo,Computers,Credit Card,Shipped,4,27833.78,111335.12,4/18/2026,4/4/2026
+Aline Heigho,Bacoor,Power Bank,Huawei,Accessories,PayPal,Delivered,8,2745.48,21963.84,4/27/2026,4/19/2026
+Shelbi Balden,Dasmariñas,Power Bank,Huawei,Audio,Credit Card,Pending,10,61882.69,618826.9,4/11/2026,4/30/2026
+Meggi Cannavan,Antipolo,Gaming Console,Huawei,Mobile Devices,Credit Card,Pending,4,52702.07,210808.28,4/16/2026,4/22/2026
+Kinny McEntee,Manila,Power Bank,HP,Accessories,Credit Card,Shipped,1,47306.92,47306.92,4/22/2026,5/6/2026
+Olivette Rickett,Davao City,Gaming Console,HP,Audio,PayPal,Cancelled,7,74520.85,521645.95,5/2/2026,4/25/2026
+Sheena Momford,Manila,Laptop,Asus,Wearables,Cash on Delivery,Shipped,1,869.96,869.96,4/17/2026,4/24/2026
+Marice Barks,Iloilo City,Smartphone,Samsung,Accessories,Debit Card,Cancelled,1,79477.87,79477.87,4/10/2026,4/22/2026
+Stacee Loton,Makati,Gaming Console,Logitech,Wearables,Cash on Delivery,Returned,9,60627.05,545643.45,4/27/2026,4/17/2026
+Ddene Klugman,Antipolo,Tablet,Asus,Audio,GCash,Cancelled,6,72492.14,434952.84,4/9/2026,4/23/2026
+Trudie Savaage,Baguio,Gaming Console,Xiaomi,Mobile Devices,GCash,Returned,6,57772.31,346633.86,4/9/2026,4/27/2026
+Jerad McCuffie,Manila,Smartwatch,HP,Wearables,Debit Card,Cancelled,3,64724.44,194173.32,4/9/2026,5/6/2026
+Milt Crowter,Davao City,Gaming Console,Huawei,Accessories,Debit Card,Cancelled,6,30683.71,184102.26,4/9/2026,4/19/2026
+Tailor MacBey,Bacoor,Bluetooth Speaker,HP,Mobile Devices,GCash,Pending,6,19340.27,116041.62,4/22/2026,4/19/2026
+Gwyn Uzielli,Quezon City,Power Bank,Xiaomi,Computers,Credit Card,Shipped,5,40013.71,200068.55,4/27/2026,4/11/2026
+Paige Borell,Quezon City,Laptop,Xiaomi,Accessories,Debit Card,Returned,2,52469.59,104939.18,4/4/2026,4/14/2026
+Mable Prue,Pasig,Monitor,Sony,Wearables,GCash,Delivered,1,65542.38,65542.38,4/1/2026,4/20/2026
+Bertha Jacquet,Caloocan,Headphones,Huawei,Gaming,GCash,Shipped,1,66099.75,66099.75,5/4/2026,5/2/2026
+Anton Matzkaitis,Cebu City,Bluetooth Speaker,Sony,Computers,PayPal,Delivered,2,23257.88,46515.76,4/21/2026,4/19/2026
+Anjanette MacRierie,Cebu City,Smartphone,Logitech,Computers,Debit Card,Delivered,2,57307.04,114614.08,4/18/2026,4/23/2026
+Maighdiln Flowith,Quezon City,Power Bank,Lenovo,Computers,GCash,Cancelled,6,54427.89,326567.34,4/13/2026,5/3/2026
+Sylvia Pilsworth,Antipolo,Power Bank,Huawei,Gaming,Debit Card,Pending,6,16450.04,98700.24,4/2/2026,5/9/2026
+Charin Peltz,Pasig,Camera,Sony,Mobile Devices,Credit Card,Pending,8,74984.72,599877.76,4/14/2026,4/18/2026
+Chere Frudd,Cagayan de Oro,Smartphone,Asus,Gaming,Debit Card,Pending,6,14024.44,84146.64,4/26/2026,4/11/2026
+Cloris Oty,Antipolo,Smartphone,Dell,Wearables,Cash on Delivery,Delivered,7,36317.46,254222.22,5/1/2026,4/18/2026
+Maisie Pitkethly,Davao City,Laptop,HP,Audio,PayPal,Shipped,4,46946.14,187784.56,4/26/2026,4/12/2026
+Cherilynn Rymer,Caloocan,Smartwatch,Dell,Accessories,Debit Card,Cancelled,4,79800.99,319203.96,4/21/2026,4/21/2026
+Denny Vince,Dasmariñas,Gaming Console,Xiaomi,Wearables,Debit Card,Returned,5,15735.99,78679.95,4/14/2026,5/6/2026
+Avivah Kasbye,Makati,Camera,Lenovo,Accessories,GCash,Cancelled,4,55141.3,220565.2,4/10/2026,4/26/2026
+Doralin Varfolomeev,Quezon City,Laptop,Asus,Mobile Devices,Credit Card,Delivered,8,44490.77,355926.16,4/16/2026,4/17/2026
+Edsel Wackley,Cagayan de Oro,Power Bank,Logitech,Audio,GCash,Pending,1,23104.22,23104.22,4/4/2026,4/21/2026
+Janeta Pechold,Pasig,Smartphone,Sony,Gaming,GCash,Cancelled,4,34828.37,139313.48,4/13/2026,4/17/2026
+Hugibert Davidovsky,Makati,Headphones,Logitech,Accessories,PayPal,Pending,2,48322.71,96645.42,5/3/2026,4/13/2026
+Tallie Holliar,Baguio,Bluetooth Speaker,Logitech,Computers,GCash,Returned,2,72987.95,145975.9,4/14/2026,4/17/2026
+Ardyth Mish,Bacoor,Bluetooth Speaker,Lenovo,Wearables,PayPal,Returned,7,64708.66,452960.62,4/6/2026,4/4/2026
+Mordecai Faltin,Makati,Smartwatch,Xiaomi,Mobile Devices,PayPal,Delivered,7,67584.56,473091.92,4/17/2026,4/30/2026
+Daloris Germon,Dasmariñas,Power Bank,Lenovo,Gaming,Cash on Delivery,Shipped,10,43384.32,433843.2,4/16/2026,4/17/2026
+Aubrey Ordish,Iloilo City,Power Bank,Apple,Accessories,PayPal,Returned,8,57466.56,459732.48,4/23/2026,4/23/2026
+Martynne Trayton,Taguig,Tablet,Apple,Computers,Debit Card,Shipped,5,7918.9,39594.5,4/16/2026,4/20/2026
+Nobe Saxon,Dasmariñas,Monitor,Xiaomi,Gaming,Debit Card,Delivered,2,3995.79,7991.58,5/4/2026,4/15/2026
+Nadiya Greathead,Cagayan de Oro,Gaming Console,Xiaomi,Gaming,Cash on Delivery,Shipped,10,10937.92,109379.2,4/7/2026,4/14/2026
+Millie Portinari,Iloilo City,Smartwatch,Huawei,Gaming,Credit Card,Shipped,5,50842.93,254214.65,4/4/2026,5/4/2026
+Kerr Levick,Manila,Gaming Console,Lenovo,Accessories,Credit Card,Shipped,10,50956.4,509564.0,4/4/2026,4/6/2026
+Carlyn Weatherall,Manila,Camera,HP,Mobile Devices,Credit Card,Delivered,3,57697.1,173091.3,4/19/2026,4/25/2026
+Gustavus Puden,Makati,Laptop,HP,Wearables,Cash on Delivery,Pending,1,51984.3,51984.3,4/15/2026,4/6/2026
+Gustavus Nowill,Dasmariñas,Tablet,Sony,Audio,GCash,Cancelled,9,34550.8,310957.2,4/15/2026,5/8/2026
+Martie Seagrove,Quezon City,Smartphone,Dell,Computers,GCash,Pending,9,51989.59,467906.31,4/3/2026,4/14/2026
+Salem Russan,Makati,Power Bank,Logitech,Audio,Debit Card,Returned,8,44701.25,357610.0,4/11/2026,4/8/2026
+Henka Castagnaro,Iloilo City,Bluetooth Speaker,Xiaomi,Mobile Devices,Cash on Delivery,Returned,5,74184.77,370923.85,4/14/2026,5/6/2026
+Jerry Casino,Quezon City,Headphones,Sony,Computers,Cash on Delivery,Shipped,5,28125.93,140629.65,4/6/2026,4/17/2026
+Malory Armsby,Cagayan de Oro,Headphones,HP,Accessories,Cash on Delivery,Pending,5,46194.17,230970.85,4/4/2026,5/9/2026
+Glendon Gyenes,Davao City,Smartwatch,Lenovo,Audio,GCash,Returned,7,7292.78,51049.46,4/25/2026,4/12/2026
+Dominik Koenen,Antipolo,Tablet,Sony,Computers,Credit Card,Returned,5,77072.55,385362.75,5/1/2026,4/8/2026
+Juliane Ellens,Davao City,Smartphone,Lenovo,Accessories,Credit Card,Cancelled,7,52516.08,367612.56,5/1/2026,4/11/2026
+Winfred Dilliway,Taguig,Smartphone,Huawei,Computers,Cash on Delivery,Returned,8,77106.16,616849.28,5/1/2026,5/8/2026
+Derward Spera,Antipolo,Headphones,Huawei,Gaming,Cash on Delivery,Returned,1,31439.84,31439.84,4/26/2026,5/7/2026
+Karel Seyler,Antipolo,Gaming Console,Logitech,Gaming,PayPal,Shipped,1,72543.99,72543.99,4/14/2026,4/9/2026
+Diego Parkyn,Bacoor,Power Bank,HP,Wearables,GCash,Returned,8,4839.27,38714.16,4/16/2026,5/5/2026
+Stanton Veelers,Taguig,Bluetooth Speaker,Samsung,Accessories,GCash,Pending,6,60625.12,363750.72,4/8/2026,4/11/2026
+Perry Valero,Makati,Headphones,Lenovo,Mobile Devices,Credit Card,Delivered,3,44188.11,132564.33,4/6/2026,5/7/2026
+Dinny Beneyto,Antipolo,Smartphone,Dell,Mobile Devices,PayPal,Delivered,5,46286.52,231432.6,4/19/2026,4/22/2026
+Tarrah Dearman,Quezon City,Gaming Console,Lenovo,Mobile Devices,PayPal,Returned,8,59333.26,474666.08,4/3/2026,4/19/2026
+Tish Ramel,Antipolo,Laptop,Asus,Mobile Devices,Cash on Delivery,Shipped,9,19304.07,173736.63,4/6/2026,4/21/2026
+Genevra Lugden,Manila,Bluetooth Speaker,Samsung,Gaming,PayPal,Pending,8,6536.29,52290.32,4/29/2026,5/4/2026
+Dulcinea Hemphill,Dasmariñas,Gaming Console,Apple,Wearables,PayPal,Returned,6,2164.74,12988.44,4/4/2026,4/19/2026
+Haroun O'Leary,Cebu City,Smartwatch,Sony,Wearables,PayPal,Delivered,6,23143.51,138861.06,4/13/2026,4/14/2026
+Jules Shapero,Manila,Bluetooth Speaker,Logitech,Accessories,Cash on Delivery,Shipped,10,68870.29,688702.9,4/3/2026,4/9/2026
+Cicely Skrine,Cebu City,Headphones,Lenovo,Accessories,Debit Card,Cancelled,7,44424.79,310973.53,4/10/2026,4/29/2026
+Emilia Wasielewski,Manila,Camera,Lenovo,Audio,Cash on Delivery,Shipped,9,32943.25,296489.25,4/28/2026,4/8/2026
+Marcellus Gallant,Caloocan,Smartphone,Huawei,Accessories,Cash on Delivery,Returned,8,66699.37,533594.96,4/2/2026,4/20/2026
+Yale Sapsed,Makati,Laptop,Dell,Computers,Debit Card,Returned,1,20915.98,20915.98,4/22/2026,4/28/2026
+Timmie Pawellek,Pasig,Gaming Console,Dell,Audio,Credit Card,Delivered,6,10402.52,62415.12,5/3/2026,4/7/2026
+Terrence Duetschens,Antipolo,Camera,HP,Gaming,PayPal,Cancelled,5,75245.02,376225.1,4/26/2026,5/9/2026
+Ansley Kacheler,Manila,Smartwatch,Dell,Wearables,Cash on Delivery,Shipped,5,20155.74,100778.7,4/24/2026,4/8/2026
+Liz Ash,Dasmariñas,Laptop,Asus,Computers,GCash,Cancelled,5,18810.47,94052.35,4/12/2026,5/2/2026
+Shelton Tonkin,Cebu City,Headphones,Xiaomi,Gaming,Debit Card,Returned,6,7596.91,45581.46,4/30/2026,4/14/2026
+Annalise Guilaem,Dasmariñas,Tablet,Asus,Computers,GCash,Returned,7,31300.14,219100.98,4/29/2026,4/12/2026
+Stace Randlesome,Baguio,Laptop,HP,Computers,GCash,Shipped,4,30590.49,122361.96,4/21/2026,5/4/2026
+Ainslee Revans,Bacoor,Gaming Console,Apple,Mobile Devices,PayPal,Returned,1,22724.53,22724.53,4/18/2026,4/21/2026
+Miguela Desmond,Bacoor,Smartwatch,Lenovo,Audio,Cash on Delivery,Shipped,7,55471.68,388301.76,4/13/2026,4/16/2026
+Carlen Narramore,Baguio,Tablet,Dell,Mobile Devices,Debit Card,Shipped,5,5245.6,26228.0,5/3/2026,4/29/2026
+Miner Anslow,Cagayan de Oro,Headphones,Samsung,Gaming,GCash,Pending,2,6118.48,12236.96,4/11/2026,4/4/2026
+Bryn Firsby,Cagayan de Oro,Bluetooth Speaker,Samsung,Mobile Devices,GCash,Shipped,2,54331.42,108662.84,4/8/2026,4/26/2026
+Raymund Du Fray,Baguio,Power Bank,Apple,Mobile Devices,GCash,Shipped,5,41196.65,205983.25,4/8/2026,4/26/2026
+Bettye O'Shavlan,Quezon City,Bluetooth Speaker,Apple,Gaming,PayPal,Returned,9,29394.56,264551.04,4/14/2026,4/12/2026
+Prissie Mulbry,Iloilo City,Camera,Logitech,Mobile Devices,Debit Card,Delivered,8,29126.82,233014.56,4/19/2026,4/4/2026
+Sean Podmore,Manila,Smartphone,Xiaomi,Mobile Devices,Credit Card,Delivered,2,4133.89,8267.78,4/17/2026,4/15/2026
+Deerdre Stepto,Quezon City,Smartwatch,Samsung,Wearables,Cash on Delivery,Delivered,3,41343.88,124031.64,4/21/2026,5/9/2026
+Worth Bortolini,Iloilo City,Laptop,Asus,Gaming,Debit Card,Pending,7,16032.75,112229.25,4/12/2026,4/9/2026
+Veronike Belverstone,Manila,Camera,Sony,Computers,Cash on Delivery,Pending,8,63176.28,505410.24,4/27/2026,4/30/2026
+Annmarie Seniour,Makati,Bluetooth Speaker,Asus,Computers,Cash on Delivery,Shipped,8,43574.97,348599.76,4/8/2026,5/5/2026
+Broderick Buyers,Makati,Smartphone,Dell,Wearables,Credit Card,Shipped,7,63625.2,445376.4,4/14/2026,4/15/2026
+Haven Angrock,Caloocan,Camera,Logitech,Accessories,PayPal,Returned,7,33203.38,232423.66,4/4/2026,4/19/2026
+Meg Bleaden,Cebu City,Laptop,Asus,Computers,PayPal,Shipped,8,37024.77,296198.16,4/12/2026,4/9/2026
+Iggy Sisley,Pasig,Laptop,Dell,Audio,Debit Card,Pending,8,31790.7,254325.6,4/21/2026,4/14/2026
+Quintus Van Leeuwen,Makati,Headphones,Sony,Accessories,GCash,Delivered,9,1330.1,11970.9,4/28/2026,5/5/2026
+Ernest Brachell,Manila,Bluetooth Speaker,Sony,Computers,Debit Card,Returned,8,10196.44,81571.52,4/17/2026,4/12/2026
+Judon Rosnau,Caloocan,Power Bank,HP,Audio,PayPal,Returned,9,17893.09,161037.81,4/20/2026,4/14/2026
+Katharyn Hardaway,Davao City,Gaming Console,Logitech,Accessories,Debit Card,Shipped,10,69644.08,696440.8,5/1/2026,4/21/2026
+Gussy Uridge,Quezon City,Bluetooth Speaker,HP,Accessories,Debit Card,Shipped,1,41155.51,41155.51,4/14/2026,4/16/2026
+Ado Beatey,Cebu City,Smartphone,Lenovo,Wearables,GCash,Pending,2,13843.99,27687.98,4/10/2026,4/18/2026
+Marisa Grinstead,Makati,Bluetooth Speaker,Xiaomi,Gaming,Credit Card,Shipped,2,7600.97,15201.94,4/10/2026,4/22/2026
+Lyndsay Haresnaip,Dasmariñas,Headphones,Apple,Mobile Devices,Cash on Delivery,Pending,4,68563.53,274254.12,4/19/2026,5/1/2026
+Gerrie Middlemass,Manila,Smartwatch,Sony,Gaming,GCash,Delivered,5,63620.96,318104.8,4/16/2026,4/13/2026
+Arte Hinckley,Davao City,Camera,Sony,Accessories,Credit Card,Cancelled,4,76343.69,305374.76,4/25/2026,5/6/2026
+Pammi Senter,Makati,Camera,HP,Computers,Cash on Delivery,Delivered,3,23330.55,69991.65,4/22/2026,4/4/2026
+Karrie Helks,Bacoor,Headphones,HP,Computers,PayPal,Cancelled,8,11278.09,90224.72,4/20/2026,4/20/2026
+Kayne Corzon,Pasig,Monitor,Lenovo,Computers,Debit Card,Delivered,3,43546.18,130638.54,4/26/2026,5/2/2026
+Korie Kemston,Manila,Monitor,Asus,Audio,PayPal,Returned,1,61997.95,61997.95,4/19/2026,4/22/2026
+Carmelle Morcombe,Taguig,Gaming Console,Apple,Computers,PayPal,Returned,2,70693.41,141386.82,4/8/2026,4/5/2026
+Remy Grigorini,Pasig,Smartwatch,Xiaomi,Accessories,PayPal,Delivered,6,77850.39,467102.34,4/25/2026,4/26/2026
+Ramon Crackel,Pasig,Power Bank,Apple,Computers,Debit Card,Pending,4,15949.64,63798.56,4/11/2026,4/12/2026
+Iolande Dradey,Dasmariñas,Smartwatch,Lenovo,Audio,GCash,Pending,5,18877.49,94387.45,4/13/2026,4/30/2026
+Pate Voice,Quezon City,Camera,Huawei,Gaming,Cash on Delivery,Delivered,3,26707.0,80121.0,4/29/2026,4/18/2026
+Wayne Benz,Iloilo City,Bluetooth Speaker,Huawei,Accessories,GCash,Returned,4,13272.15,53088.6,4/12/2026,4/7/2026
+Milo Polle,Dasmariñas,Laptop,Lenovo,Accessories,GCash,Cancelled,9,61754.74,555792.66,4/11/2026,4/24/2026
+Cami Wiltsher,Baguio,Gaming Console,Dell,Gaming,Credit Card,Delivered,6,12907.03,77442.18,4/2/2026,4/11/2026
+Blancha Cornborough,Pasig,Tablet,Asus,Accessories,Debit Card,Cancelled,4,32187.94,128751.76,4/10/2026,4/30/2026
+Glory Bruyett,Makati,Laptop,Apple,Computers,GCash,Shipped,3,20295.28,60885.84,4/22/2026,4/12/2026
+Aurelie Scamel,Makati,Bluetooth Speaker,Dell,Computers,GCash,Delivered,5,38074.55,190372.75,4/13/2026,4/29/2026
+Andrej Leyman,Cagayan de Oro,Smartphone,Sony,Audio,GCash,Cancelled,1,42779.66,42779.66,4/30/2026,4/4/2026
+Guenna Pignon,Cebu City,Camera,Xiaomi,Gaming,GCash,Delivered,1,35024.97,35024.97,4/14/2026,5/5/2026
+Trenna Euplate,Quezon City,Monitor,Samsung,Accessories,Debit Card,Cancelled,8,16327.7,130621.6,5/3/2026,4/20/2026
+Freemon Clinton,Taguig,Smartwatch,Asus,Audio,Cash on Delivery,Shipped,7,32142.07,224994.49,5/4/2026,5/3/2026
+Hi Boggis,Iloilo City,Monitor,Xiaomi,Mobile Devices,Credit Card,Returned,8,7204.66,57637.28,4/12/2026,4/25/2026
+Saundra Joselovitch,Baguio,Smartphone,Sony,Computers,Debit Card,Shipped,4,14933.51,59734.04,4/2/2026,5/9/2026
+Linnet D'Hooge,Iloilo City,Monitor,Apple,Wearables,Debit Card,Delivered,10,50231.96,502319.6,4/12/2026,5/4/2026
+Chryste Rastrick,Caloocan,Smartwatch,Xiaomi,Gaming,Debit Card,Returned,4,28945.34,115781.36,4/29/2026,4/21/2026
+Serge Scrowson,Manila,Headphones,Sony,Accessories,GCash,Shipped,9,65478.28,589304.52,4/16/2026,4/8/2026
+Elisa Bearcroft,Davao City,Smartphone,Sony,Accessories,PayPal,Shipped,10,17534.8,175348.0,4/16/2026,4/27/2026
+Hailey Callaway,Pasig,Laptop,Apple,Accessories,Debit Card,Returned,9,68533.21,616798.89,4/8/2026,4/23/2026
+Jeana Redmond,Cebu City,Smartwatch,HP,Wearables,Debit Card,Returned,3,55945.45,167836.35,4/27/2026,4/8/2026
+Guilbert Sprade,Pasig,Tablet,Apple,Gaming,GCash,Cancelled,1,46949.68,46949.68,4/15/2026,5/3/2026
+Towney Newhouse,Antipolo,Laptop,Lenovo,Wearables,Credit Card,Shipped,9,60284.03,542556.27,4/19/2026,4/22/2026
+Jephthah Fountaine,Manila,Headphones,Asus,Wearables,GCash,Pending,10,8394.26,83942.6,4/8/2026,5/1/2026
+Marshal Deam,Dasmariñas,Laptop,Asus,Wearables,GCash,Delivered,2,24002.25,48004.5,4/8/2026,4/17/2026
+Konrad Tretwell,Cagayan de Oro,Gaming Console,Lenovo,Wearables,Cash on Delivery,Pending,1,25540.07,25540.07,4/12/2026,5/8/2026
+Sutherland Saltwell,Iloilo City,Smartwatch,Dell,Gaming,GCash,Pending,2,5553.78,11107.56,4/8/2026,5/7/2026
+Josiah Lowdeane,Bacoor,Smartwatch,Apple,Computers,PayPal,Cancelled,9,11463.38,103170.42,4/5/2026,4/29/2026
+Mateo Rubens,Antipolo,Camera,Huawei,Gaming,Cash on Delivery,Shipped,3,66719.04,200157.12,4/24/2026,4/7/2026
+Brodie Malsher,Makati,Smartwatch,Dell,Gaming,Cash on Delivery,Shipped,7,47387.16,331710.12,4/24/2026,4/4/2026
+Kevina Detheridge,Taguig,Power Bank,Lenovo,Mobile Devices,Credit Card,Cancelled,4,50423.7,201694.8,4/26/2026,5/6/2026
+Gian Hunnicutt,Antipolo,Tablet,Sony,Audio,Cash on Delivery,Pending,4,37130.57,148522.28,4/18/2026,4/30/2026
+Winny Rubury,Bacoor,Gaming Console,Logitech,Computers,PayPal,Shipped,4,16408.18,65632.72,4/11/2026,4/4/2026
+Abeu Errichelli,Davao City,Headphones,Xiaomi,Audio,GCash,Returned,3,11873.08,35619.24,4/2/2026,4/27/2026
+Conan Mickleburgh,Manila,Gaming Console,Huawei,Accessories,Credit Card,Shipped,7,1222.25,8555.75,4/5/2026,4/22/2026
+Aimil Shearme,Makati,Gaming Console,Dell,Accessories,Cash on Delivery,Shipped,6,33943.2,203659.2,4/6/2026,4/6/2026
+Ketty Rabbatts,Cagayan de Oro,Camera,Huawei,Audio,Credit Card,Shipped,4,59283.73,237134.92,4/7/2026,5/4/2026
+Cameron Byard,Caloocan,Bluetooth Speaker,Xiaomi,Gaming,Debit Card,Shipped,4,35946.31,143785.24,4/11/2026,4/15/2026
+Nonna Girk,Cebu City,Smartwatch,Dell,Gaming,Debit Card,Cancelled,7,20519.28,143634.96,4/23/2026,5/3/2026
+Stanislas Farbrother,Quezon City,Bluetooth Speaker,HP,Wearables,Debit Card,Shipped,2,20342.43,40684.86,4/20/2026,4/22/2026
+Randy Domke,Iloilo City,Tablet,Samsung,Wearables,GCash,Returned,8,24192.68,193541.44,4/22/2026,5/9/2026
+Boy Wheelband,Quezon City,Camera,Dell,Wearables,Cash on Delivery,Shipped,3,26276.7,78830.1,4/18/2026,4/22/2026
+Gertruda Guage,Dasmariñas,Headphones,Sony,Accessories,Credit Card,Pending,7,66244.4,463710.8,4/17/2026,4/16/2026
+Marlie Cannan,Manila,Smartphone,Dell,Wearables,GCash,Shipped,7,7987.87,55915.09,4/17/2026,4/27/2026
+Janot Cordeix,Davao City,Headphones,Xiaomi,Gaming,PayPal,Delivered,9,55850.86,502657.74,4/3/2026,4/26/2026
+Corbet Banaszkiewicz,Davao City,Tablet,Apple,Mobile Devices,GCash,Pending,1,820.4,820.4,4/26/2026,4/26/2026
+Gretna Walles,Cebu City,Tablet,Huawei,Computers,GCash,Returned,9,22899.09,206091.81,5/1/2026,4/11/2026
+Isaak Barrable,Bacoor,Smartphone,Lenovo,Computers,PayPal,Returned,3,61878.93,185636.79,4/14/2026,4/15/2026
+Nichol Pilley,Antipolo,Smartwatch,Asus,Mobile Devices,GCash,Returned,6,27103.18,162619.08,4/10/2026,5/2/2026
+Ede Grocutt,Pasig,Camera,Asus,Mobile Devices,Debit Card,Shipped,8,19633.98,157071.84,4/11/2026,4/19/2026
+Derek Jimenez,Iloilo City,Monitor,Dell,Wearables,Credit Card,Pending,6,67027.25,402163.5,5/1/2026,4/13/2026
+Sonny Piens,Baguio,Smartphone,HP,Accessories,Cash on Delivery,Shipped,8,20737.51,165900.08,4/9/2026,4/14/2026
+Anderea Leach,Baguio,Laptop,Samsung,Audio,Debit Card,Delivered,6,29362.32,176173.92,4/24/2026,4/19/2026
+Bastian Cumber,Baguio,Smartwatch,HP,Audio,Debit Card,Pending,6,68847.55,413085.3,4/15/2026,4/11/2026
+Aili Taggerty,Taguig,Smartwatch,Xiaomi,Mobile Devices,Cash on Delivery,Pending,8,25219.62,201756.96,4/9/2026,5/8/2026
+Crin Venard,Makati,Bluetooth Speaker,Asus,Gaming,Credit Card,Delivered,9,60761.75,546855.75,4/19/2026,4/13/2026
+Kathy Simkovitz,Quezon City,Monitor,Apple,Audio,PayPal,Cancelled,7,12842.54,89897.78,4/22/2026,4/4/2026
+Prince O' Dooley,Pasig,Smartphone,Samsung,Accessories,PayPal,Cancelled,10,25526.09,255260.9,5/3/2026,4/20/2026
+Trip Tindle,Cagayan de Oro,Tablet,Lenovo,Mobile Devices,GCash,Cancelled,7,19219.83,134538.81,4/8/2026,4/30/2026
+Nicola Fishbourn,Taguig,Headphones,Xiaomi,Mobile Devices,Credit Card,Cancelled,6,30017.92,180107.52,4/22/2026,5/5/2026
+Parry Coytes,Davao City,Monitor,Sony,Mobile Devices,Debit Card,Cancelled,8,46732.93,373863.44,4/27/2026,4/7/2026
+Teodorico Mattea,Quezon City,Tablet,HP,Gaming,Debit Card,Pending,3,70278.3,210834.9,4/1/2026,4/7/2026
+Clemmy Parradice,Pasig,Camera,Sony,Accessories,PayPal,Pending,7,26794.3,187560.1,4/26/2026,4/10/2026
+Twila Blincoe,Taguig,Power Bank,HP,Audio,PayPal,Returned,10,11482.63,114826.3,4/26/2026,4/25/2026
+Hayward Cheake,Davao City,Camera,Dell,Wearables,Cash on Delivery,Returned,3,55330.08,165990.24,4/28/2026,4/10/2026
+Virginia Corbin,Makati,Smartwatch,HP,Audio,Cash on Delivery,Delivered,4,40983.63,163934.52,4/13/2026,5/2/2026
+Sarina Sprowles,Davao City,Gaming Console,Apple,Computers,Debit Card,Delivered,9,66684.33,600158.97,4/23/2026,4/28/2026
+Corly Illsley,Cagayan de Oro,Headphones,Lenovo,Computers,Cash on Delivery,Pending,1,61744.23,61744.23,4/29/2026,4/13/2026
+Sally Haddy,Cagayan de Oro,Tablet,HP,Accessories,Credit Card,Shipped,6,16562.63,99375.78,4/6/2026,4/8/2026
+Cassondra Gracewood,Manila,Smartwatch,Sony,Mobile Devices,PayPal,Returned,2,37522.72,75045.44,4/2/2026,5/9/2026
+Morganica Drewery,Taguig,Camera,Dell,Accessories,GCash,Shipped,1,60783.97,60783.97,4/17/2026,4/7/2026
+Lothario Duke,Pasig,Bluetooth Speaker,Lenovo,Mobile Devices,Credit Card,Delivered,10,18707.84,187078.4,4/27/2026,4/27/2026
+Kevyn Lorkings,Antipolo,Power Bank,Lenovo,Accessories,GCash,Returned,7,22015.28,154106.96,4/30/2026,4/28/2026
+Selena Segges,Makati,Laptop,Huawei,Audio,Credit Card,Shipped,6,51546.82,309280.92,4/21/2026,4/12/2026
+Sandra Ledstone,Taguig,Gaming Console,Dell,Accessories,Cash on Delivery,Returned,6,23175.33,139051.98,4/6/2026,4/5/2026
+Elias Skevington,Dasmariñas,Bluetooth Speaker,HP,Accessories,GCash,Returned,7,39103.75,273726.25,4/15/2026,5/7/2026
+Chiquia Abeau,Antipolo,Gaming Console,Asus,Wearables,Credit Card,Returned,3,76733.85,230201.55,4/8/2026,4/18/2026
+Rich Yellep,Cebu City,Smartphone,Asus,Computers,Credit Card,Pending,9,57329.72,515967.48,4/9/2026,4/12/2026
+Kev Wernher,Makati,Monitor,Samsung,Audio,GCash,Shipped,10,29801.5,298015.0,5/3/2026,4/11/2026
+Eadith Haskett,Iloilo City,Camera,Lenovo,Accessories,GCash,Shipped,2,1103.17,2206.34,4/18/2026,4/10/2026
+Cam Demangeot,Cagayan de Oro,Gaming Console,Samsung,Gaming,Credit Card,Delivered,9,9468.94,85220.46,4/7/2026,5/8/2026
+Kalinda Thebeaud,Manila,Monitor,Lenovo,Gaming,PayPal,Cancelled,2,75812.91,151625.82,4/1/2026,4/22/2026
+Ruprecht Clair,Dasmariñas,Smartphone,Xiaomi,Audio,Cash on Delivery,Returned,7,58881.19,412168.33,5/4/2026,5/4/2026
+Yetty Corker,Makati,Bluetooth Speaker,HP,Accessories,Cash on Delivery,Cancelled,3,21348.04,64044.12,4/1/2026,4/26/2026
+Aggi Balsillie,Makati,Camera,Dell,Accessories,Credit Card,Shipped,6,36623.04,219738.24,4/30/2026,4/27/2026
+Pegeen Corby,Cebu City,Headphones,HP,Computers,PayPal,Returned,2,4159.11,8318.22,5/4/2026,4/28/2026
+Rena Imos,Baguio,Tablet,Xiaomi,Mobile Devices,GCash,Cancelled,5,72940.46,364702.3,4/14/2026,4/11/2026
+Viviana Bamford,Bacoor,Tablet,Samsung,Computers,Credit Card,Pending,9,29472.78,265255.02,5/4/2026,5/9/2026
+Marlee Eliff,Quezon City,Tablet,Lenovo,Gaming,Cash on Delivery,Shipped,1,20444.15,20444.15,4/10/2026,4/16/2026
+Harmonia Berthome,Quezon City,Tablet,Huawei,Mobile Devices,GCash,Cancelled,2,17810.59,35621.18,4/3/2026,4/20/2026
+Dannie Hugli,Dasmariñas,Bluetooth Speaker,Huawei,Audio,PayPal,Shipped,4,5835.22,23340.88,4/10/2026,4/27/2026
+Heda Feeney,Cagayan de Oro,Power Bank,Xiaomi,Mobile Devices,GCash,Pending,8,6296.99,50375.92,4/6/2026,5/7/2026
+Pammy Inold,Quezon City,Laptop,HP,Wearables,GCash,Returned,6,54963.81,329782.86,4/4/2026,4/22/2026
+Jeanette Pearcehouse,Davao City,Bluetooth Speaker,Dell,Computers,PayPal,Pending,9,57886.09,520974.81,4/17/2026,4/28/2026
+Kristal Bowbrick,Pasig,Monitor,Asus,Computers,Cash on Delivery,Returned,5,49333.82,246669.1,4/11/2026,4/11/2026
+Candis Heinl,Cebu City,Bluetooth Speaker,Lenovo,Audio,Debit Card,Returned,10,20546.69,205466.9,4/28/2026,4/15/2026
+Burg Caulwell,Bacoor,Monitor,Lenovo,Computers,PayPal,Returned,8,30942.09,247536.72,4/8/2026,4/10/2026
+Lorne Caulwell,Caloocan,Laptop,Sony,Audio,Debit Card,Delivered,2,72235.54,144471.08,4/3/2026,5/7/2026
+Dorthy Thundercliffe,Quezon City,Gaming Console,Lenovo,Mobile Devices,Debit Card,Delivered,9,30610.63,275495.67,4/13/2026,5/4/2026
+Zarah Wulfinger,Taguig,Camera,Xiaomi,Accessories,Debit Card,Returned,8,21393.32,171146.56,5/4/2026,5/5/2026
+Baron Corsor,Cagayan de Oro,Bluetooth Speaker,Xiaomi,Accessories,GCash,Returned,6,38631.93,231791.58,4/15/2026,4/16/2026
+Gaye Gilroy,Baguio,Monitor,HP,Gaming,PayPal,Returned,2,77996.4,155992.8,4/15/2026,4/13/2026
+Anetta Bolesworth,Cagayan de Oro,Smartphone,Asus,Gaming,PayPal,Shipped,8,1122.37,8978.96,4/8/2026,4/28/2026
+Khalil Blackburn,Quezon City,Smartphone,Logitech,Wearables,PayPal,Cancelled,8,35947.03,287576.24,4/1/2026,5/8/2026
+Harriet Carlaw,Cagayan de Oro,Smartwatch,Xiaomi,Wearables,Credit Card,Pending,8,47246.22,377969.76,4/3/2026,5/9/2026
+Cale Averies,Baguio,Power Bank,Xiaomi,Accessories,GCash,Delivered,9,20221.28,181991.52,4/2/2026,4/23/2026
+Melloney Assaf,Davao City,Headphones,Dell,Accessories,GCash,Cancelled,10,21446.46,214464.6,4/28/2026,4/19/2026
+Wade Castle,Cebu City,Monitor,Huawei,Mobile Devices,GCash,Pending,3,17167.1,51501.3,4/14/2026,4/19/2026
+Thebault McKeighan,Iloilo City,Power Bank,Huawei,Wearables,PayPal,Shipped,5,63859.54,319297.7,4/3/2026,4/24/2026
+Roi Skynner,Antipolo,Camera,HP,Wearables,PayPal,Returned,6,10910.15,65460.9,4/19/2026,5/3/2026
+Chandler Lowbridge,Antipolo,Monitor,Samsung,Accessories,Debit Card,Delivered,3,73509.04,220527.12,4/11/2026,4/27/2026
+Ezequiel Deelay,Baguio,Smartwatch,Lenovo,Accessories,Cash on Delivery,Shipped,2,14546.0,29092.0,4/28/2026,4/10/2026
+Patricio Warbys,Dasmariñas,Tablet,Lenovo,Gaming,Credit Card,Delivered,3,25624.64,76873.92,4/29/2026,4/20/2026
+Doreen Glasspoole,Davao City,Smartphone,HP,Wearables,Credit Card,Shipped,4,34736.67,138946.68,4/12/2026,4/24/2026
+Rodge Eustice,Manila,Smartwatch,Apple,Gaming,GCash,Delivered,9,72946.87,656521.83,5/4/2026,4/30/2026
+Mal Igoe,Quezon City,Gaming Console,Huawei,Accessories,Credit Card,Returned,8,12257.99,98063.92,4/30/2026,4/20/2026
+Bailey Liles,Caloocan,Gaming Console,Samsung,Audio,PayPal,Cancelled,8,39462.11,315696.88,4/17/2026,5/8/2026
+Findlay Birks,Quezon City,Smartphone,Sony,Computers,Cash on Delivery,Pending,3,16396.19,49188.57,5/3/2026,4/13/2026
+Hunfredo Llywarch,Bacoor,Headphones,Dell,Computers,PayPal,Cancelled,2,65623.5,131247.0,5/4/2026,4/13/2026
+Farly Rist,Taguig,Smartwatch,Apple,Audio,PayPal,Returned,4,79284.69,317138.76,4/17/2026,4/28/2026
+Inessa Thoresby,Manila,Smartwatch,Dell,Mobile Devices,Debit Card,Shipped,10,27825.91,278259.1,4/2/2026,4/25/2026
+Elinore Doge,Iloilo City,Gaming Console,HP,Audio,GCash,Returned,5,37476.22,187381.1,4/15/2026,5/2/2026
+Dermot Breewood,Taguig,Power Bank,Samsung,Mobile Devices,Cash on Delivery,Cancelled,10,68180.03,681800.3,4/7/2026,5/4/2026
+Jeremy Giddings,Iloilo City,Gaming Console,HP,Gaming,PayPal,Delivered,10,71586.53,715865.3,4/26/2026,4/8/2026
+Tybi Danilyuk,Bacoor,Monitor,Lenovo,Audio,Credit Card,Shipped,1,6891.62,6891.62,4/5/2026,5/6/2026
+Trevar O'Cannan,Davao City,Smartwatch,Apple,Gaming,PayPal,Pending,2,18474.82,36949.64,4/21/2026,4/20/2026
+Opaline Snoddy,Cebu City,Power Bank,Dell,Accessories,Cash on Delivery,Delivered,7,4807.26,33650.82,4/8/2026,4/16/2026
+Stirling Needham,Bacoor,Smartphone,Lenovo,Mobile Devices,Credit Card,Cancelled,6,47582.55,285495.3,4/6/2026,4/29/2026
+Aldin Hungerford,Davao City,Tablet,Sony,Computers,Credit Card,Cancelled,8,45121.98,360975.84,4/15/2026,4/5/2026
+Marshall Abelevitz,Cebu City,Bluetooth Speaker,Sony,Mobile Devices,Credit Card,Shipped,8,59159.12,473272.96,4/10/2026,4/15/2026
+Lavena Syme,Caloocan,Smartphone,Dell,Wearables,Cash on Delivery,Delivered,4,24286.19,97144.76,4/27/2026,4/7/2026
+Ricki Sedgmond,Antipolo,Camera,Sony,Audio,GCash,Cancelled,10,1646.21,16462.1,4/19/2026,4/27/2026
+Cherilyn Eckford,Cagayan de Oro,Gaming Console,Lenovo,Mobile Devices,Cash on Delivery,Cancelled,8,11233.97,89871.76,5/2/2026,5/5/2026
+Sascha Veeler,Antipolo,Tablet,Lenovo,Wearables,PayPal,Cancelled,1,34793.16,34793.16,4/9/2026,4/30/2026
+Koressa Stobbe,Bacoor,Gaming Console,Logitech,Gaming,Debit Card,Shipped,9,30700.38,276303.42,4/27/2026,4/22/2026
+Torr Nobbs,Bacoor,Laptop,Lenovo,Wearables,Debit Card,Shipped,2,3885.73,7771.46,4/21/2026,4/5/2026
+Waldo Pickrell,Iloilo City,Smartwatch,HP,Wearables,Debit Card,Shipped,8,75014.62,600116.96,4/11/2026,4/18/2026
+Beatriz Nucator,Manila,Power Bank,Xiaomi,Wearables,Credit Card,Cancelled,3,51213.68,153641.04,4/27/2026,4/25/2026
+Jobyna Sidwell,Manila,Smartphone,Lenovo,Audio,Debit Card,Returned,7,27874.64,195122.48,4/27/2026,5/7/2026
+Clem Fogden,Iloilo City,Camera,Lenovo,Wearables,GCash,Delivered,5,67346.83,336734.15,4/23/2026,4/23/2026
+Giulio O'Codihie,Cagayan de Oro,Headphones,Huawei,Gaming,GCash,Cancelled,1,71797.03,71797.03,4/25/2026,5/8/2026
+Bernetta Cubley,Quezon City,Laptop,Samsung,Computers,Cash on Delivery,Returned,8,77524.14,620193.12,4/8/2026,4/15/2026
+Rustin Semiraz,Caloocan,Tablet,Samsung,Wearables,PayPal,Cancelled,5,18761.85,93809.25,4/10/2026,5/6/2026
+Catha Quadling,Baguio,Bluetooth Speaker,HP,Mobile Devices,Credit Card,Cancelled,7,16925.39,118477.73,4/23/2026,5/2/2026
+Fancy Dagless,Caloocan,Bluetooth Speaker,Logitech,Accessories,GCash,Shipped,5,57396.68,286983.4,5/2/2026,4/12/2026
+Kissie Dunsmore,Dasmariñas,Bluetooth Speaker,Huawei,Mobile Devices,PayPal,Pending,2,3819.81,7639.62,4/6/2026,4/10/2026
+Paton Dolling,Davao City,Gaming Console,Lenovo,Computers,Credit Card,Shipped,1,40396.83,40396.83,4/28/2026,5/3/2026
+Steve Llop,Taguig,Camera,Huawei,Mobile Devices,Debit Card,Pending,6,68380.34,410282.04,4/30/2026,5/6/2026
+Ancell Chiplin,Cebu City,Smartwatch,HP,Wearables,GCash,Delivered,10,21918.72,219187.2,4/3/2026,4/24/2026
+Katrine Sket,Davao City,Tablet,Xiaomi,Computers,PayPal,Delivered,6,57803.25,346819.5,4/11/2026,4/20/2026
+Gretta Chancellor,Manila,Smartwatch,Apple,Computers,Credit Card,Returned,4,47747.72,190990.88,5/1/2026,5/1/2026
+Kaspar Starmer,Quezon City,Monitor,Asus,Computers,GCash,Pending,9,64132.8,577195.2,4/4/2026,5/6/2026
+Ulrick Popworth,Dasmariñas,Power Bank,Logitech,Audio,Cash on Delivery,Shipped,8,35993.61,287948.88,4/17/2026,4/20/2026
+Brenden Pilipyak,Cebu City,Camera,Xiaomi,Mobile Devices,Credit Card,Cancelled,6,32992.18,197953.08,4/12/2026,5/3/2026
+Thea Devorill,Manila,Power Bank,Dell,Audio,PayPal,Shipped,8,7224.36,57794.88,4/9/2026,5/5/2026
+Desiri Tidbold,Bacoor,Headphones,Dell,Wearables,Debit Card,Pending,1,44232.64,44232.64,4/16/2026,4/9/2026
+Karissa Salvatore,Makati,Tablet,Samsung,Gaming,PayPal,Delivered,2,9226.91,18453.82,4/2/2026,5/5/2026
+Shawn Rumbold,Bacoor,Smartwatch,Logitech,Computers,GCash,Pending,10,26785.55,267855.5,4/20/2026,4/30/2026
+Codie Bulman,Caloocan,Power Bank,Xiaomi,Computers,GCash,Pending,7,56802.76,397619.32,4/8/2026,4/26/2026
+Eugene Ruxton,Manila,Power Bank,Dell,Gaming,Credit Card,Shipped,9,29125.94,262133.46,4/22/2026,4/14/2026
+Marleen Leetham,Pasig,Smartwatch,Apple,Accessories,PayPal,Pending,5,78262.27,391311.35,4/6/2026,5/8/2026
+Lily Persehouse,Quezon City,Bluetooth Speaker,Asus,Wearables,GCash,Delivered,6,47753.07,286518.42,4/18/2026,4/16/2026
+Broddy Gaddas,Davao City,Tablet,Xiaomi,Audio,Credit Card,Cancelled,5,24554.6,122773.0,4/9/2026,5/9/2026
+Mechelle Cobello,Iloilo City,Tablet,Sony,Wearables,Credit Card,Shipped,8,47856.01,382848.08,4/5/2026,4/10/2026
+Wanids Dumphries,Makati,Laptop,Samsung,Audio,PayPal,Shipped,9,48832.62,439493.58,4/1/2026,4/11/2026
+Preston Danilenko,Antipolo,Tablet,Sony,Mobile Devices,Credit Card,Cancelled,2,53452.44,106904.88,4/7/2026,4/5/2026
+Conway Burtenshaw,Iloilo City,Power Bank,HP,Audio,Debit Card,Pending,3,63341.13,190023.39,4/14/2026,4/12/2026
+Antonino Scrancher,Cagayan de Oro,Power Bank,Logitech,Audio,PayPal,Pending,7,26687.55,186812.85,4/18/2026,4/23/2026
+Bax Melanaphy,Caloocan,Headphones,Huawei,Wearables,Cash on Delivery,Pending,9,63393.8,570544.2,4/24/2026,5/8/2026
+Nels Ollerhead,Taguig,Gaming Console,Samsung,Audio,Cash on Delivery,Shipped,3,36836.67,110510.01,4/10/2026,4/12/2026
+Carlin Priestman,Cagayan de Oro,Smartwatch,Asus,Gaming,GCash,Delivered,10,30166.04,301660.4,4/8/2026,5/8/2026
+Ilario Storey,Baguio,Bluetooth Speaker,Asus,Audio,Cash on Delivery,Delivered,6,56251.37,337508.22,4/17/2026,4/14/2026
+Mandy Godbolt,Taguig,Bluetooth Speaker,Apple,Accessories,PayPal,Delivered,10,69260.54,692605.4,4/29/2026,4/6/2026
+Averyl Pallis,Cagayan de Oro,Bluetooth Speaker,HP,Computers,GCash,Delivered,1,26585.6,26585.6,4/30/2026,4/12/2026
+Georgiana Netti,Taguig,Smartwatch,Xiaomi,Gaming,PayPal,Delivered,8,48346.61,386772.88,4/10/2026,4/23/2026
+Casey Loges,Bacoor,Bluetooth Speaker,Asus,Computers,Credit Card,Shipped,8,46521.74,372173.92,4/25/2026,5/8/2026
+Burtie Jerred,Taguig,Gaming Console,Huawei,Audio,PayPal,Pending,10,1778.37,17783.7,4/29/2026,4/8/2026
+Tripp Durnell,Caloocan,Monitor,Sony,Audio,Debit Card,Pending,8,2112.1,16896.8,4/10/2026,4/8/2026
+Melonie Kemm,Manila,Tablet,Samsung,Accessories,Debit Card,Delivered,2,12331.4,24662.8,4/22/2026,4/24/2026
+Bald Matskiv,Iloilo City,Tablet,Lenovo,Computers,Debit Card,Shipped,2,19851.61,39703.22,4/20/2026,4/5/2026
+Devan O'Docherty,Iloilo City,Smartphone,HP,Mobile Devices,PayPal,Returned,5,73009.55,365047.75,4/26/2026,4/6/2026
+Gwenore Vaines,Baguio,Laptop,HP,Computers,GCash,Shipped,4,54539.2,218156.8,4/8/2026,4/4/2026
+Bogey Tommei,Makati,Bluetooth Speaker,Dell,Accessories,GCash,Delivered,2,4761.4,9522.8,5/4/2026,4/30/2026
+Archibald Crauford,Cebu City,Camera,Asus,Accessories,Cash on Delivery,Shipped,5,13301.3,66506.5,5/3/2026,4/12/2026
+Kristofer Prantoni,Davao City,Camera,Lenovo,Audio,Credit Card,Delivered,2,2224.96,4449.92,4/27/2026,4/15/2026
+Adara Bewick,Dasmariñas,Smartphone,Xiaomi,Mobile Devices,GCash,Cancelled,7,47583.17,333082.19,4/11/2026,4/20/2026
+Jarrad McDuffy,Bacoor,Tablet,Lenovo,Computers,Cash on Delivery,Returned,2,8163.9,16327.8,4/9/2026,4/12/2026
+Wakefield Celes,Iloilo City,Gaming Console,Logitech,Audio,GCash,Returned,10,51489.95,514899.5,4/18/2026,4/9/2026
+Tibold Gerholz,Iloilo City,Smartwatch,Huawei,Mobile Devices,GCash,Returned,1,65848.67,65848.67,4/11/2026,4/26/2026
+Beniamino Pepall,Pasig,Headphones,Sony,Computers,PayPal,Returned,9,13113.42,118020.78,4/1/2026,4/24/2026
+Cesaro McQuilkin,Quezon City,Tablet,Huawei,Wearables,GCash,Pending,7,78540.39,549782.73,4/23/2026,5/1/2026
+Brooke Drohan,Makati,Tablet,Dell,Computers,Cash on Delivery,Cancelled,8,41514.33,332114.64,4/27/2026,4/18/2026
+Elmer Crowne,Davao City,Smartwatch,Xiaomi,Gaming,GCash,Cancelled,5,72008.41,360042.05,4/12/2026,4/23/2026
+Niles Rutland,Dasmariñas,Headphones,Xiaomi,Wearables,Debit Card,Returned,10,51843.26,518432.6,4/18/2026,4/23/2026
+Kirby Rois,Baguio,Laptop,Sony,Computers,Cash on Delivery,Cancelled,9,12516.63,112649.67,4/26/2026,4/6/2026
+Sean Kermon,Davao City,Gaming Console,Logitech,Audio,Cash on Delivery,Returned,7,6898.97,48292.79,4/14/2026,5/4/2026
+Meredithe Valerius,Cebu City,Bluetooth Speaker,Xiaomi,Gaming,Debit Card,Returned,10,27477.3,274773.0,4/3/2026,4/30/2026
+Lizette Everil,Quezon City,Tablet,Dell,Gaming,Cash on Delivery,Delivered,8,17408.71,139269.68,4/13/2026,5/2/2026
+Palm Milbourn,Iloilo City,Power Bank,Sony,Audio,Cash on Delivery,Returned,9,68330.11,614970.99,4/20/2026,5/4/2026
+Kassey Hardie,Cagayan de Oro,Monitor,Dell,Computers,Debit Card,Shipped,10,56210.43,562104.3,4/18/2026,4/28/2026
+Walt Bettles,Cagayan de Oro,Laptop,Dell,Computers,GCash,Shipped,7,54766.09,383362.63,5/1/2026,4/21/2026
+Lori Leaming,Cebu City,Power Bank,Lenovo,Mobile Devices,Cash on Delivery,Delivered,2,39820.73,79641.46,4/25/2026,5/5/2026
+Ramsay Toplis,Dasmariñas,Headphones,Lenovo,Computers,PayPal,Delivered,6,31440.87,188645.22,5/2/2026,4/8/2026
+Louella Glendining,Iloilo City,Gaming Console,Sony,Accessories,GCash,Shipped,5,10857.66,54288.3,4/22/2026,5/1/2026
+Chere Taveriner,Taguig,Bluetooth Speaker,Sony,Computers,PayPal,Returned,8,1969.69,15757.52,4/10/2026,4/5/2026
+Francyne Eccott,Caloocan,Laptop,Asus,Wearables,GCash,Returned,9,49578.08,446202.72,4/26/2026,4/9/2026
+Burt Lickorish,Manila,Gaming Console,Sony,Accessories,Debit Card,Cancelled,7,4199.54,29396.78,4/25/2026,4/7/2026
+Calley Vaskin,Baguio,Smartphone,Dell,Audio,Credit Card,Delivered,3,66350.56,199051.68,4/3/2026,4/4/2026
+Ivonne Footitt,Baguio,Gaming Console,Dell,Wearables,Cash on Delivery,Cancelled,2,6672.17,13344.34,4/20/2026,4/22/2026
+Merry Parmeter,Makati,Bluetooth Speaker,Asus,Audio,Debit Card,Delivered,10,26820.9,268209.0,4/27/2026,4/24/2026
+Gwen Waylen,Cebu City,Bluetooth Speaker,Samsung,Gaming,Credit Card,Shipped,2,65093.97,130187.94,4/13/2026,5/5/2026
+Algernon Rillatt,Cebu City,Bluetooth Speaker,Lenovo,Wearables,PayPal,Pending,3,24335.96,73007.88,4/9/2026,4/23/2026
+Mary Shirtliff,Iloilo City,Smartwatch,Apple,Mobile Devices,PayPal,Shipped,2,793.04,1586.08,4/18/2026,4/20/2026
+Sunshine Jakubovicz,Cagayan de Oro,Laptop,Dell,Wearables,PayPal,Pending,4,76181.71,304726.84,4/9/2026,4/9/2026
+Cal Trussler,Antipolo,Tablet,Xiaomi,Audio,PayPal,Shipped,1,39569.08,39569.08,4/12/2026,4/20/2026
+Rockey Coppledike,Antipolo,Bluetooth Speaker,HP,Gaming,PayPal,Returned,4,57790.8,231163.2,4/1/2026,4/10/2026
+Martguerita Coarser,Baguio,Gaming Console,Sony,Wearables,PayPal,Cancelled,9,22431.65,201884.85,4/1/2026,4/23/2026
+Ricky Streeting,Davao City,Laptop,HP,Wearables,Cash on Delivery,Returned,1,9189.41,9189.41,4/2/2026,4/25/2026
+Walden di Rocca,Davao City,Gaming Console,HP,Audio,Credit Card,Cancelled,10,47507.17,475071.7,4/29/2026,4/19/2026
+Hedwig Astie,Davao City,Headphones,HP,Computers,Credit Card,Pending,9,30117.4,271056.6,4/16/2026,4/4/2026
+Mela Manilo,Iloilo City,Gaming Console,Huawei,Mobile Devices,PayPal,Shipped,7,73671.5,515700.5,4/17/2026,4/7/2026
+Vanda Flewin,Cagayan de Oro,Monitor,Logitech,Gaming,PayPal,Shipped,1,45177.87,45177.87,4/28/2026,4/17/2026
+Tobit Fitzpatrick,Bacoor,Headphones,Apple,Computers,Cash on Delivery,Cancelled,5,29664.77,148323.85,4/29/2026,4/9/2026
+Janeva Rushsorth,Davao City,Monitor,Sony,Gaming,PayPal,Shipped,6,47251.99,283511.94,4/27/2026,4/29/2026
+Ofilia Kulic,Antipolo,Smartwatch,Dell,Mobile Devices,Debit Card,Pending,10,72228.54,722285.4,4/19/2026,4/10/2026
+Kimmi Crawford,Manila,Gaming Console,Xiaomi,Mobile Devices,Credit Card,Delivered,9,50798.05,457182.45,4/22/2026,4/30/2026
+Doralia Leal,Cagayan de Oro,Smartwatch,Asus,Audio,PayPal,Delivered,8,75070.84,600566.72,4/28/2026,5/8/2026
+Elfreda Kybbye,Iloilo City,Smartwatch,HP,Accessories,Cash on Delivery,Returned,9,6180.59,55625.31,4/7/2026,4/10/2026
+Ambrose Limon,Antipolo,Gaming Console,Apple,Accessories,Cash on Delivery,Returned,8,64795.47,518363.76,4/22/2026,4/9/2026
+Car Dablin,Makati,Monitor,Dell,Accessories,Debit Card,Returned,4,51238.38,204953.52,4/7/2026,4/17/2026
+Bradney Kelk,Iloilo City,Tablet,Lenovo,Accessories,PayPal,Shipped,2,18651.73,37303.46,4/30/2026,4/9/2026
+Melinda Mashro,Manila,Smartphone,Lenovo,Computers,Debit Card,Shipped,1,64087.7,64087.7,4/9/2026,5/2/2026
+Roselle Bellord,Pasig,Tablet,Samsung,Wearables,Credit Card,Pending,2,6115.44,12230.88,4/14/2026,4/16/2026
+Calli Gabey,Pasig,Headphones,Huawei,Mobile Devices,PayPal,Cancelled,1,21829.23,21829.23,4/15/2026,4/5/2026
+Suzette Greenough,Quezon City,Smartphone,Apple,Computers,Cash on Delivery,Returned,9,69836.39,628527.51,4/10/2026,5/2/2026
+Myer Rennolds,Iloilo City,Monitor,Dell,Mobile Devices,Credit Card,Returned,2,30234.62,60469.24,4/1/2026,4/14/2026
+Katinka Broxap,Pasig,Camera,Huawei,Mobile Devices,GCash,Shipped,2,23306.47,46612.94,5/2/2026,5/3/2026
+Robinet Geraudy,Caloocan,Gaming Console,Huawei,Gaming,Credit Card,Delivered,2,18185.13,36370.26,4/1/2026,5/4/2026
+Chrissie Renault,Cagayan de Oro,Smartwatch,Samsung,Wearables,GCash,Shipped,1,3015.96,3015.96,4/8/2026,4/30/2026
+Nixie Gofford,Makati,Headphones,Samsung,Mobile Devices,Cash on Delivery,Pending,4,58958.4,235833.6,4/9/2026,4/25/2026
+Dionysus Maseres,Makati,Tablet,HP,Gaming,Debit Card,Shipped,1,78939.74,78939.74,4/12/2026,4/9/2026
+Leoline Fer,Davao City,Monitor,Sony,Computers,PayPal,Delivered,8,24499.42,195995.36,4/3/2026,4/16/2026
+Anabal McGahey,Iloilo City,Laptop,HP,Wearables,Credit Card,Shipped,5,10196.51,50982.55,4/23/2026,4/26/2026
+Trudey Drakard,Cagayan de Oro,Monitor,Lenovo,Audio,Credit Card,Shipped,7,64377.07,450639.49,4/27/2026,4/13/2026
+Earl Wackly,Cebu City,Smartphone,Apple,Audio,GCash,Returned,5,26702.5,133512.5,4/8/2026,4/9/2026
+Karena Burbage,Iloilo City,Camera,Logitech,Computers,Debit Card,Cancelled,3,57059.87,171179.61,4/3/2026,4/15/2026
+Doralin Corck,Iloilo City,Gaming Console,Lenovo,Mobile Devices,GCash,Shipped,6,31245.87,187475.22,4/9/2026,4/8/2026
+Kary Inett,Antipolo,Headphones,HP,Computers,GCash,Cancelled,8,8192.57,65540.56,4/25/2026,4/29/2026
+Melonie Gahan,Dasmariñas,Camera,Dell,Accessories,Debit Card,Shipped,10,73206.2,732062.0,4/17/2026,4/17/2026
+Remy Egle,Davao City,Smartwatch,Asus,Accessories,PayPal,Delivered,2,23003.38,46006.76,4/8/2026,5/5/2026
+Julietta Dorrity,Manila,Smartphone,Samsung,Mobile Devices,GCash,Delivered,1,33816.66,33816.66,4/1/2026,5/7/2026
+Rikki Rizzolo,Cagayan de Oro,Tablet,Lenovo,Accessories,PayPal,Returned,10,52519.25,525192.5,4/9/2026,4/21/2026
+Nanci Cometto,Makati,Laptop,Dell,Computers,PayPal,Returned,7,39191.23,274338.61,5/2/2026,4/6/2026
+Edsel Rue,Cagayan de Oro,Smartphone,Xiaomi,Wearables,PayPal,Returned,3,30930.14,92790.42,4/20/2026,4/8/2026
+Thorny Rillatt,Dasmariñas,Power Bank,Sony,Computers,Debit Card,Cancelled,4,16871.21,67484.84,4/3/2026,4/21/2026
+Bryon Hoffmann,Caloocan,Headphones,Apple,Audio,Cash on Delivery,Delivered,3,20092.2,60276.6,4/22/2026,4/5/2026
+Reuben Peedell,Antipolo,Bluetooth Speaker,Dell,Mobile Devices,Credit Card,Returned,2,61345.81,122691.62,4/19/2026,4/29/2026
+Roxana Arson,Antipolo,Tablet,Lenovo,Accessories,PayPal,Cancelled,10,55978.77,559787.7,4/16/2026,4/20/2026
+Selig Keelan,Manila,Laptop,Logitech,Wearables,Cash on Delivery,Cancelled,8,69279.34,554234.72,5/4/2026,4/23/2026
+Sadie Pavek,Caloocan,Gaming Console,Dell,Accessories,Debit Card,Returned,4,4552.46,18209.84,4/10/2026,4/15/2026
+Chrissy Mardle,Manila,Laptop,Samsung,Wearables,GCash,Cancelled,4,54862.62,219450.48,4/27/2026,4/9/2026
+Alfreda Cherrison,Taguig,Camera,Samsung,Mobile Devices,Credit Card,Shipped,5,68094.69,340473.45,4/29/2026,5/3/2026
+Truman Catherine,Baguio,Smartphone,Logitech,Audio,Debit Card,Delivered,9,72626.41,653637.69,4/26/2026,4/13/2026
+Eldridge Welbelove,Makati,Tablet,Apple,Gaming,PayPal,Returned,8,53119.15,424953.2,4/11/2026,4/21/2026
+Thayne Scallan,Bacoor,Smartwatch,Lenovo,Computers,Credit Card,Shipped,1,74587.2,74587.2,4/15/2026,4/9/2026
+Estel Leechman,Dasmariñas,Smartphone,Apple,Computers,PayPal,Pending,7,16375.09,114625.63,4/29/2026,4/6/2026
+See Headrick,Antipolo,Power Bank,Sony,Audio,Cash on Delivery,Returned,10,69343.95,693439.5,4/1/2026,4/28/2026
+Germain Tabbernor,Manila,Power Bank,Dell,Accessories,PayPal,Returned,2,14563.8,29127.6,4/23/2026,5/7/2026
+Chiquia Scupham,Antipolo,Tablet,Samsung,Mobile Devices,Credit Card,Pending,10,7592.52,75925.2,4/5/2026,5/7/2026
+Lorianne Warke,Taguig,Bluetooth Speaker,Xiaomi,Computers,Cash on Delivery,Cancelled,10,13840.94,138409.4,5/3/2026,5/4/2026
+Persis Frodsam,Manila,Bluetooth Speaker,Dell,Audio,Credit Card,Pending,3,74103.2,222309.6,4/11/2026,4/18/2026
+Reed Darth,Antipolo,Camera,Asus,Wearables,Credit Card,Delivered,10,15634.03,156340.3,4/25/2026,5/1/2026
+Florie Giacoboni,Quezon City,Bluetooth Speaker,Apple,Mobile Devices,GCash,Cancelled,9,50323.87,452914.83,4/27/2026,4/9/2026
+Erny Heppenspall,Cagayan de Oro,Tablet,Huawei,Mobile Devices,GCash,Shipped,8,61700.24,493601.92,4/27/2026,4/24/2026
+Candi Dignum,Baguio,Laptop,Apple,Wearables,Credit Card,Delivered,6,33193.23,199159.38,4/13/2026,5/9/2026
+Kial Bassingden,Taguig,Power Bank,Sony,Audio,Debit Card,Shipped,10,69552.66,695526.6,4/25/2026,4/7/2026
+Hazel Aldie,Makati,Gaming Console,Xiaomi,Mobile Devices,GCash,Returned,6,65755.86,394535.16,4/15/2026,4/5/2026
+Bowie Morat,Taguig,Gaming Console,Apple,Computers,PayPal,Pending,1,73104.17,73104.17,4/23/2026,4/29/2026
+Giselbert Colegrove,Baguio,Headphones,HP,Computers,PayPal,Shipped,4,31713.07,126852.28,4/10/2026,4/25/2026
+Helsa Quested,Baguio,Tablet,Xiaomi,Computers,GCash,Pending,10,70552.17,705521.7,4/2/2026,4/15/2026
+Parrnell Penvarne,Manila,Power Bank,Asus,Audio,Debit Card,Cancelled,1,53597.98,53597.98,4/27/2026,4/18/2026
+Lyle Brittin,Cagayan de Oro,Laptop,Apple,Gaming,Debit Card,Shipped,8,45270.2,362161.6,4/10/2026,4/10/2026
+Shaughn Meyrick,Davao City,Power Bank,Lenovo,Accessories,PayPal,Cancelled,5,25053.98,125269.9,4/4/2026,5/2/2026
+Anabal Gaddesby,Iloilo City,Tablet,Xiaomi,Computers,PayPal,Cancelled,10,20061.56,200615.6,4/9/2026,5/5/2026
+Antonin Obray,Cagayan de Oro,Camera,Asus,Computers,Debit Card,Cancelled,8,54395.48,435163.84,4/17/2026,4/18/2026
+Alissa Stennes,Davao City,Power Bank,Xiaomi,Audio,PayPal,Delivered,5,3309.54,16547.7,4/1/2026,4/25/2026
+Giulio Ambridge,Pasig,Camera,Asus,Computers,GCash,Delivered,7,79397.2,555780.4,4/26/2026,5/5/2026
+Andreana Laviste,Davao City,Smartphone,Xiaomi,Mobile Devices,Debit Card,Cancelled,7,12548.83,87841.81,4/23/2026,4/22/2026
+Coleman Rosenwald,Baguio,Smartwatch,Asus,Wearables,GCash,Shipped,1,33894.64,33894.64,4/21/2026,4/5/2026
+Stafford Ivchenko,Manila,Camera,Apple,Audio,Cash on Delivery,Delivered,9,49624.41,446619.69,4/13/2026,4/4/2026
+Ignazio Minigo,Quezon City,Bluetooth Speaker,Apple,Computers,GCash,Cancelled,2,56851.03,113702.06,4/15/2026,4/26/2026
+Elyn Attard,Pasig,Gaming Console,HP,Computers,GCash,Returned,1,22830.86,22830.86,4/1/2026,5/4/2026
+Kathye McFetrich,Bacoor,Camera,Samsung,Mobile Devices,GCash,Returned,1,65591.26,65591.26,4/15/2026,4/30/2026
+Mac Watkins,Taguig,Smartphone,Asus,Audio,Debit Card,Shipped,3,46060.53,138181.59,4/15/2026,5/3/2026
+Eugine Chiplin,Bacoor,Gaming Console,HP,Accessories,Debit Card,Shipped,5,74227.75,371138.75,4/2/2026,5/3/2026
+Florenza Monery,Antipolo,Smartphone,Sony,Accessories,Debit Card,Cancelled,4,53829.74,215318.96,4/11/2026,4/11/2026
+Ondrea Pool,Baguio,Headphones,Lenovo,Audio,Credit Card,Shipped,6,54661.37,327968.22,4/2/2026,4/15/2026
+Fanechka Gannan,Baguio,Laptop,Apple,Accessories,PayPal,Returned,3,21372.63,64117.89,4/17/2026,5/1/2026
+Laverna Copplestone,Manila,Tablet,Huawei,Wearables,Credit Card,Cancelled,5,72805.41,364027.05,4/21/2026,4/16/2026
+Sela Georgeau,Makati,Monitor,Asus,Accessories,Credit Card,Delivered,2,47135.41,94270.82,4/4/2026,4/29/2026
+Anjanette Schwand,Pasig,Camera,Asus,Accessories,Credit Card,Cancelled,10,66713.19,667131.9,5/3/2026,4/17/2026
+Bertha Bentsen,Makati,Bluetooth Speaker,HP,Mobile Devices,GCash,Cancelled,4,34266.46,137065.84,4/3/2026,4/8/2026
+Web Pirazzi,Makati,Smartphone,Xiaomi,Mobile Devices,GCash,Returned,1,57142.23,57142.23,4/25/2026,4/28/2026
+Joella Drivers,Bacoor,Bluetooth Speaker,HP,Audio,Credit Card,Shipped,5,53426.57,267132.85,4/27/2026,4/10/2026
+Jamey Severwright,Manila,Laptop,Logitech,Audio,Debit Card,Shipped,8,14932.85,119462.8,4/4/2026,5/7/2026
+Nara Balentyne,Cagayan de Oro,Monitor,Huawei,Accessories,Credit Card,Pending,6,39580.33,237481.98,4/15/2026,4/28/2026
+Rosene Comizzoli,Baguio,Smartphone,Huawei,Gaming,Debit Card,Pending,8,14234.25,113874.0,5/2/2026,4/15/2026
+Keelia Bewfield,Taguig,Bluetooth Speaker,Samsung,Computers,Credit Card,Pending,3,61555.21,184665.63,4/2/2026,4/18/2026
+Bink Paskins,Bacoor,Camera,Sony,Computers,GCash,Returned,5,71658.35,358291.75,4/20/2026,4/23/2026
+Horatio Dressel,Davao City,Smartphone,Xiaomi,Accessories,Cash on Delivery,Pending,8,20689.1,165512.8,4/14/2026,4/18/2026
+Larina A'field,Cebu City,Monitor,Samsung,Wearables,Debit Card,Returned,9,8377.36,75396.24,4/8/2026,4/10/2026
+Greer Diggons,Pasig,Gaming Console,Samsung,Gaming,GCash,Shipped,7,74337.31,520361.17,5/4/2026,5/4/2026
+Diann Wherton,Bacoor,Power Bank,Asus,Gaming,PayPal,Pending,6,18209.75,109258.5,4/7/2026,4/29/2026
+Natale Shinton,Taguig,Tablet,Huawei,Computers,Cash on Delivery,Returned,6,15160.14,90960.84,4/26/2026,4/13/2026
+Darrelle Pendrid,Cagayan de Oro,Bluetooth Speaker,Samsung,Mobile Devices,Debit Card,Delivered,9,64392.91,579536.19,5/4/2026,4/23/2026
+Akim Vairow,Caloocan,Power Bank,Samsung,Wearables,Debit Card,Returned,10,45551.22,455512.2,4/28/2026,5/7/2026
+Dixie Bliss,Makati,Power Bank,Asus,Accessories,Credit Card,Shipped,10,25952.03,259520.3,4/15/2026,5/3/2026
+Genevra Pagon,Pasig,Laptop,Logitech,Wearables,Credit Card,Pending,9,42198.26,379784.34,4/11/2026,4/18/2026
+Ravi Smales,Caloocan,Smartwatch,Samsung,Audio,Credit Card,Cancelled,1,39155.2,39155.2,4/5/2026,4/25/2026
+Rosemarie Langeren,Cagayan de Oro,Laptop,Apple,Computers,Credit Card,Returned,6,54791.22,328747.32,4/8/2026,4/12/2026
+Yance Mussared,Bacoor,Bluetooth Speaker,Dell,Mobile Devices,Cash on Delivery,Cancelled,1,60587.81,60587.81,5/1/2026,5/4/2026
+Rick Humerstone,Cebu City,Bluetooth Speaker,Xiaomi,Accessories,Debit Card,Cancelled,7,17379.55,121656.85,5/1/2026,5/4/2026
+Wilburt Keppin,Dasmariñas,Gaming Console,Asus,Mobile Devices,PayPal,Returned,5,41453.02,207265.1,4/18/2026,4/15/2026
+Randee Copper,Iloilo City,Tablet,Asus,Computers,PayPal,Delivered,10,5409.47,54094.7,4/2/2026,4/10/2026
+Emmeline Gowar,Baguio,Power Bank,Lenovo,Wearables,GCash,Delivered,4,36597.38,146389.52,4/15/2026,4/23/2026
+Lorena Lauritsen,Manila,Smartphone,Lenovo,Computers,GCash,Shipped,8,37005.55,296044.4,4/18/2026,5/7/2026
+Barnabe Valett,Cebu City,Laptop,Xiaomi,Computers,PayPal,Pending,7,2676.12,18732.84,5/3/2026,4/30/2026
+Kynthia Jenkins,Pasig,Smartwatch,Samsung,Computers,GCash,Delivered,4,49202.04,196808.16,4/17/2026,4/13/2026
+Giraud Topping,Iloilo City,Monitor,Logitech,Gaming,Debit Card,Shipped,1,26052.18,26052.18,4/9/2026,5/5/2026
+Lazaro Glyne,Baguio,Power Bank,Asus,Computers,Credit Card,Shipped,9,31157.24,280415.16,4/24/2026,4/28/2026
+Valenka Atterley,Quezon City,Laptop,Samsung,Mobile Devices,Debit Card,Delivered,1,1182.54,1182.54,4/30/2026,4/16/2026
+Maitilde Hunter,Pasig,Bluetooth Speaker,Apple,Wearables,Cash on Delivery,Delivered,10,21270.18,212701.8,4/7/2026,4/13/2026
+Bidget Duffit,Antipolo,Smartphone,Lenovo,Audio,PayPal,Shipped,7,20567.27,143970.89,4/3/2026,4/18/2026
+Minetta Osmon,Bacoor,Headphones,Samsung,Audio,Debit Card,Pending,7,66605.42,466237.94,4/11/2026,4/19/2026
+Myrilla Benitti,Iloilo City,Camera,Sony,Wearables,Cash on Delivery,Delivered,8,38455.83,307646.64,4/9/2026,4/14/2026
+Cammy Castan,Davao City,Tablet,Samsung,Mobile Devices,GCash,Shipped,5,1199.21,5996.05,4/21/2026,5/4/2026
+Lyon Kenwell,Caloocan,Monitor,Samsung,Audio,Cash on Delivery,Cancelled,6,25719.86,154319.16,4/4/2026,5/4/2026
+Lin Jinkin,Bacoor,Monitor,Dell,Accessories,Cash on Delivery,Shipped,5,79744.71,398723.55,4/27/2026,4/29/2026
+Vanna Gallimore,Antipolo,Gaming Console,Xiaomi,Computers,GCash,Pending,6,58525.71,351154.26,4/26/2026,4/24/2026
+Lorelle Hugo,Bacoor,Power Bank,Huawei,Accessories,Cash on Delivery,Returned,9,59555.85,536002.65,4/23/2026,4/23/2026
+Shelia Stephens,Antipolo,Bluetooth Speaker,Samsung,Audio,Cash on Delivery,Returned,8,58282.89,466263.12,4/24/2026,4/21/2026
+Fawne Berthelet,Caloocan,Gaming Console,Sony,Audio,PayPal,Returned,6,26676.56,160059.36,4/5/2026,5/6/2026
+Ricca Whiles,Manila,Monitor,Apple,Computers,GCash,Pending,8,62551.95,500415.6,4/16/2026,4/6/2026
+Wyndham Burtwhistle,Quezon City,Monitor,Sony,Gaming,PayPal,Shipped,9,53060.39,477543.51,4/17/2026,4/15/2026
+Isidor Wensley,Quezon City,Smartphone,Sony,Accessories,Credit Card,Returned,3,1807.06,5421.18,4/6/2026,4/7/2026
+Roze Rowlings,Makati,Camera,HP,Gaming,Credit Card,Shipped,9,26719.33,240473.97,4/1/2026,4/10/2026
+Baxter cornhill,Cagayan de Oro,Power Bank,Xiaomi,Computers,GCash,Pending,5,6864.83,34324.15,4/3/2026,4/17/2026
+Rheba Halliwell,Cebu City,Headphones,Apple,Audio,Cash on Delivery,Delivered,4,27116.83,108467.32,4/13/2026,4/21/2026
+Tory Koene,Iloilo City,Power Bank,Lenovo,Gaming,Credit Card,Delivered,8,58861.29,470890.32,4/24/2026,4/22/2026
+Gustie Mulhall,Caloocan,Smartphone,Huawei,Gaming,Credit Card,Returned,4,78716.37,314865.48,4/22/2026,4/17/2026
+Krissie Pickance,Manila,Smartphone,Lenovo,Wearables,GCash,Shipped,9,14736.59,132629.31,4/7/2026,5/3/2026
+Mariann Rosenberger,Davao City,Power Bank,Apple,Audio,GCash,Shipped,2,1681.07,3362.14,4/15/2026,5/5/2026
+Hilda Wardlow,Dasmariñas,Laptop,Samsung,Gaming,PayPal,Returned,5,5494.98,27474.9,4/8/2026,4/9/2026
+Susanetta Scantlebury,Cebu City,Laptop,Sony,Accessories,Credit Card,Delivered,5,48610.8,243054.0,4/21/2026,4/8/2026
+Alano Vannoort,Pasig,Camera,Samsung,Wearables,PayPal,Delivered,9,25757.82,231820.38,4/4/2026,5/9/2026
+Porty Hampshaw,Antipolo,Camera,Apple,Wearables,GCash,Returned,1,65062.21,65062.21,5/3/2026,4/24/2026
+Lowell Bourdas,Caloocan,Tablet,Lenovo,Gaming,Debit Card,Shipped,8,48998.47,391987.76,4/18/2026,5/5/2026
+Reg Congram,Pasig,Gaming Console,Xiaomi,Mobile Devices,GCash,Delivered,1,11523.5,11523.5,4/24/2026,4/12/2026
+Valerye Daffey,Bacoor,Tablet,Dell,Wearables,Debit Card,Shipped,6,52236.59,313419.54,4/1/2026,4/5/2026
+Burty Slobom,Antipolo,Tablet,HP,Computers,Cash on Delivery,Shipped,9,32625.07,293625.63,4/1/2026,4/12/2026
+Cassie Livett,Iloilo City,Gaming Console,Samsung,Computers,Debit Card,Returned,1,56003.8,56003.8,4/29/2026,4/8/2026
+Ruben Ogelbe,Manila,Camera,Apple,Gaming,Credit Card,Returned,10,48073.63,480736.3,4/5/2026,4/24/2026
+Mireielle Langthorn,Baguio,Smartwatch,HP,Accessories,Cash on Delivery,Returned,1,24788.54,24788.54,4/20/2026,4/21/2026
+Bobbie Buggs,Pasig,Headphones,Xiaomi,Wearables,Credit Card,Delivered,3,21564.78,64694.34,4/2/2026,4/19/2026
+Wilow Foffano,Pasig,Tablet,Apple,Mobile Devices,Credit Card,Pending,3,27836.55,83509.65,4/10/2026,5/5/2026
+Oralia Arnaut,Davao City,Smartphone,Apple,Wearables,PayPal,Returned,6,29781.0,178686.0,4/13/2026,4/14/2026
+Jae Blenkiron,Dasmariñas,Gaming Console,Apple,Gaming,Debit Card,Pending,10,66211.64,662116.4,4/1/2026,4/21/2026
+Milli Godbert,Davao City,Headphones,Sony,Mobile Devices,Credit Card,Shipped,6,69272.75,415636.5,5/1/2026,5/3/2026
+Alric Hallen,Baguio,Camera,Dell,Accessories,Cash on Delivery,Shipped,1,67760.13,67760.13,4/3/2026,5/5/2026
+Gery Tousy,Caloocan,Headphones,Huawei,Computers,GCash,Returned,1,46563.5,46563.5,4/12/2026,4/5/2026
+Sofie Timmens,Caloocan,Gaming Console,Samsung,Audio,Cash on Delivery,Delivered,3,52847.57,158542.71,4/29/2026,4/4/2026
+Dorry Bryant,Dasmariñas,Gaming Console,Sony,Gaming,Credit Card,Delivered,6,27471.75,164830.5,4/30/2026,4/6/2026
+Amii Keers,Cagayan de Oro,Power Bank,HP,Accessories,PayPal,Pending,9,4544.69,40902.21,4/5/2026,4/25/2026
+Shelton Keneforde,Iloilo City,Gaming Console,Apple,Wearables,PayPal,Shipped,8,28358.81,226870.48,4/18/2026,4/26/2026
+Ardine Waldron,Iloilo City,Headphones,HP,Computers,Debit Card,Pending,10,73869.33,738693.3,4/1/2026,4/28/2026
+Mel Heaviside,Iloilo City,Tablet,Lenovo,Audio,Cash on Delivery,Shipped,2,61957.66,123915.32,5/4/2026,4/13/2026
+Hasty Stranahan,Davao City,Monitor,Asus,Computers,PayPal,Cancelled,4,1662.46,6649.84,4/21/2026,4/25/2026
+Tressa Plumm,Makati,Headphones,HP,Gaming,Credit Card,Cancelled,8,14172.43,113379.44,4/3/2026,4/29/2026
+Saundra Gheorghie,Taguig,Smartwatch,Apple,Computers,PayPal,Pending,6,26895.28,161371.68,4/29/2026,5/2/2026
+Madge Wallentin,Makati,Smartphone,Huawei,Computers,PayPal,Cancelled,10,79005.72,790057.2,4/21/2026,4/23/2026
+Coop Bellsham,Bacoor,Power Bank,Huawei,Computers,PayPal,Cancelled,2,51443.29,102886.58,5/4/2026,4/20/2026
+Zak Braidford,Caloocan,Bluetooth Speaker,Asus,Audio,Credit Card,Cancelled,6,6351.97,38111.82,4/20/2026,5/5/2026
+Junia Tennison,Pasig,Gaming Console,Xiaomi,Gaming,Cash on Delivery,Returned,5,42356.44,211782.2,5/3/2026,4/7/2026
+Antonius Anniwell,Caloocan,Gaming Console,Dell,Wearables,Debit Card,Cancelled,10,3891.44,38914.4,4/10/2026,4/12/2026
+Claybourne De Michetti,Makati,Tablet,Asus,Audio,Credit Card,Delivered,10,66955.28,669552.8,4/11/2026,4/27/2026
+Kizzie Gun,Dasmariñas,Bluetooth Speaker,Dell,Computers,PayPal,Shipped,1,66093.91,66093.91,4/11/2026,4/14/2026
+Judye Higgonet,Pasig,Bluetooth Speaker,Huawei,Computers,Debit Card,Pending,9,13207.08,118863.72,5/1/2026,5/2/2026
+Hilary Tavener,Davao City,Smartwatch,Huawei,Wearables,GCash,Shipped,8,46073.62,368588.96,4/7/2026,5/5/2026
+Miles Petruskevich,Makati,Laptop,Dell,Audio,GCash,Cancelled,1,9353.99,9353.99,4/29/2026,5/7/2026
+Billy Corder,Davao City,Laptop,Lenovo,Mobile Devices,PayPal,Pending,7,44791.14,313537.98,4/15/2026,4/28/2026
+Arielle Havock,Dasmariñas,Smartwatch,Samsung,Mobile Devices,Cash on Delivery,Returned,6,7532.18,45193.08,4/10/2026,4/27/2026
+Albertine Scrivens,Baguio,Smartwatch,Logitech,Gaming,Debit Card,Cancelled,8,57867.38,462939.04,5/4/2026,4/6/2026
+Charlene Losebie,Cebu City,Smartphone,Apple,Wearables,PayPal,Pending,7,56285.63,393999.41,4/5/2026,4/18/2026
+Annadiane Hartington,Antipolo,Bluetooth Speaker,HP,Audio,Credit Card,Pending,4,51960.61,207842.44,4/1/2026,4/19/2026
+Carol-jean Maltster,Taguig,Bluetooth Speaker,Sony,Accessories,Credit Card,Returned,6,11723.93,70343.58,5/2/2026,4/14/2026
+Berkly Diggins,Davao City,Monitor,HP,Gaming,Credit Card,Cancelled,6,3612.9,21677.4,4/15/2026,4/11/2026
+Adara Zanardii,Manila,Tablet,Lenovo,Accessories,GCash,Returned,8,70359.25,562874.0,4/16/2026,4/6/2026
+Chip Budget,Makati,Smartwatch,Huawei,Gaming,GCash,Cancelled,5,15995.37,79976.85,4/8/2026,5/7/2026
+Vincenz Kaubisch,Iloilo City,Smartphone,Sony,Computers,Credit Card,Cancelled,7,37824.43,264771.01,4/20/2026,4/12/2026
+Ruddy Betke,Iloilo City,Laptop,Samsung,Accessories,GCash,Delivered,3,16242.95,48728.85,4/23/2026,4/18/2026
+Grant Cairns,Baguio,Monitor,Sony,Computers,PayPal,Pending,1,59853.0,59853.0,5/1/2026,4/24/2026
+Dante Campos,Bacoor,Laptop,Apple,Audio,Credit Card,Shipped,6,32132.91,192797.46,4/16/2026,5/6/2026
+Ric Spurrior,Quezon City,Camera,Sony,Computers,Cash on Delivery,Cancelled,9,32554.47,292990.23,4/22/2026,4/18/2026
+Bryana MacElroy,Baguio,Camera,Apple,Accessories,Cash on Delivery,Pending,4,35331.74,141326.96,4/16/2026,4/18/2026
+Eloise Gallahue,Cebu City,Monitor,Samsung,Accessories,GCash,Shipped,9,57725.5,519529.5,4/26/2026,5/6/2026
+Rickard Dunstall,Caloocan,Tablet,Huawei,Gaming,Cash on Delivery,Shipped,7,24142.83,168999.81,5/1/2026,4/23/2026
+Melessa Hun,Manila,Camera,Asus,Mobile Devices,PayPal,Shipped,5,73069.76,365348.8,4/15/2026,4/7/2026
+Rogers Brunroth,Pasig,Camera,Samsung,Accessories,GCash,Delivered,1,41241.92,41241.92,4/16/2026,4/17/2026
+Silvain Scothron,Caloocan,Smartphone,HP,Audio,Credit Card,Delivered,8,59443.3,475546.4,4/9/2026,4/30/2026
+Alfonso Winsome,Cebu City,Power Bank,Dell,Computers,Credit Card,Delivered,10,26440.27,264402.7,4/22/2026,4/4/2026
+Dita Gligorijevic,Taguig,Power Bank,Dell,Gaming,Debit Card,Shipped,6,22829.3,136975.8,4/10/2026,4/14/2026
+Minnnie Frensch,Davao City,Camera,Lenovo,Accessories,Cash on Delivery,Delivered,6,78247.39,469484.34,4/22/2026,4/22/2026
+Lucius Gallafant,Cebu City,Smartphone,HP,Gaming,GCash,Delivered,7,12642.97,88500.79,4/24/2026,4/8/2026
+Tamiko Kop,Pasig,Laptop,Asus,Computers,GCash,Delivered,8,33087.57,264700.56,4/22/2026,4/22/2026
+Charlot Amorts,Quezon City,Power Bank,Huawei,Computers,PayPal,Pending,2,62991.08,125982.16,4/11/2026,4/19/2026
+Kaitlyn Brager,Caloocan,Bluetooth Speaker,Asus,Mobile Devices,GCash,Shipped,10,51909.05,519090.5,4/29/2026,4/28/2026
+Erminia Ragot,Makati,Bluetooth Speaker,Xiaomi,Accessories,Credit Card,Shipped,6,35213.18,211279.08,4/22/2026,4/16/2026
+Julita Sutty,Antipolo,Monitor,Sony,Audio,Credit Card,Cancelled,9,56333.98,507005.82,5/1/2026,4/22/2026
+Haily Devorill,Baguio,Camera,Dell,Accessories,GCash,Shipped,6,43812.64,262875.84,4/15/2026,5/4/2026
+Lisa Gniewosz,Taguig,Laptop,Lenovo,Mobile Devices,Cash on Delivery,Pending,9,26415.22,237736.98,5/2/2026,5/5/2026
+Ulrica Mayow,Bacoor,Gaming Console,HP,Accessories,Debit Card,Delivered,10,41996.84,419968.4,4/20/2026,4/13/2026
+Felita Edgcombe,Davao City,Tablet,Lenovo,Computers,Credit Card,Delivered,3,72210.43,216631.29,4/17/2026,4/15/2026
+Barry Matityahu,Manila,Monitor,Asus,Wearables,Cash on Delivery,Returned,5,39707.7,198538.5,4/18/2026,4/14/2026
+Betti Corss,Makati,Monitor,Asus,Mobile Devices,GCash,Shipped,4,12437.41,49749.64,4/9/2026,5/4/2026
+Durand Pruckner,Manila,Gaming Console,Logitech,Wearables,GCash,Cancelled,8,5076.98,40615.84,4/7/2026,4/23/2026
+Chariot Schonfeld,Davao City,Monitor,Logitech,Audio,PayPal,Delivered,8,5454.6,43636.8,4/5/2026,4/7/2026
+Ty Clarson,Caloocan,Monitor,Logitech,Audio,GCash,Shipped,6,8764.86,52589.16,4/23/2026,4/20/2026
+Erastus Butts,Davao City,Smartwatch,Apple,Accessories,Debit Card,Delivered,1,36363.85,36363.85,4/18/2026,4/25/2026
+Creigh Bloss,Antipolo,Tablet,Logitech,Audio,Credit Card,Cancelled,4,64570.58,258282.32,4/16/2026,4/25/2026
+Evangeline Trassler,Iloilo City,Bluetooth Speaker,Huawei,Accessories,GCash,Cancelled,2,37751.26,75502.52,4/17/2026,5/6/2026
+Myrtia Smurfit,Iloilo City,Headphones,Asus,Computers,Credit Card,Cancelled,7,37588.14,263116.98,4/16/2026,4/19/2026
+Harp O'Shea,Iloilo City,Laptop,HP,Computers,Debit Card,Delivered,8,13240.64,105925.12,4/19/2026,5/3/2026
+Chilton McPolin,Antipolo,Camera,HP,Computers,Debit Card,Shipped,4,71527.64,286110.56,5/1/2026,4/4/2026
+Niccolo Ropking,Baguio,Smartphone,Sony,Gaming,Cash on Delivery,Delivered,5,58094.22,290471.1,4/1/2026,4/26/2026
+Bobinette Rea,Dasmariñas,Camera,Lenovo,Wearables,Cash on Delivery,Returned,7,19940.42,139582.94,4/22/2026,4/11/2026
+Bailey Kleinsinger,Davao City,Bluetooth Speaker,Sony,Gaming,Debit Card,Returned,8,43272.44,346179.52,4/11/2026,5/6/2026
+Clare Rattrie,Pasig,Smartphone,Samsung,Accessories,Debit Card,Shipped,9,72041.4,648372.6,5/3/2026,5/4/2026
+Glennie Kimmince,Davao City,Tablet,Xiaomi,Audio,GCash,Returned,5,6090.55,30452.75,4/5/2026,5/4/2026
+Vidovik McCorry,Bacoor,Gaming Console,Huawei,Gaming,GCash,Pending,3,56308.26,168924.78,4/29/2026,5/7/2026
+Webster Schuster,Davao City,Gaming Console,Lenovo,Accessories,PayPal,Pending,4,2655.81,10623.24,5/3/2026,4/6/2026
+Caren Chaplin,Bacoor,Smartphone,Samsung,Accessories,Debit Card,Pending,4,32968.57,131874.28,4/22/2026,5/5/2026
+Dix Casacchia,Dasmariñas,Bluetooth Speaker,Sony,Audio,PayPal,Pending,4,39398.96,157595.84,4/10/2026,4/6/2026
+Rafael Borgne,Quezon City,Camera,Sony,Computers,Debit Card,Delivered,8,6902.83,55222.64,4/12/2026,4/18/2026
+Malcolm Amiranda,Iloilo City,Camera,Samsung,Wearables,GCash,Returned,10,49853.1,498531.0,4/12/2026,5/5/2026
+Killian McFater,Cagayan de Oro,Smartphone,Lenovo,Gaming,Debit Card,Shipped,1,72743.91,72743.91,4/28/2026,5/4/2026
+Zabrina Blomefield,Davao City,Monitor,Asus,Accessories,Debit Card,Shipped,5,59513.1,297565.5,4/2/2026,4/20/2026
+Bernelle Harlock,Pasig,Power Bank,Apple,Audio,Cash on Delivery,Shipped,9,31320.12,281881.08,4/11/2026,5/3/2026
+Cull Brann,Antipolo,Gaming Console,Dell,Mobile Devices,Cash on Delivery,Delivered,3,39897.18,119691.54,4/22/2026,4/15/2026
+Gwendolyn Inch,Caloocan,Power Bank,Huawei,Computers,Cash on Delivery,Delivered,6,29840.89,179045.34,4/15/2026,4/26/2026
+Matilde Peverell,Manila,Laptop,Sony,Audio,GCash,Delivered,6,72976.82,437860.92,4/3/2026,4/19/2026
+Dorelia Pearde,Iloilo City,Tablet,Asus,Audio,Cash on Delivery,Pending,2,63296.81,126593.62,4/21/2026,5/1/2026
+Henryetta Dory,Cebu City,Smartphone,Lenovo,Computers,GCash,Returned,4,63765.38,255061.52,4/30/2026,4/6/2026
+Urbano Abley,Cagayan de Oro,Monitor,Xiaomi,Audio,Debit Card,Cancelled,7,8318.62,58230.34,4/22/2026,4/25/2026
+Bianca Sidsaff,Antipolo,Smartphone,Samsung,Gaming,Debit Card,Pending,9,49989.39,449904.51,4/6/2026,4/15/2026
+Magdalena Branson,Cagayan de Oro,Smartphone,Huawei,Gaming,Credit Card,Pending,5,50121.63,250608.15,4/2/2026,4/11/2026
+Sigvard Stave,Makati,Camera,HP,Mobile Devices,PayPal,Delivered,9,47906.04,431154.36,4/10/2026,5/8/2026
+Paul Gerbel,Baguio,Gaming Console,Lenovo,Gaming,GCash,Shipped,10,45040.5,450405.0,4/30/2026,5/3/2026
+Jazmin Craigmyle,Cebu City,Gaming Console,Logitech,Accessories,GCash,Cancelled,10,49050.62,490506.2,4/17/2026,4/13/2026
+Dore Pargiter,Baguio,Tablet,Xiaomi,Accessories,GCash,Returned,8,2679.45,21435.6,4/11/2026,4/20/2026
+Ody Radmer,Bacoor,Smartphone,Xiaomi,Mobile Devices,Credit Card,Shipped,8,60189.86,481518.88,4/8/2026,4/7/2026
+Ruprecht Rawlinson,Baguio,Monitor,Xiaomi,Audio,Cash on Delivery,Shipped,6,53179.64,319077.84,4/8/2026,5/2/2026
+Eugine Kimble,Caloocan,Tablet,Sony,Gaming,Credit Card,Returned,1,39243.98,39243.98,4/14/2026,4/6/2026
+Tannie Calley,Antipolo,Tablet,Logitech,Gaming,Credit Card,Delivered,5,75098.0,375490.0,4/30/2026,5/6/2026
+Daisey Alcoran,Davao City,Monitor,Huawei,Audio,PayPal,Pending,2,10592.21,21184.42,5/4/2026,4/14/2026
+Delaney Gunter,Taguig,Smartphone,Huawei,Computers,Credit Card,Returned,2,33640.72,67281.44,4/14/2026,4/25/2026
+Freddy Bencher,Iloilo City,Smartwatch,Apple,Mobile Devices,PayPal,Shipped,6,58089.07,348534.42,4/9/2026,5/5/2026
+Lauren Breacher,Manila,Tablet,Apple,Wearables,Cash on Delivery,Shipped,5,20698.59,103492.95,4/5/2026,4/18/2026
+Robena Champerlen,Taguig,Camera,Lenovo,Computers,GCash,Returned,2,54365.05,108730.1,4/23/2026,4/24/2026
+Doreen Cottingham,Dasmariñas,Bluetooth Speaker,Logitech,Gaming,Cash on Delivery,Shipped,8,15577.66,124621.28,4/23/2026,5/2/2026
+Rozanna Digginson,Antipolo,Camera,Logitech,Wearables,Credit Card,Delivered,8,48506.23,388049.84,4/25/2026,4/6/2026
+Fanchon Jahnisch,Taguig,Bluetooth Speaker,Logitech,Wearables,GCash,Shipped,2,34595.05,69190.1,5/3/2026,4/29/2026
+Johann de Grey,Quezon City,Smartwatch,Dell,Audio,Cash on Delivery,Cancelled,2,42434.85,84869.7,4/6/2026,5/3/2026
+Benn Cattanach,Cagayan de Oro,Tablet,Logitech,Wearables,Cash on Delivery,Returned,2,71355.79,142711.58,4/16/2026,4/19/2026
+Norton Scammell,Bacoor,Headphones,Logitech,Wearables,Credit Card,Cancelled,8,60835.82,486686.56,4/23/2026,4/5/2026
+Ketty Badby,Cebu City,Camera,Samsung,Gaming,GCash,Pending,8,36908.61,295268.88,4/20/2026,4/21/2026
+Marian Pembery,Cagayan de Oro,Headphones,Apple,Mobile Devices,Credit Card,Returned,6,13080.19,78481.14,4/25/2026,5/1/2026
+Raimundo Stollenhof,Makati,Power Bank,Xiaomi,Wearables,Debit Card,Delivered,4,19437.97,77751.88,4/4/2026,5/5/2026
+Madelina Threadgill,Caloocan,Headphones,Asus,Mobile Devices,GCash,Returned,9,40682.55,366142.95,4/1/2026,5/9/2026
+Dody Flippen,Baguio,Bluetooth Speaker,Xiaomi,Gaming,PayPal,Cancelled,8,55446.79,443574.32,4/6/2026,4/28/2026
+Carissa Thiolier,Taguig,Camera,Samsung,Accessories,PayPal,Delivered,2,70846.7,141693.4,4/16/2026,4/5/2026
+Mignonne Finnis,Taguig,Laptop,Samsung,Accessories,Credit Card,Returned,10,8124.95,81249.5,4/29/2026,4/8/2026
+Ardelia Tuerena,Manila,Smartphone,HP,Accessories,Credit Card,Delivered,3,40367.8,121103.4,4/16/2026,4/4/2026
+Marji Tiler,Pasig,Monitor,Sony,Accessories,PayPal,Shipped,1,41901.66,41901.66,5/4/2026,4/13/2026
+Nadine Bourdon,Cagayan de Oro,Tablet,Logitech,Wearables,PayPal,Pending,5,74000.01,370000.05,4/6/2026,5/7/2026
+Konrad Beards,Cebu City,Smartwatch,Sony,Wearables,PayPal,Returned,6,20196.93,121181.58,4/27/2026,5/9/2026
+Cristina Kembery,Caloocan,Headphones,Asus,Wearables,GCash,Delivered,5,54378.45,271892.25,4/15/2026,4/18/2026
+Vivia Tinto,Bacoor,Tablet,Dell,Audio,Debit Card,Cancelled,2,5029.5,10059.0,4/22/2026,4/16/2026
+Dusty Nieass,Dasmariñas,Smartwatch,Xiaomi,Wearables,Credit Card,Shipped,2,9612.32,19224.64,4/26/2026,4/25/2026
+Chane Methven,Pasig,Bluetooth Speaker,Lenovo,Computers,PayPal,Cancelled,5,46370.13,231850.65,4/27/2026,4/14/2026
+Dexter Edyson,Baguio,Camera,HP,Accessories,Debit Card,Delivered,6,25849.3,155095.8,4/23/2026,5/4/2026
+Gail McGoon,Dasmariñas,Smartwatch,Dell,Gaming,Credit Card,Delivered,3,66864.94,200594.82,4/30/2026,4/29/2026
+Bili Chisholm,Pasig,Gaming Console,Sony,Audio,Credit Card,Shipped,10,10491.59,104915.9,5/2/2026,4/22/2026
+Edie Greson,Baguio,Gaming Console,Lenovo,Gaming,Cash on Delivery,Delivered,7,36520.35,255642.45,5/4/2026,4/19/2026
+Lodovico Jacobovitz,Dasmariñas,Gaming Console,Asus,Accessories,Credit Card,Returned,8,36038.8,288310.4,4/20/2026,4/22/2026
+Shadow Aylmer,Dasmariñas,Headphones,Lenovo,Accessories,PayPal,Returned,7,64061.33,448429.31,5/2/2026,4/7/2026
+Maxim Ivushkin,Caloocan,Laptop,Dell,Audio,Cash on Delivery,Shipped,8,71412.51,571300.08,4/22/2026,4/18/2026
+Rochette Correa,Quezon City,Smartphone,Apple,Mobile Devices,GCash,Delivered,4,11560.37,46241.48,4/4/2026,4/10/2026
+Randolph Brickham,Dasmariñas,Smartphone,Asus,Wearables,Debit Card,Pending,9,27213.51,244921.59,4/4/2026,4/16/2026
+Vivianne Oxenham,Dasmariñas,Smartwatch,Dell,Mobile Devices,Credit Card,Delivered,8,25984.14,207873.12,4/17/2026,4/29/2026
+Ludwig Coker,Cebu City,Headphones,Asus,Wearables,PayPal,Shipped,5,73510.83,367554.15,4/10/2026,5/8/2026
+Nevil Grandison,Baguio,Headphones,Lenovo,Computers,PayPal,Returned,6,67752.43,406514.58,4/29/2026,4/15/2026
+Lauree Degoe,Makati,Power Bank,Xiaomi,Audio,Cash on Delivery,Shipped,6,25062.59,150375.54,4/7/2026,4/18/2026
+Gerald Sinderland,Taguig,Bluetooth Speaker,Xiaomi,Gaming,GCash,Returned,9,7435.01,66915.09,4/10/2026,4/18/2026
+Allegra Squirrell,Pasig,Gaming Console,Xiaomi,Audio,Cash on Delivery,Returned,10,24233.69,242336.9,4/7/2026,4/4/2026
+Friederike Brightwell,Quezon City,Smartphone,Asus,Accessories,Debit Card,Cancelled,9,48283.98,434555.82,4/21/2026,4/4/2026
+Sara Van der Krui,Baguio,Headphones,HP,Gaming,Credit Card,Returned,2,65835.31,131670.62,4/27/2026,4/12/2026
+Silvano Shitliff,Davao City,Smartphone,Asus,Gaming,Credit Card,Delivered,9,28257.44,254316.96,4/4/2026,4/8/2026
+Gillan Holborn,Bacoor,Tablet,Huawei,Mobile Devices,Credit Card,Delivered,4,60163.14,240652.56,4/30/2026,5/8/2026
+Margeaux Cogdell,Antipolo,Headphones,Asus,Audio,GCash,Shipped,10,61477.27,614772.7,4/11/2026,4/7/2026
+Emelda Lethcoe,Dasmariñas,Headphones,Asus,Computers,PayPal,Cancelled,10,44208.85,442088.5,4/1/2026,4/27/2026
+Maryjane Klageman,Manila,Tablet,Samsung,Accessories,Credit Card,Delivered,4,76692.83,306771.32,4/9/2026,4/22/2026
+Cecilius Munnis,Makati,Bluetooth Speaker,Asus,Gaming,Cash on Delivery,Returned,3,48200.34,144601.02,4/5/2026,5/8/2026
+Nicola Spinney,Antipolo,Power Bank,Asus,Computers,Credit Card,Pending,7,39815.17,278706.19,4/17/2026,5/2/2026
+Astrix Gilbertson,Caloocan,Camera,Huawei,Accessories,PayPal,Pending,10,18150.21,181502.1,4/28/2026,4/20/2026
+Imogene Rankin,Iloilo City,Camera,HP,Mobile Devices,GCash,Shipped,8,29890.15,239121.2,4/12/2026,4/27/2026
+Roda Geistmann,Quezon City,Tablet,Logitech,Accessories,Credit Card,Returned,3,77345.64,232036.92,4/23/2026,4/25/2026
+Wolfgang Pettendrich,Quezon City,Camera,Apple,Accessories,PayPal,Cancelled,9,59239.73,533157.57,4/6/2026,4/5/2026
+Shirley Gladman,Dasmariñas,Monitor,Lenovo,Wearables,GCash,Pending,6,22009.38,132056.28,4/11/2026,5/7/2026
+Lindsy Gadd,Iloilo City,Headphones,Dell,Gaming,Credit Card,Returned,9,5726.65,51539.85,4/8/2026,4/22/2026
+Carny Kirkebye,Davao City,Smartwatch,Asus,Gaming,Debit Card,Returned,2,68294.99,136589.98,4/9/2026,4/14/2026
+Devon Vidineev,Antipolo,Laptop,Samsung,Computers,PayPal,Returned,8,37099.24,296793.92,4/24/2026,4/11/2026
+Irena Hancell,Davao City,Smartphone,Dell,Computers,PayPal,Delivered,6,76765.91,460595.46,4/21/2026,5/5/2026
+Em Kunneke,Bacoor,Monitor,Dell,Computers,PayPal,Shipped,4,62170.06,248680.24,4/3/2026,5/2/2026
+Georgena Gunthorp,Antipolo,Laptop,Sony,Wearables,Cash on Delivery,Delivered,4,9487.59,37950.36,4/16/2026,4/25/2026
+Rozalin Mowen,Taguig,Gaming Console,Lenovo,Audio,Credit Card,Cancelled,4,52969.43,211877.72,4/23/2026,4/20/2026
+Woodman Whittet,Dasmariñas,Bluetooth Speaker,Lenovo,Computers,PayPal,Returned,5,18177.1,90885.5,4/25/2026,4/7/2026
+Levi McElvine,Manila,Gaming Console,Apple,Gaming,GCash,Delivered,6,61517.82,369106.92,4/10/2026,5/1/2026
+Valaree Getch,Cebu City,Smartphone,Dell,Accessories,Credit Card,Returned,5,14925.09,74625.45,4/22/2026,5/3/2026
+Quincy Perell,Caloocan,Power Bank,Logitech,Audio,Credit Card,Pending,8,16556.04,132448.32,4/15/2026,4/11/2026
+Beatriz Skepper,Bacoor,Smartphone,Sony,Computers,Cash on Delivery,Cancelled,8,38824.08,310592.64,4/18/2026,4/6/2026
+Sullivan Jamson,Bacoor,Camera,Xiaomi,Computers,PayPal,Delivered,6,13172.19,79033.14,4/19/2026,4/8/2026
+Jasun Redwall,Cebu City,Smartwatch,Lenovo,Mobile Devices,GCash,Pending,5,32532.83,162664.15,4/17/2026,4/12/2026
+Shara Rozzell,Taguig,Headphones,HP,Audio,Debit Card,Cancelled,3,68076.55,204229.65,4/21/2026,4/25/2026
+Modestia Dechelette,Caloocan,Smartwatch,Dell,Mobile Devices,Credit Card,Pending,1,55632.99,55632.99,5/1/2026,5/1/2026
+Frank Sandbatch,Quezon City,Camera,Apple,Accessories,GCash,Shipped,8,8409.4,67275.2,4/29/2026,4/20/2026
+Agretha Prazor,Manila,Camera,Samsung,Accessories,Credit Card,Shipped,4,35337.47,141349.88,4/16/2026,4/17/2026
+Rolland Tavner,Bacoor,Laptop,Apple,Gaming,Debit Card,Returned,2,68944.41,137888.82,4/4/2026,4/10/2026
+Marcille Demcik,Cebu City,Monitor,HP,Computers,Credit Card,Returned,1,6894.5,6894.5,4/8/2026,4/29/2026
+Jobyna Needs,Taguig,Smartphone,Sony,Computers,Credit Card,Returned,5,24802.43,124012.15,4/28/2026,4/11/2026
+Vivian Rosten,Quezon City,Camera,Logitech,Gaming,Cash on Delivery,Returned,7,30188.4,211318.8,4/5/2026,4/27/2026
+Lorianna Giorgetti,Dasmariñas,Smartwatch,Lenovo,Accessories,Credit Card,Cancelled,5,40130.74,200653.7,4/24/2026,5/4/2026
+Mata Grafton,Pasig,Camera,Samsung,Gaming,Debit Card,Delivered,3,29806.55,89419.65,4/27/2026,5/9/2026
+Lorie Scholar,Cebu City,Power Bank,Apple,Audio,PayPal,Pending,8,57144.23,457153.84,4/22/2026,4/14/2026
+Melony Wastall,Taguig,Laptop,HP,Mobile Devices,Debit Card,Delivered,8,25518.73,204149.84,4/18/2026,4/20/2026
+Seline Rafe,Antipolo,Smartphone,Logitech,Accessories,GCash,Cancelled,1,54212.44,54212.44,4/6/2026,4/30/2026
+Wilma Brouard,Antipolo,Smartphone,Sony,Mobile Devices,PayPal,Returned,2,3724.1,7448.2,4/6/2026,4/14/2026
+Ned McFadin,Taguig,Tablet,Lenovo,Audio,PayPal,Returned,9,1672.17,15049.53,5/2/2026,4/11/2026
+Tedd Grimmolby,Pasig,Camera,Logitech,Mobile Devices,Debit Card,Cancelled,6,34331.51,205989.06,4/6/2026,5/8/2026
+Siward Halburton,Bacoor,Monitor,Lenovo,Audio,Debit Card,Pending,5,42020.19,210100.95,4/23/2026,4/20/2026
+Daphne Eddis,Pasig,Laptop,Apple,Audio,Debit Card,Pending,4,60677.17,242708.68,4/5/2026,4/28/2026
+Curran Deeny,Cebu City,Camera,Samsung,Audio,GCash,Cancelled,5,41379.22,206896.1,4/9/2026,4/10/2026
+Querida Lemary,Bacoor,Bluetooth Speaker,Huawei,Computers,Debit Card,Shipped,9,50800.34,457203.06,4/26/2026,4/28/2026
+Tirrell Gilberthorpe,Iloilo City,Camera,Dell,Mobile Devices,GCash,Shipped,2,8447.55,16895.1,4/11/2026,4/22/2026
+Steven Demangeon,Makati,Headphones,HP,Accessories,Debit Card,Pending,9,43948.32,395534.88,4/6/2026,5/4/2026
+Devy Bastone,Pasig,Camera,Apple,Accessories,GCash,Cancelled,2,47124.67,94249.34,4/26/2026,4/23/2026
+Orly Sineath,Baguio,Power Bank,Samsung,Computers,GCash,Returned,5,26968.04,134840.2,4/27/2026,4/4/2026
+Papageno Ivanaev,Baguio,Tablet,Xiaomi,Gaming,Debit Card,Shipped,9,22526.12,202735.08,4/13/2026,4/28/2026
+Denney Tudbald,Manila,Gaming Console,HP,Audio,Cash on Delivery,Cancelled,4,76450.1,305800.4,4/12/2026,4/12/2026
+Nessi Bastable,Caloocan,Monitor,Sony,Wearables,Debit Card,Shipped,3,15773.66,47320.98,4/7/2026,5/4/2026
+Eydie Ancliff,Bacoor,Tablet,Lenovo,Accessories,PayPal,Returned,9,3796.76,34170.84,4/27/2026,4/25/2026
+Loralee Thiese,Antipolo,Tablet,Sony,Computers,Credit Card,Pending,10,65843.21,658432.1,4/23/2026,4/18/2026
+Goldy Bartolomeoni,Cebu City,Smartwatch,Asus,Wearables,Cash on Delivery,Cancelled,10,2070.2,20702.0,4/22/2026,4/10/2026
+Phillida Selly,Davao City,Smartwatch,Dell,Accessories,Cash on Delivery,Returned,6,11020.15,66120.9,4/12/2026,5/7/2026
+Collen Mollitt,Caloocan,Smartwatch,Huawei,Accessories,PayPal,Shipped,1,74888.36,74888.36,4/4/2026,4/10/2026
+Marwin De Dei,Taguig,Monitor,Apple,Computers,PayPal,Delivered,9,44986.69,404880.21,4/7/2026,5/3/2026
+Richardo Bradnum,Bacoor,Headphones,Asus,Audio,Debit Card,Shipped,9,23011.44,207102.96,4/19/2026,4/25/2026
+Vasili Burman,Makati,Monitor,Logitech,Gaming,PayPal,Shipped,6,46450.52,278703.12,4/26/2026,5/6/2026
+Bondie Boycott,Manila,Smartphone,Logitech,Computers,Credit Card,Returned,4,26309.08,105236.32,4/17/2026,4/21/2026
+Sawyer Bulfoy,Cebu City,Tablet,Sony,Mobile Devices,Credit Card,Shipped,2,46790.64,93581.28,4/10/2026,4/27/2026
+Dyann Fewings,Cebu City,Monitor,Dell,Mobile Devices,PayPal,Cancelled,5,78660.53,393302.65,4/14/2026,4/18/2026
+Torrey Ibarra,Manila,Camera,Xiaomi,Mobile Devices,Credit Card,Pending,4,40323.35,161293.4,4/28/2026,5/5/2026
+Hodge Dulake,Cagayan de Oro,Gaming Console,Dell,Computers,Credit Card,Returned,1,57249.76,57249.76,5/4/2026,4/27/2026
+Chaddy Fibben,Pasig,Gaming Console,Samsung,Audio,PayPal,Shipped,3,71101.82,213305.46,4/30/2026,4/10/2026
+Abran Linning,Taguig,Headphones,Lenovo,Mobile Devices,Cash on Delivery,Cancelled,9,43412.35,390711.15,4/8/2026,4/14/2026
+Colas Niezen,Cagayan de Oro,Headphones,Asus,Gaming,Debit Card,Returned,8,21210.6,169684.8,4/28/2026,5/5/2026
+Iormina Rasell,Manila,Camera,Huawei,Computers,Cash on Delivery,Pending,10,31997.89,319978.9,4/19/2026,4/20/2026
+Chev Malyan,Bacoor,Monitor,Lenovo,Gaming,Cash on Delivery,Shipped,3,78798.16,236394.48,5/2/2026,5/6/2026
+Benjamin Amaya,Baguio,Gaming Console,Dell,Accessories,GCash,Cancelled,8,2632.82,21062.56,4/24/2026,4/7/2026
+Natasha Rosborough,Dasmariñas,Monitor,Samsung,Audio,GCash,Pending,9,33526.78,301741.02,5/2/2026,5/8/2026
+Effie McMains,Makati,Power Bank,Samsung,Audio,Cash on Delivery,Returned,5,62014.48,310072.4,4/14/2026,4/8/2026
+Sam Tarply,Iloilo City,Power Bank,Huawei,Gaming,GCash,Returned,6,60339.12,362034.72,4/8/2026,4/10/2026
+Linus Fetherstone,Caloocan,Camera,Apple,Computers,PayPal,Delivered,7,74061.74,518432.18,4/28/2026,5/3/2026
+Prissie D'Abbot-Doyle,Manila,Bluetooth Speaker,Dell,Audio,Debit Card,Shipped,5,3097.21,15486.05,4/23/2026,4/8/2026
+Chet Giovannacci,Antipolo,Headphones,Lenovo,Mobile Devices,Credit Card,Pending,9,63047.49,567427.41,4/1/2026,4/22/2026
+Chery Ellar,Makati,Camera,Huawei,Gaming,Cash on Delivery,Delivered,10,7798.97,77989.7,4/11/2026,5/3/2026
+Isidro Elcoate,Makati,Camera,Xiaomi,Computers,Credit Card,Pending,9,69611.11,626499.99,4/29/2026,4/22/2026
+Bing Ivankov,Cebu City,Smartphone,Dell,Accessories,GCash,Cancelled,9,35945.3,323507.7,5/2/2026,4/12/2026
+Laureen Sauniere,Iloilo City,Smartwatch,Xiaomi,Computers,GCash,Returned,1,26099.61,26099.61,4/23/2026,4/8/2026
+Diannne Elloit,Cebu City,Camera,Asus,Computers,Debit Card,Returned,1,870.7,870.7,4/10/2026,5/4/2026
+Staci Simeon,Makati,Tablet,Dell,Gaming,PayPal,Cancelled,4,7463.75,29855.0,4/21/2026,5/2/2026
+Gaylene Applewhite,Bacoor,Monitor,Dell,Gaming,PayPal,Cancelled,10,73329.59,733295.9,4/14/2026,4/7/2026
+Stanton Astley,Cebu City,Monitor,Logitech,Accessories,Cash on Delivery,Pending,4,39573.44,158293.76,5/3/2026,4/30/2026
+Atlanta Keitley,Dasmariñas,Monitor,Huawei,Computers,Debit Card,Pending,6,53837.92,323027.52,4/15/2026,4/14/2026
+Gui Brunesco,Pasig,Bluetooth Speaker,Dell,Accessories,PayPal,Delivered,2,46879.09,93758.18,4/14/2026,4/22/2026
+Fabe Scay,Bacoor,Smartphone,Asus,Computers,PayPal,Pending,8,24470.57,195764.56,4/17/2026,4/22/2026
+Randene Batiste,Cagayan de Oro,Gaming Console,Apple,Mobile Devices,Cash on Delivery,Returned,2,30596.08,61192.16,4/15/2026,4/20/2026
+Marie Cluckie,Quezon City,Gaming Console,Dell,Audio,Debit Card,Shipped,9,65328.49,587956.41,4/29/2026,4/8/2026
+Glori Arch,Caloocan,Camera,HP,Gaming,GCash,Returned,3,34579.14,103737.42,4/7/2026,4/15/2026
+Rudolfo Gilleson,Taguig,Gaming Console,Apple,Audio,GCash,Returned,9,11508.0,103572.0,4/16/2026,4/21/2026
+Mark Sparshett,Makati,Power Bank,Lenovo,Computers,PayPal,Cancelled,10,23449.2,234492.0,4/15/2026,5/2/2026
+Annetta Dafforne,Caloocan,Headphones,HP,Audio,GCash,Pending,6,35329.26,211975.56,4/5/2026,5/1/2026
+Janette Liddiatt,Iloilo City,Power Bank,Huawei,Accessories,PayPal,Shipped,1,9718.03,9718.03,5/3/2026,4/11/2026
+Nerti Valentine,Cagayan de Oro,Bluetooth Speaker,Asus,Accessories,Cash on Delivery,Shipped,4,51609.87,206439.48,4/28/2026,4/13/2026
+Orel Avrahm,Antipolo,Power Bank,HP,Audio,Credit Card,Cancelled,6,2367.99,14207.94,4/3/2026,4/12/2026
+Templeton Tanzer,Manila,Power Bank,HP,Mobile Devices,Debit Card,Returned,9,28329.23,254963.07,4/28/2026,4/18/2026
+Merralee Cuskery,Cagayan de Oro,Gaming Console,Apple,Gaming,Credit Card,Delivered,3,20007.74,60023.22,4/29/2026,4/6/2026
+Nicolina Gillham,Iloilo City,Gaming Console,Huawei,Wearables,GCash,Shipped,10,63331.38,633313.8,4/6/2026,4/7/2026
+Anatol McKennan,Makati,Tablet,Lenovo,Wearables,Credit Card,Shipped,6,3981.17,23887.02,4/20/2026,4/18/2026
+Griff Stanlick,Makati,Camera,Huawei,Audio,Debit Card,Shipped,4,56294.58,225178.32,4/8/2026,5/2/2026
+Nikos Antognetti,Baguio,Camera,Dell,Audio,Debit Card,Cancelled,7,41248.56,288739.92,4/14/2026,4/11/2026
+Barny Carrodus,Taguig,Monitor,Lenovo,Audio,Cash on Delivery,Shipped,1,6954.08,6954.08,4/22/2026,4/19/2026
+Merrile Borg-Bartolo,Cebu City,Monitor,Apple,Gaming,Credit Card,Shipped,6,61668.08,370008.48,4/11/2026,5/7/2026
+Elsy Serfati,Bacoor,Smartphone,Sony,Audio,GCash,Returned,1,9062.25,9062.25,5/1/2026,4/13/2026
+Dori Roxburgh,Baguio,Monitor,Huawei,Wearables,Debit Card,Returned,7,51606.72,361247.04,4/30/2026,5/8/2026
+Leena Manklow,Dasmariñas,Monitor,Xiaomi,Wearables,Credit Card,Pending,9,25759.86,231838.74,4/11/2026,4/11/2026
+Lucila Jewks,Caloocan,Monitor,HP,Mobile Devices,Credit Card,Returned,5,35014.62,175073.1,4/7/2026,5/6/2026
+Bartholomew Dussy,Davao City,Smartphone,Asus,Accessories,GCash,Delivered,5,59550.55,297752.75,4/3/2026,4/10/2026
+Karel O'Fearguise,Dasmariñas,Tablet,Asus,Wearables,Cash on Delivery,Cancelled,9,64087.51,576787.59,4/11/2026,4/16/2026
+Gwendolin Versey,Cebu City,Smartwatch,Apple,Audio,Cash on Delivery,Cancelled,7,48343.2,338402.4,4/14/2026,4/10/2026
+Philipa Kummerlowe,Makati,Tablet,Apple,Audio,Credit Card,Pending,6,70171.34,421028.04,4/28/2026,4/6/2026
+Annmarie Medd,Cebu City,Smartphone,Lenovo,Gaming,Cash on Delivery,Returned,10,78568.28,785682.8,4/13/2026,4/15/2026
+Lauretta Adkins,Iloilo City,Smartphone,Dell,Gaming,PayPal,Delivered,2,43898.21,87796.42,4/30/2026,4/29/2026
+Latashia Dixie,Bacoor,Gaming Console,Samsung,Mobile Devices,Debit Card,Pending,8,48716.35,389730.8,4/2/2026,4/27/2026
+Nathalie Evitts,Cagayan de Oro,Laptop,Samsung,Gaming,Cash on Delivery,Pending,9,67985.87,611872.83,4/14/2026,4/10/2026
+Maurise Markwelley,Cebu City,Laptop,Apple,Accessories,Debit Card,Pending,8,10116.44,80931.52,4/16/2026,4/5/2026
+Gothart Rosthorn,Bacoor,Laptop,Huawei,Audio,Debit Card,Returned,1,9748.74,9748.74,4/12/2026,4/17/2026
+Claresta Narup,Pasig,Camera,Sony,Wearables,Debit Card,Shipped,3,53478.22,160434.66,4/4/2026,4/6/2026
+Haily Tadd,Taguig,Camera,HP,Mobile Devices,PayPal,Delivered,9,50275.78,452482.02,4/14/2026,4/30/2026
+Cal Jankin,Antipolo,Smartwatch,Dell,Audio,Credit Card,Returned,1,65428.88,65428.88,5/4/2026,4/30/2026
+Godart Sidgwick,Taguig,Gaming Console,Dell,Computers,Debit Card,Shipped,8,60435.93,483487.44,4/12/2026,5/8/2026
+Melamie Girdler,Cagayan de Oro,Gaming Console,Dell,Computers,Debit Card,Returned,4,46227.36,184909.44,4/23/2026,4/27/2026
+Brnaby Adshed,Manila,Headphones,Samsung,Computers,PayPal,Pending,5,66240.94,331204.7,4/24/2026,4/28/2026
+Hazlett Asbury,Cebu City,Smartphone,Sony,Wearables,Credit Card,Delivered,5,19870.21,99351.05,4/2/2026,4/24/2026
+Robinetta Rayman,Iloilo City,Smartwatch,Sony,Wearables,PayPal,Delivered,3,13576.7,40730.1,4/3/2026,4/4/2026
+Finn Fitchen,Bacoor,Smartwatch,Dell,Gaming,GCash,Shipped,3,36876.74,110630.22,4/23/2026,5/6/2026
+Em Younglove,Caloocan,Camera,Logitech,Mobile Devices,GCash,Returned,10,29120.43,291204.3,4/10/2026,5/6/2026
+Zachery Vase,Manila,Tablet,HP,Accessories,Debit Card,Cancelled,1,32198.08,32198.08,4/22/2026,4/19/2026
+Lynn Masurel,Manila,Smartwatch,Huawei,Mobile Devices,Cash on Delivery,Delivered,6,1712.78,10276.68,4/6/2026,4/6/2026
+Julina O'Hern,Bacoor,Power Bank,Lenovo,Computers,Credit Card,Returned,3,77600.16,232800.48,4/27/2026,4/24/2026
+Alfons Bullas,Manila,Laptop,Samsung,Gaming,Debit Card,Shipped,6,31324.21,187945.26,4/3/2026,4/15/2026
+Iorgos Seawell,Davao City,Bluetooth Speaker,Apple,Gaming,PayPal,Pending,3,66817.22,200451.66,4/21/2026,4/5/2026
+Kimberly Fedoronko,Taguig,Power Bank,Huawei,Gaming,Credit Card,Shipped,7,55226.72,386587.04,4/1/2026,4/30/2026
+Danica Gullivan,Makati,Gaming Console,Asus,Audio,GCash,Returned,6,61038.42,366230.52,5/4/2026,5/8/2026
+Deerdre Pleasance,Bacoor,Gaming Console,Xiaomi,Wearables,Debit Card,Returned,1,2512.49,2512.49,4/15/2026,4/6/2026
+Shannen Blindermann,Iloilo City,Monitor,Logitech,Accessories,GCash,Returned,9,51670.56,465035.04,4/24/2026,4/14/2026
+Shepherd Van Leeuwen,Antipolo,Power Bank,Asus,Accessories,Cash on Delivery,Shipped,6,19979.85,119879.1,4/24/2026,4/9/2026
+Elston Shillaber,Quezon City,Camera,HP,Computers,PayPal,Delivered,7,50554.35,353880.45,4/25/2026,4/27/2026
+Fee Wyllie,Bacoor,Tablet,Huawei,Accessories,Debit Card,Returned,9,7349.28,66143.52,4/30/2026,4/20/2026
+Maria Chilles,Quezon City,Power Bank,Apple,Computers,Debit Card,Returned,1,39415.94,39415.94,4/16/2026,5/4/2026
+Galvan Hebborne,Manila,Bluetooth Speaker,Samsung,Mobile Devices,PayPal,Pending,5,71457.84,357289.2,5/2/2026,5/9/2026
+Marya O'Coskerry,Pasig,Gaming Console,Dell,Wearables,Credit Card,Delivered,1,59568.78,59568.78,4/12/2026,4/5/2026
+Maxwell Ranahan,Dasmariñas,Power Bank,Sony,Computers,Credit Card,Delivered,2,71508.16,143016.32,4/5/2026,4/9/2026
+Odessa Melan,Iloilo City,Tablet,HP,Computers,GCash,Delivered,7,39885.17,279196.19,4/6/2026,4/5/2026
+Wyatan Paulot,Baguio,Monitor,Logitech,Computers,Cash on Delivery,Returned,1,35063.0,35063.0,4/15/2026,4/25/2026
+Siegfried Rothermel,Iloilo City,Gaming Console,Asus,Wearables,Cash on Delivery,Delivered,5,9300.47,46502.35,4/15/2026,4/25/2026
+Edmund Linny,Baguio,Tablet,Huawei,Computers,Credit Card,Pending,5,20974.26,104871.3,4/3/2026,4/26/2026
+Dede Tixall,Quezon City,Monitor,Xiaomi,Computers,Debit Card,Cancelled,1,40922.41,40922.41,4/19/2026,5/7/2026
+Valerye Guyer,Caloocan,Power Bank,Samsung,Wearables,Debit Card,Returned,8,10195.26,81562.08,4/4/2026,4/11/2026
+Lucia Byne,Dasmariñas,Smartphone,Asus,Gaming,Credit Card,Cancelled,6,3144.41,18866.46,4/25/2026,4/17/2026
+Leyla Bridgement,Dasmariñas,Power Bank,Sony,Audio,PayPal,Cancelled,8,13591.37,108730.96,4/12/2026,4/11/2026
+Vanni Messier,Caloocan,Power Bank,Asus,Accessories,Credit Card,Returned,3,30714.63,92143.89,4/2/2026,4/24/2026
+Raquela Pendergast,Bacoor,Smartwatch,Dell,Accessories,Credit Card,Cancelled,6,23968.3,143809.8,4/2/2026,4/23/2026
+Bobby Goodliff,Makati,Tablet,Logitech,Computers,GCash,Returned,3,38717.49,116152.47,4/18/2026,4/23/2026
+Analiese Corden,Antipolo,Smartphone,Samsung,Mobile Devices,Credit Card,Cancelled,6,20389.98,122339.88,4/25/2026,4/15/2026
+Ricky Winkworth,Caloocan,Headphones,Sony,Mobile Devices,PayPal,Cancelled,5,70630.42,353152.1,4/20/2026,4/21/2026
+Lyndell Tranckle,Taguig,Tablet,Logitech,Accessories,Debit Card,Delivered,9,38408.77,345678.93,4/22/2026,4/15/2026
+Elvera Ventham,Pasig,Camera,Huawei,Accessories,Debit Card,Returned,5,19664.02,98320.1,4/28/2026,5/5/2026
+Maureen Gorgen,Cagayan de Oro,Headphones,Huawei,Mobile Devices,Debit Card,Delivered,6,38319.24,229915.44,4/4/2026,4/6/2026
+Cecilio Rippingall,Quezon City,Camera,Huawei,Computers,Credit Card,Cancelled,9,70876.4,637887.6,4/14/2026,4/21/2026
+Rawley Symondson,Iloilo City,Smartphone,Dell,Audio,Cash on Delivery,Cancelled,1,12532.15,12532.15,4/13/2026,5/7/2026
+Guillaume Vernalls,Davao City,Tablet,Sony,Audio,Credit Card,Pending,10,58106.76,581067.6,4/14/2026,4/28/2026
+Karil Plimmer,Caloocan,Monitor,Logitech,Mobile Devices,GCash,Pending,1,11161.32,11161.32,4/2/2026,4/26/2026
+Josie Beetham,Dasmariñas,Power Bank,Lenovo,Mobile Devices,Cash on Delivery,Pending,8,14015.96,112127.68,4/20/2026,4/13/2026
+Celestine Brumfitt,Dasmariñas,Smartphone,Xiaomi,Accessories,PayPal,Shipped,5,47145.24,235726.2,4/17/2026,4/21/2026
+Hashim Dupre,Taguig,Camera,Sony,Audio,Cash on Delivery,Delivered,6,76408.95,458453.7,4/8/2026,5/7/2026
+Britte Santo,Davao City,Tablet,Huawei,Accessories,GCash,Returned,10,55243.56,552435.6,4/5/2026,5/7/2026
+Alfie Probin,Manila,Gaming Console,Sony,Accessories,Cash on Delivery,Delivered,3,623.39,1870.17,5/4/2026,4/21/2026
+Hesther Rolston,Makati,Headphones,Huawei,Gaming,PayPal,Pending,7,21859.32,153015.24,4/11/2026,4/19/2026
+Selena Whapham,Dasmariñas,Laptop,Asus,Wearables,Debit Card,Cancelled,7,72980.97,510866.79,4/12/2026,5/8/2026
+Dianna Cluely,Antipolo,Monitor,Asus,Accessories,PayPal,Shipped,9,22164.38,199479.42,4/19/2026,5/5/2026
+Evie Weafer,Pasig,Power Bank,Lenovo,Computers,GCash,Shipped,7,71785.68,502499.76,4/14/2026,4/22/2026
+Enrika Jayes,Quezon City,Camera,Samsung,Computers,Debit Card,Delivered,9,37458.56,337127.04,4/17/2026,5/6/2026
+Talia Reijmers,Pasig,Tablet,Huawei,Audio,Debit Card,Delivered,8,15228.84,121830.72,4/30/2026,4/21/2026
+Claretta Babbe,Pasig,Monitor,Samsung,Gaming,Cash on Delivery,Pending,2,43867.25,87734.5,4/25/2026,4/6/2026
+Terence Littlejohn,Taguig,Power Bank,HP,Mobile Devices,PayPal,Returned,7,23319.1,163233.7,4/18/2026,5/5/2026
+Bowie Gritten,Bacoor,Bluetooth Speaker,Logitech,Audio,Cash on Delivery,Pending,9,24762.6,222863.4,4/12/2026,4/18/2026
+Harbert Huitt,Manila,Camera,Dell,Computers,Debit Card,Delivered,6,43730.33,262381.98,4/25/2026,4/7/2026
+Hally Gosselin,Baguio,Tablet,Lenovo,Mobile Devices,Cash on Delivery,Returned,9,61243.07,551187.63,5/1/2026,4/24/2026
+Joan Nurden,Makati,Gaming Console,Asus,Computers,Credit Card,Pending,8,38482.78,307862.24,4/28/2026,4/10/2026
+Carlo Garland,Antipolo,Power Bank,Sony,Computers,Credit Card,Delivered,10,76351.4,763514.0,4/11/2026,4/21/2026
+Indira Flack,Quezon City,Smartwatch,Huawei,Audio,GCash,Pending,7,18154.38,127080.66,4/12/2026,4/17/2026
+Hodge McNeely,Cagayan de Oro,Tablet,Lenovo,Gaming,Cash on Delivery,Delivered,5,31213.56,156067.8,4/25/2026,5/7/2026
+Stefanie Jaffrey,Bacoor,Laptop,Huawei,Computers,Credit Card,Pending,2,4040.53,8081.06,4/28/2026,4/9/2026
+Suzie Delbergue,Cebu City,Camera,Asus,Gaming,GCash,Pending,8,48775.6,390204.8,4/29/2026,4/15/2026
+Natka Japp,Cebu City,Tablet,Apple,Gaming,Debit Card,Delivered,6,1542.95,9257.7,5/2/2026,4/15/2026
+Del Shellcross,Davao City,Smartphone,Lenovo,Computers,PayPal,Delivered,7,6230.2,43611.4,4/27/2026,4/6/2026
+Jackson Bull,Taguig,Camera,Lenovo,Audio,Debit Card,Pending,1,48486.61,48486.61,4/15/2026,4/19/2026
+Phelia Lindberg,Makati,Tablet,Logitech,Accessories,PayPal,Delivered,9,30540.53,274864.77,4/15/2026,4/27/2026
+Cam Nurcombe,Manila,Monitor,HP,Wearables,GCash,Delivered,6,71232.09,427392.54,4/27/2026,4/24/2026
+Harcourt Fillery,Pasig,Monitor,Asus,Mobile Devices,GCash,Cancelled,2,68856.77,137713.54,4/24/2026,4/19/2026
+Giusto Tireman,Cebu City,Smartwatch,Apple,Mobile Devices,PayPal,Cancelled,2,15266.61,30533.22,4/24/2026,4/10/2026
+Drud Gabel,Cagayan de Oro,Smartphone,Logitech,Wearables,PayPal,Delivered,5,56066.65,280333.25,4/4/2026,4/13/2026
+Bette-ann Ditt,Taguig,Laptop,Huawei,Accessories,Debit Card,Delivered,1,39445.99,39445.99,4/15/2026,4/29/2026
+Arri Anchor,Makati,Camera,Lenovo,Computers,Debit Card,Returned,8,75461.33,603690.64,4/9/2026,4/27/2026
+Theodore Biddy,Baguio,Gaming Console,Asus,Mobile Devices,Credit Card,Pending,2,8855.47,17710.94,4/20/2026,4/26/2026
+Raine Neles,Makati,Tablet,Logitech,Computers,Cash on Delivery,Shipped,8,11424.65,91397.2,4/24/2026,4/15/2026
+Ethe Ganford,Manila,Monitor,HP,Mobile Devices,PayPal,Cancelled,8,46933.56,375468.48,5/4/2026,5/6/2026
+Selig Starr,Quezon City,Smartphone,Samsung,Wearables,Credit Card,Pending,1,40981.93,40981.93,5/4/2026,4/17/2026
+Frank Batstone,Taguig,Tablet,Lenovo,Computers,Debit Card,Shipped,6,61384.04,368304.24,4/9/2026,4/27/2026
+Rolando Georgel,Antipolo,Power Bank,Samsung,Wearables,PayPal,Delivered,3,45739.08,137217.24,4/3/2026,4/13/2026
+Pammie Tomkys,Dasmariñas,Tablet,Xiaomi,Accessories,Debit Card,Pending,8,9483.7,75869.6,4/2/2026,5/3/2026
+Cara Scutching,Antipolo,Smartwatch,Logitech,Gaming,GCash,Shipped,3,18529.39,55588.17,4/16/2026,4/20/2026
+Iago Cordoba,Pasig,Headphones,Huawei,Computers,Debit Card,Pending,9,74233.33,668099.97,4/4/2026,4/21/2026
+Dalenna Wimp,Makati,Smartphone,Asus,Mobile Devices,GCash,Pending,3,35558.56,106675.68,5/1/2026,4/24/2026
+Tedie Lightwing,Davao City,Tablet,Apple,Accessories,Debit Card,Cancelled,7,68906.2,482343.4,4/28/2026,4/14/2026
+Nanice Coley,Cebu City,Bluetooth Speaker,Asus,Mobile Devices,Debit Card,Shipped,1,5342.75,5342.75,4/10/2026,4/16/2026
+Lacee Grishakov,Dasmariñas,Power Bank,Huawei,Audio,Credit Card,Returned,3,21803.39,65410.17,4/19/2026,4/11/2026
+Rogerio Campos,Davao City,Smartwatch,Asus,Audio,Credit Card,Returned,3,41930.45,125791.35,4/25/2026,4/6/2026
+Hazlett Northen,Antipolo,Laptop,Asus,Computers,Cash on Delivery,Pending,7,28024.25,196169.75,4/1/2026,4/16/2026
+Ellette Alleway,Bacoor,Smartphone,Huawei,Wearables,Credit Card,Delivered,1,58761.34,58761.34,4/6/2026,4/4/2026
+Christen Nilles,Caloocan,Power Bank,Sony,Mobile Devices,GCash,Shipped,9,40732.76,366594.84,5/4/2026,5/4/2026
+Lamond Trowsdall,Dasmariñas,Bluetooth Speaker,Asus,Audio,Cash on Delivery,Returned,8,44004.6,352036.8,4/8/2026,4/30/2026
+Brynna Barthelemy,Baguio,Power Bank,Logitech,Computers,Debit Card,Shipped,4,54057.35,216229.4,4/15/2026,4/11/2026
+Neron Littlejohns,Cagayan de Oro,Gaming Console,Lenovo,Gaming,Debit Card,Cancelled,10,79894.98,798949.8,4/18/2026,5/7/2026
+Lynne Btham,Antipolo,Monitor,Sony,Wearables,GCash,Returned,3,55239.64,165718.92,4/24/2026,4/11/2026
+June Fri,Makati,Gaming Console,Dell,Wearables,Cash on Delivery,Shipped,8,27812.31,222498.48,4/21/2026,4/5/2026
+Reine Sigart,Cagayan de Oro,Power Bank,Samsung,Audio,Debit Card,Returned,9,62731.6,564584.4,4/7/2026,5/6/2026
+Neile Crumb,Taguig,Smartwatch,Sony,Audio,GCash,Delivered,8,52127.55,417020.4,5/1/2026,5/1/2026
+Willy Dingle,Dasmariñas,Smartphone,Sony,Audio,Credit Card,Cancelled,9,48759.7,438837.3,5/2/2026,4/6/2026
+Nessie Aaronson,Cagayan de Oro,Tablet,Huawei,Audio,Cash on Delivery,Delivered,5,46356.05,231780.25,4/26/2026,5/3/2026
+Selene Briatt,Makati,Smartwatch,Dell,Audio,Debit Card,Shipped,2,46985.58,93971.16,4/23/2026,5/6/2026
+Nellie Kerwen,Baguio,Gaming Console,Xiaomi,Computers,Credit Card,Returned,1,45531.67,45531.67,4/3/2026,4/6/2026
+Susannah Knivett,Cebu City,Smartwatch,Xiaomi,Gaming,PayPal,Shipped,8,51434.5,411476.0,4/16/2026,4/25/2026
+Benji Searston,Antipolo,Smartwatch,Dell,Mobile Devices,PayPal,Shipped,3,63295.72,189887.16,4/10/2026,4/13/2026
+Stafani Southan,Iloilo City,Headphones,Huawei,Mobile Devices,PayPal,Shipped,2,79095.65,158191.3,5/1/2026,5/7/2026
+Kristina Howen,Iloilo City,Laptop,HP,Computers,PayPal,Pending,5,52666.0,263330.0,4/14/2026,4/16/2026
+Nil Delicate,Makati,Smartphone,Xiaomi,Accessories,GCash,Pending,10,3959.91,39599.1,4/12/2026,4/29/2026
+Joane Tasseler,Bacoor,Smartwatch,Logitech,Computers,GCash,Delivered,9,9240.79,83167.11,4/18/2026,4/18/2026
+Priscella Flinders,Makati,Monitor,Samsung,Accessories,PayPal,Delivered,9,71573.95,644165.55,4/27/2026,5/7/2026
+Dulsea Callear,Davao City,Tablet,Huawei,Accessories,Cash on Delivery,Delivered,8,2283.78,18270.24,5/2/2026,4/13/2026
+Carlin Higgoe,Davao City,Smartwatch,Huawei,Gaming,GCash,Pending,3,23618.54,70855.62,4/7/2026,4/12/2026
+Yasmeen Rioch,Taguig,Smartwatch,Lenovo,Wearables,PayPal,Cancelled,3,40418.76,121256.28,5/1/2026,4/30/2026
+Myer Pacher,Caloocan,Bluetooth Speaker,Logitech,Audio,Cash on Delivery,Delivered,10,75602.54,756025.4,4/14/2026,4/10/2026
+Maurits Belden,Dasmariñas,Tablet,Sony,Gaming,Cash on Delivery,Pending,9,18755.27,168797.43,4/14/2026,5/4/2026
+Patin Spurnier,Caloocan,Smartwatch,HP,Computers,GCash,Pending,4,77609.54,310438.16,5/4/2026,4/23/2026
+Kyle Edmans,Taguig,Camera,Huawei,Gaming,Debit Card,Cancelled,2,2771.76,5543.52,4/11/2026,4/10/2026
+Mallorie Callaway,Davao City,Tablet,HP,Audio,Cash on Delivery,Pending,2,8310.21,16620.42,4/13/2026,4/6/2026
+Kiri Nyssen,Makati,Power Bank,Asus,Accessories,GCash,Cancelled,2,73050.47,146100.94,4/14/2026,5/1/2026
+Ingrim Petit,Cagayan de Oro,Power Bank,HP,Gaming,Credit Card,Pending,5,26987.94,134939.7,4/25/2026,4/15/2026
+Antonius Bispham,Makati,Monitor,Xiaomi,Wearables,PayPal,Shipped,8,52844.74,422757.92,4/26/2026,5/3/2026
+Gregorius Dominiak,Manila,Monitor,Lenovo,Accessories,Cash on Delivery,Returned,4,51686.16,206744.64,4/5/2026,4/19/2026
+Carlee Taillant,Caloocan,Power Bank,Huawei,Mobile Devices,Cash on Delivery,Cancelled,7,32133.79,224936.53,4/7/2026,4/20/2026
+Stu Escalero,Cagayan de Oro,Camera,HP,Gaming,Credit Card,Pending,10,27338.74,273387.4,4/29/2026,4/24/2026
+Alvie Skiggs,Cebu City,Bluetooth Speaker,Xiaomi,Wearables,Debit Card,Returned,1,72083.23,72083.23,4/23/2026,4/5/2026
+Vonnie Cockerill,Dasmariñas,Gaming Console,Apple,Audio,Credit Card,Returned,2,14783.08,29566.16,4/9/2026,4/8/2026
+Trixie Roof,Cagayan de Oro,Tablet,Asus,Mobile Devices,GCash,Shipped,1,69133.37,69133.37,4/24/2026,4/15/2026
+Hyman Edworthy,Taguig,Smartphone,Sony,Computers,PayPal,Delivered,1,5656.25,5656.25,4/11/2026,4/14/2026
+Eula Van Der Weedenburg,Antipolo,Gaming Console,Huawei,Computers,Credit Card,Pending,2,6667.8,13335.6,4/8/2026,4/28/2026
+Ambrose Knappett,Cagayan de Oro,Tablet,Huawei,Wearables,PayPal,Pending,5,13257.1,66285.5,4/7/2026,4/26/2026
+Jane Feaveer,Bacoor,Headphones,Samsung,Wearables,Debit Card,Shipped,5,43241.25,216206.25,4/11/2026,4/21/2026
+Colas Ungerecht,Caloocan,Smartwatch,Dell,Accessories,Credit Card,Cancelled,7,9216.65,64516.55,4/30/2026,4/28/2026
+Carma Haydney,Makati,Tablet,Dell,Computers,Debit Card,Shipped,6,62392.96,374357.76,4/23/2026,4/24/2026
+Giacopo Costigan,Cagayan de Oro,Bluetooth Speaker,HP,Audio,Cash on Delivery,Pending,9,30554.5,274990.5,4/7/2026,4/26/2026
+Kenna Staggs,Cagayan de Oro,Monitor,Logitech,Wearables,Debit Card,Cancelled,10,61949.79,619497.9,4/16/2026,4/21/2026
+Katine Oldaker,Makati,Smartphone,HP,Wearables,Cash on Delivery,Cancelled,10,70700.96,707009.6,4/28/2026,4/22/2026
+Claudia Barchrameev,Quezon City,Tablet,Dell,Computers,Credit Card,Pending,3,64879.47,194638.41,4/19/2026,4/5/2026
+Rubia Pryer,Bacoor,Tablet,Huawei,Accessories,PayPal,Returned,8,41083.69,328669.52,4/22/2026,4/8/2026
+Michail Fawdrie,Manila,Smartphone,Apple,Wearables,Cash on Delivery,Pending,10,24502.88,245028.8,4/21/2026,5/9/2026
+Tadio Harefoot,Iloilo City,Power Bank,Lenovo,Wearables,GCash,Shipped,9,58468.96,526220.64,5/2/2026,5/5/2026
+Birch Yeomans,Pasig,Smartphone,HP,Computers,PayPal,Pending,3,17441.05,52323.15,4/9/2026,5/7/2026
+Rowena Steckings,Caloocan,Power Bank,Logitech,Gaming,Debit Card,Pending,10,56693.17,566931.7,5/4/2026,5/4/2026
+Elora Swadlinge,Davao City,Monitor,Apple,Accessories,Credit Card,Returned,8,73173.45,585387.6,4/26/2026,4/27/2026
+Beau Newens,Taguig,Bluetooth Speaker,Apple,Mobile Devices,GCash,Returned,8,75942.9,607543.2,4/22/2026,4/24/2026
+Stevena Clunie,Iloilo City,Smartphone,Xiaomi,Accessories,Credit Card,Cancelled,7,9492.66,66448.62,4/23/2026,5/1/2026
+Martica Chaulk,Baguio,Bluetooth Speaker,Lenovo,Mobile Devices,GCash,Delivered,5,4649.5,23247.5,4/16/2026,4/11/2026
+Adolphus Ronnay,Iloilo City,Tablet,Dell,Accessories,Debit Card,Pending,10,79715.6,797156.0,4/20/2026,5/8/2026
+Ninnetta Wavish,Taguig,Tablet,Huawei,Mobile Devices,PayPal,Cancelled,7,55227.56,386592.92,4/11/2026,5/2/2026
+Demetri Say,Makati,Headphones,Logitech,Gaming,Cash on Delivery,Pending,8,75233.39,601867.12,4/8/2026,4/10/2026
+Westbrooke Sparey,Dasmariñas,Gaming Console,Lenovo,Accessories,Debit Card,Delivered,9,77746.44,699717.96,4/9/2026,4/6/2026
+Florrie Roseburgh,Manila,Smartwatch,Sony,Audio,Cash on Delivery,Pending,2,28359.78,56719.56,4/4/2026,5/7/2026
+Regina Ginty,Makati,Tablet,Lenovo,Audio,GCash,Cancelled,10,56180.89,561808.9,4/21/2026,4/10/2026
+Aubert Jerzycowski,Dasmariñas,Headphones,Dell,Accessories,Credit Card,Delivered,5,31456.21,157281.05,4/18/2026,4/21/2026
+Viole Rumsey,Bacoor,Camera,Sony,Computers,Cash on Delivery,Shipped,1,69931.07,69931.07,4/4/2026,4/7/2026
+Celestia Ruste,Makati,Smartwatch,Huawei,Computers,Debit Card,Shipped,2,35373.12,70746.24,4/10/2026,4/8/2026
+Calypso Heinert,Manila,Gaming Console,HP,Computers,Cash on Delivery,Pending,10,37449.7,374497.0,4/16/2026,4/28/2026
+Teodoor Shalloe,Davao City,Bluetooth Speaker,HP,Wearables,GCash,Pending,5,58169.97,290849.85,4/25/2026,4/28/2026
+Gwyn Rydeard,Pasig,Smartphone,Xiaomi,Mobile Devices,GCash,Delivered,3,37280.47,111841.41,4/15/2026,4/25/2026
+Charissa Farra,Baguio,Laptop,Logitech,Mobile Devices,PayPal,Delivered,4,2454.67,9818.68,4/11/2026,4/21/2026
+Arnuad Eby,Davao City,Bluetooth Speaker,Lenovo,Computers,Credit Card,Shipped,5,54859.82,274299.1,4/17/2026,4/17/2026
+Ricki Tremblay,Pasig,Tablet,Xiaomi,Accessories,Cash on Delivery,Pending,3,75077.53,225232.59,4/15/2026,4/27/2026
+Sherilyn Nevin,Bacoor,Power Bank,Samsung,Wearables,PayPal,Cancelled,5,1031.45,5157.25,4/10/2026,4/10/2026
+Killian Surpliss,Manila,Gaming Console,HP,Gaming,GCash,Shipped,9,76366.95,687302.55,4/4/2026,4/17/2026
+Harli Challender,Bacoor,Bluetooth Speaker,Dell,Gaming,Credit Card,Cancelled,6,14268.65,85611.9,4/3/2026,4/8/2026
+Ludwig Delouch,Bacoor,Smartphone,Sony,Accessories,Credit Card,Pending,1,38564.58,38564.58,5/2/2026,5/5/2026
+Donni Pyatt,Caloocan,Camera,HP,Computers,PayPal,Shipped,10,43337.38,433373.8,4/24/2026,4/8/2026
+Truman Heckney,Iloilo City,Headphones,Asus,Gaming,PayPal,Delivered,6,56420.59,338523.54,5/1/2026,4/16/2026
+Daren Woodnutt,Baguio,Bluetooth Speaker,Apple,Mobile Devices,GCash,Pending,6,2751.96,16511.76,4/14/2026,4/25/2026
+Ken Finci,Cebu City,Power Bank,Huawei,Wearables,Debit Card,Returned,1,71736.54,71736.54,4/23/2026,4/29/2026
+Clarine Escalera,Manila,Smartphone,Sony,Accessories,PayPal,Returned,10,30273.01,302730.1,5/3/2026,4/11/2026
+Gallagher Barrass,Taguig,Tablet,Samsung,Mobile Devices,GCash,Shipped,10,64025.6,640256.0,5/4/2026,4/16/2026
+Lucille Calverd,Taguig,Headphones,Lenovo,Audio,Credit Card,Pending,9,53489.72,481407.48,4/11/2026,4/12/2026
+Chick Nan Carrow,Baguio,Smartwatch,Samsung,Accessories,PayPal,Delivered,6,61292.75,367756.5,4/5/2026,5/5/2026
+Vera Bann,Iloilo City,Gaming Console,Dell,Computers,Credit Card,Delivered,4,5957.48,23829.92,4/8/2026,4/21/2026
+Gar Wahner,Antipolo,Power Bank,Apple,Accessories,PayPal,Shipped,10,11541.63,115416.3,5/2/2026,4/23/2026
+Russell Brimmacombe,Iloilo City,Bluetooth Speaker,Huawei,Audio,PayPal,Shipped,8,45825.42,366603.36,4/16/2026,5/5/2026
+Rosalind Kinnin,Baguio,Smartphone,Logitech,Mobile Devices,Debit Card,Shipped,3,48816.52,146449.56,4/17/2026,5/6/2026
+Farly McKew,Dasmariñas,Smartphone,Lenovo,Wearables,GCash,Pending,2,33238.15,66476.3,4/12/2026,5/9/2026
+Giacobo Haselwood,Makati,Bluetooth Speaker,Dell,Accessories,PayPal,Shipped,10,27415.44,274154.4,4/29/2026,5/4/2026
+Octavius Sapsforde,Pasig,Headphones,Lenovo,Wearables,Credit Card,Returned,1,7239.58,7239.58,4/8/2026,4/13/2026
+Eadith Brizland,Davao City,Power Bank,HP,Accessories,GCash,Shipped,5,71295.63,356478.15,5/2/2026,4/5/2026
+Berti McKeevers,Iloilo City,Bluetooth Speaker,Lenovo,Gaming,GCash,Delivered,4,51240.48,204961.92,4/13/2026,4/28/2026
+Sherie Petrushanko,Davao City,Gaming Console,Apple,Audio,PayPal,Pending,10,866.15,8661.5,4/14/2026,4/22/2026
+Basil Edgcombe,Antipolo,Headphones,Lenovo,Mobile Devices,Credit Card,Returned,8,67469.31,539754.48,5/3/2026,4/30/2026
+Olav Forte,Taguig,Headphones,Apple,Mobile Devices,GCash,Cancelled,8,1810.07,14480.56,4/26/2026,4/30/2026
+Daryle Maty,Quezon City,Monitor,Apple,Mobile Devices,Cash on Delivery,Shipped,9,29185.29,262667.61,4/18/2026,4/10/2026
+Horatia Canepe,Makati,Tablet,Dell,Computers,Debit Card,Delivered,1,24748.22,24748.22,4/21/2026,5/7/2026
+Odessa O'Docherty,Dasmariñas,Smartphone,Samsung,Accessories,GCash,Cancelled,10,46761.33,467613.3,5/2/2026,5/1/2026
+Reggis Twinberrow,Pasig,Monitor,Apple,Mobile Devices,Debit Card,Pending,4,2826.52,11306.08,5/4/2026,4/18/2026
+Dannie Heimes,Dasmariñas,Gaming Console,Huawei,Computers,Debit Card,Returned,4,41275.23,165100.92,4/6/2026,4/7/2026
+Kelley Lownes,Cagayan de Oro,Camera,HP,Accessories,Cash on Delivery,Pending,8,56692.97,453543.76,4/15/2026,5/7/2026
+Melodie Churching,Antipolo,Power Bank,Lenovo,Audio,Credit Card,Cancelled,4,11336.76,45347.04,4/19/2026,4/6/2026
+Isis Borleace,Bacoor,Monitor,Apple,Audio,GCash,Delivered,9,11245.76,101211.84,4/12/2026,4/8/2026
+Daniele Lambregts,Makati,Tablet,Samsung,Computers,Cash on Delivery,Pending,3,66677.3,200031.9,4/23/2026,4/19/2026
+Julissa Stookes,Davao City,Tablet,Samsung,Mobile Devices,Debit Card,Returned,8,56370.19,450961.52,4/20/2026,4/30/2026
+Andria Simonou,Bacoor,Laptop,Lenovo,Computers,Debit Card,Pending,3,51546.13,154638.39,4/19/2026,4/4/2026
+Anstice Fanner,Quezon City,Tablet,Samsung,Gaming,Credit Card,Cancelled,10,52041.81,520418.1,4/29/2026,4/14/2026
+Rosette Gooderidge,Cagayan de Oro,Headphones,HP,Computers,Debit Card,Cancelled,3,68406.92,205220.76,4/1/2026,4/23/2026
+Dolf L'Hommeau,Davao City,Smartwatch,Apple,Accessories,PayPal,Cancelled,3,23435.04,70305.12,5/2/2026,5/9/2026
+Clevey Castiello,Cagayan de Oro,Smartphone,Lenovo,Computers,Cash on Delivery,Returned,9,31405.82,282652.38,4/3/2026,5/4/2026
+Cornie Samarth,Manila,Monitor,Logitech,Gaming,Credit Card,Delivered,5,9424.15,47120.75,4/20/2026,4/13/2026
+Kaile Moxted,Caloocan,Laptop,Samsung,Accessories,Cash on Delivery,Delivered,10,34023.45,340234.5,4/16/2026,4/16/2026
+Hyacinthie Furney,Taguig,Smartwatch,Samsung,Wearables,Credit Card,Delivered,7,1985.41,13897.87,4/24/2026,5/3/2026
+Olga Edis,Davao City,Smartphone,Xiaomi,Gaming,PayPal,Shipped,1,77748.41,77748.41,4/14/2026,4/12/2026
+Zorah Van der Brug,Iloilo City,Power Bank,Asus,Wearables,GCash,Shipped,8,64834.94,518679.52,4/21/2026,4/7/2026
+Ebony Sprouls,Pasig,Tablet,Logitech,Wearables,Credit Card,Shipped,4,2263.96,9055.84,4/14/2026,4/30/2026
+Rhoda Casella,Makati,Gaming Console,Samsung,Gaming,Debit Card,Returned,1,79650.69,79650.69,4/30/2026,4/23/2026
+Chaddy Whatford,Taguig,Laptop,Dell,Audio,Cash on Delivery,Shipped,3,62656.12,187968.36,4/1/2026,4/20/2026
+Diane-marie Ambrosetti,Dasmariñas,Laptop,Sony,Gaming,GCash,Delivered,8,62620.98,500967.84,5/4/2026,5/5/2026
+Marve Phil,Iloilo City,Tablet,Asus,Mobile Devices,Credit Card,Pending,7,6227.17,43590.19,4/9/2026,5/3/2026
+Samaria Smissen,Taguig,Power Bank,Sony,Gaming,Credit Card,Returned,3,75054.48,225163.44,5/3/2026,4/21/2026
+Marcela Billingsly,Bacoor,Laptop,Asus,Accessories,Credit Card,Pending,10,2203.31,22033.1,4/25/2026,4/8/2026
+Arlan Jekyll,Iloilo City,Gaming Console,HP,Computers,Cash on Delivery,Pending,9,67979.02,611811.18,5/4/2026,5/9/2026
+Cherise Mynard,Caloocan,Smartphone,Sony,Gaming,Credit Card,Delivered,10,44543.85,445438.5,4/27/2026,4/29/2026
+Minna Mattheis,Manila,Gaming Console,Sony,Accessories,GCash,Returned,7,8650.64,60554.48,4/4/2026,4/5/2026
+Vittoria Loughlan,Antipolo,Smartphone,Logitech,Computers,PayPal,Shipped,4,50606.39,202425.56,4/2/2026,4/27/2026
+Conney Kinman,Baguio,Camera,Dell,Wearables,Cash on Delivery,Shipped,9,39547.86,355930.74,4/27/2026,4/14/2026
+Luelle Strettle,Cebu City,Gaming Console,Xiaomi,Accessories,Credit Card,Returned,1,53780.13,53780.13,4/27/2026,4/7/2026
+Athene Dicty,Cebu City,Gaming Console,Xiaomi,Audio,PayPal,Shipped,5,74238.39,371191.95,4/6/2026,4/30/2026
+Jamey Zywicki,Dasmariñas,Power Bank,Dell,Wearables,Debit Card,Shipped,10,26012.17,260121.7,4/20/2026,5/3/2026
+Veda Bunworth,Quezon City,Smartphone,Logitech,Gaming,Cash on Delivery,Delivered,6,57456.54,344739.24,4/25/2026,4/26/2026
+Cymbre Suddards,Davao City,Smartwatch,Dell,Audio,Credit Card,Shipped,4,6101.47,24405.88,4/16/2026,5/5/2026
+Meggie Mitham,Manila,Laptop,Huawei,Gaming,Debit Card,Shipped,8,34029.95,272239.6,4/22/2026,4/20/2026
+Dilly Birtwistle,Caloocan,Smartphone,Logitech,Accessories,Debit Card,Pending,6,50338.79,302032.74,4/12/2026,4/22/2026
+Kimbell Hacard,Taguig,Smartphone,Samsung,Mobile Devices,Cash on Delivery,Returned,4,43299.59,173198.36,4/4/2026,4/18/2026
+Flemming Butland,Iloilo City,Smartwatch,Samsung,Gaming,PayPal,Returned,8,65138.7,521109.6,4/25/2026,4/27/2026
+Mariquilla De Antoni,Manila,Headphones,Lenovo,Accessories,Cash on Delivery,Delivered,8,49575.04,396600.32,4/6/2026,4/27/2026
+Hersh Rivenzon,Baguio,Smartwatch,Samsung,Accessories,Credit Card,Shipped,6,76218.02,457308.12,4/25/2026,4/23/2026
+Anastasia Pothbury,Caloocan,Camera,Dell,Audio,Cash on Delivery,Shipped,4,13973.2,55892.8,4/10/2026,4/26/2026
+Beltran Blanchet,Cagayan de Oro,Laptop,Samsung,Wearables,Credit Card,Returned,6,6702.42,40214.52,5/3/2026,4/12/2026
+Bibbie McMyler,Makati,Camera,Xiaomi,Accessories,GCash,Delivered,1,66690.9,66690.9,4/22/2026,4/29/2026
+Mel Pickworth,Pasig,Gaming Console,Dell,Accessories,PayPal,Pending,8,10884.63,87077.04,4/20/2026,4/23/2026
+Jolyn Lindsey,Antipolo,Camera,Logitech,Accessories,Debit Card,Delivered,10,8031.42,80314.2,4/13/2026,5/4/2026
+Evanne Wallington,Davao City,Headphones,Logitech,Wearables,PayPal,Cancelled,7,54589.22,382124.54,4/24/2026,4/15/2026
