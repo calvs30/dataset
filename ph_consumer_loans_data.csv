@@ -1,0 +1,1201 @@
+Branch_Location,Loan_Product,Employment_Status,Credit_Risk_Rating,Loan_Status,Loan_Amount_PHP,Interest_Rate_Annual,Monthly_Income_PHP,Loan_Term_Months,Days_Past_Due,Application_Date,Disbursement_Date
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,193524.66,20.25,50763.44,24,12,2025-05-17,2025-05-21
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Fully Paid,475850.01,8.88,22529.75,36,35,2025-06-28,2025-07-02
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,368677.03,8.84,58011.03,18,12,2025-02-04,2025-02-09
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,303342.66,13.52,47677.84,24,11,2025-03-23,2025-03-29
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Past Due,86449.13,16.07,86097.67,18,36,2025-05-13,2025-05-17
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,86437.31,20.44,78606.82,36,73,2025-05-22,2025-05-24
+Makati CBD Branch,Emergency Cash Loan,Regular,High Risk,Active,38460.97,19.09,53282.34,12,72,2025-06-07,2025-06-10
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,434426.31,15.41,37878.72,36,51,2025-01-04,2025-01-08
+Quezon City Hub,Salary Loan,Contractual,High Risk,Fully Paid,304546.36,12.74,118743.78,6,70,2025-06-16,2025-06-20
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,356955.56,23.96,62670.17,18,1,2025-06-02,2025-06-08
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,20086.4,15.11,87268.79,12,55,2025-06-05,2025-06-07
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,485255.83,15.5,29758.06,18,59,2025-05-30,2025-06-02
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,417896.89,11.04,65986.92,18,22,2025-06-08,2025-06-12
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Active,114046.16,20.82,17891.36,24,39,2025-01-23,2025-01-26
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Active,99094.23,19.25,68072.79,6,63,2025-02-17,2025-02-22
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,99868.21,11.92,116221.83,18,84,2025-05-28,2025-06-01
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,159078.7,9.78,55341.7,36,22,2025-05-05,2025-05-09
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,High Risk,Active,267130.65,19.05,19094.58,36,28,2025-06-15,2025-06-20
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,221653.06,18.64,18250.36,24,77,2025-02-24,2025-03-02
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Restructured,152702.28,12.74,55738.61,6,89,2025-03-09,2025-03-13
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Restructured,309807.92,23.24,31802.62,6,50,2025-03-29,2025-04-01
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Restructured,78351.99,10.84,17451.97,36,68,2025-01-01,2025-01-03
+Quezon City Hub,Salary Loan,OFW Dependent,Medium Risk,Past Due,153150.88,15.2,94402.43,12,88,2025-05-15,2025-05-18
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,189517.3,23.13,63144.92,24,30,2025-04-05,2025-04-11
+Quezon City Hub,Salary Loan,Regular,High Risk,Fully Paid,233474.29,15.01,45370.7,24,49,2025-05-20,2025-05-22
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,394736.22,18.4,109508.73,36,19,2025-04-16,2025-04-19
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,107840.15,14.66,27194.59,36,54,2025-05-13,2025-05-16
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,261974.87,12.75,115371.48,12,80,2025-04-18,2025-04-23
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,300283.14,23.75,47966.51,12,1,2025-06-27,2025-07-03
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Past Due,32760.7,14.84,108282.39,6,24,2025-02-11,2025-02-16
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,307696.98,22.36,78309.0,24,12,2025-04-12,2025-04-14
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Restructured,93556.82,12.06,101804.27,24,69,2025-05-04,2025-05-09
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,41875.28,11.8,118321.38,36,66,2025-05-20,2025-05-26
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Active,474953.91,8.98,45282.57,6,57,2025-04-13,2025-04-17
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,483159.7,18.6,115919.23,24,81,2025-05-26,2025-05-30
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,406114.7,14.21,55895.6,6,74,2025-03-15,2025-03-17
+Davao Central Branch,Salary Loan,Contractual,Medium Risk,Restructured,159260.75,21.9,55478.75,6,83,2025-04-18,2025-04-22
+Makati CBD Branch,Small Business Micro-Loan,Regular,Low Risk,Past Due,57859.34,15.83,50740.65,36,63,2025-05-02,2025-05-07
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,345274.18,23.51,71847.8,6,68,2025-01-17,2025-01-19
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,225674.72,11.38,31185.23,12,82,2025-03-12,2025-03-18
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,69798.74,21.96,73139.71,12,85,2025-03-03,2025-03-05
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,252636.69,20.54,71879.01,18,58,2025-02-10,2025-02-12
+Quezon City Hub,Salary Loan,Self-Employed,High Risk,Past Due,26850.38,20.45,94999.69,36,59,2025-04-29,2025-05-02
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,455567.0,21.59,102533.25,18,82,2025-06-11,2025-06-14
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,136802.19,20.3,61246.34,12,61,2025-02-14,2025-02-16
+Quezon City Hub,Salary Loan,Self-Employed,Low Risk,Fully Paid,334635.92,18.21,46744.99,18,15,2025-02-27,2025-03-03
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Active,162738.43,10.53,42230.16,36,87,2025-06-28,2025-07-01
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,264833.33,9.0,35435.5,36,67,2025-05-06,2025-05-12
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,277888.04,22.77,21053.0,6,14,2025-06-11,2025-06-16
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Fully Paid,100578.68,18.06,50957.04,24,88,2025-02-13,2025-02-16
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,485096.47,20.85,43376.01,6,54,2025-01-15,2025-01-17
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Past Due,389815.08,15.96,116473.83,36,34,2025-03-19,2025-03-23
+Quezon City Hub,OFW Remittance Advance,Regular,Medium Risk,Fully Paid,470354.48,10.32,73559.43,12,54,2025-03-11,2025-03-16
+Davao Central Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,448465.4,10.44,51464.09,12,13,2025-06-27,2025-06-30
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,302970.99,19.13,75949.1,6,48,2025-04-11,2025-04-15
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,461718.38,15.17,29615.65,36,82,2025-06-09,2025-06-13
+Quezon City Hub,Emergency Cash Loan,Contractual,High Risk,Restructured,53361.33,11.61,61624.59,12,6,2025-01-03,2025-01-07
+Quezon City Hub,Emergency Cash Loan,Regular,Low Risk,Past Due,106031.6,16.12,80754.6,36,29,2025-03-27,2025-03-29
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Active,32161.37,9.5,66334.27,12,82,2025-03-15,2025-03-21
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,169411.86,17.52,57186.77,36,48,2025-02-20,2025-02-24
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,200451.87,12.67,119354.08,18,88,2025-03-08,2025-03-13
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,142961.03,20.86,107433.05,36,15,2025-03-17,2025-03-20
+Quezon City Hub,Small Business Micro-Loan,Contractual,Medium Risk,Active,416081.38,13.31,80457.63,36,50,2025-04-03,2025-04-08
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Active,184809.13,15.56,74784.62,6,71,2025-06-25,2025-06-27
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,High Risk,Active,147657.91,8.68,80169.35,18,81,2025-05-25,2025-05-27
+Davao Central Branch,Salary Loan,Contractual,High Risk,Restructured,275921.08,9.62,36137.77,24,79,2025-01-07,2025-01-12
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Active,79052.87,14.58,56489.46,6,82,2025-01-13,2025-01-19
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,,15.94,19143.25,24,41,2025-04-30,2025-05-02
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,46529.82,17.8,64932.33,12,16,2025-03-07,2025-03-09
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,493574.6,13.02,72017.58,24,62,2025-01-04,2025-01-09
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,388399.94,19.27,38913.72,36,44,2025-05-18,2025-05-20
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,107370.68,21.83,116223.03,24,76,2025-03-29,2025-04-04
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Medium Risk,Active,12705.84,20.59,110492.73,6,6,2025-01-17,2025-01-23
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Active,409576.1,9.11,90825.04,6,26,2025-02-21,2025-02-27
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,356360.1,15.95,71005.6,24,9,2025-05-14,2025-05-17
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Active,367213.51,10.13,106346.76,6,33,2025-03-10,2025-03-16
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,High Risk,Restructured,387922.47,12.25,28718.5,6,35,2025-05-17,2025-05-23
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Past Due,46281.88,23.79,98003.53,24,24,2025-01-21,2025-01-24
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Active,185648.21,10.71,28106.19,18,5,2025-01-24,2025-01-28
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Active,66775.84,16.23,98392.12,18,23,2025-01-04,2025-01-06
+Cebu IT Park Branch,Salary Loan,Self-Employed,Low Risk,Restructured,432920.68,18.08,43955.59,12,17,2025-06-01,2025-06-07
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Past Due,315416.08,19.39,107094.51,6,86,2025-01-03,2025-01-05
+Davao Central Branch,Salary Loan,Regular,Low Risk,Restructured,172140.03,17.17,114124.42,24,5,2025-03-09,2025-03-14
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Fully Paid,41143.59,8.65,30623.58,6,28,2025-04-11,2025-04-13
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,162381.34,13.56,63580.94,36,24,2025-06-17,2025-06-20
+Makati CBD Branch,Small Business Micro-Loan,Regular,Medium Risk,Active,169339.83,16.52,118003.67,6,54,2025-06-25,2025-06-27
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Past Due,,9.86,65757.78,6,80,2025-02-23,2025-02-25
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,322403.16,13.93,105672.49,18,45,2025-02-04,2025-02-06
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Medium Risk,Restructured,444734.24,9.01,76816.81,24,23,2025-02-25,2025-03-01
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,241385.31,9.72,54409.64,6,74,2025-04-18,2025-04-22
+Quezon City Hub,Salary Loan,Regular,High Risk,Fully Paid,68601.18,14.65,45007.27,18,25,2025-02-09,2025-02-14
+Quezon City Hub,Emergency Cash Loan,Contractual,High Risk,Restructured,359489.95,10.56,36338.42,12,27,2025-03-09,2025-03-12
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Active,382784.67,17.3,94988.81,18,2,2025-02-15,2025-02-17
+Quezon City Hub,Salary Loan,Contractual,Low Risk,Past Due,285025.83,19.19,55586.75,18,74,2025-03-19,2025-03-21
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,387773.92,20.91,68683.92,18,37,2025-05-21,2025-05-23
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Restructured,,11.6,66694.18,6,60,2025-06-04,2025-06-06
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,266139.09,11.1,75614.3,6,77,2025-01-06,2025-01-10
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,219495.1,10.12,105885.6,12,50,2025-01-17,2025-01-22
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Active,22455.37,18.36,117977.63,36,89,2025-06-13,2025-06-19
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,62866.8,19.45,57796.34,36,47,2025-04-09,2025-04-12
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Fully Paid,25400.3,8.99,101889.49,36,20,2025-03-22,2025-03-24
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,321841.1,23.01,95275.42,12,53,2025-01-02,2025-01-07
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,164034.43,9.31,75220.54,36,55,2025-03-18,2025-03-24
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Restructured,259199.64,16.89,115384.95,36,58,2025-06-29,2025-07-04
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,454707.57,19.49,36049.82,18,71,2025-03-07,2025-03-11
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Fully Paid,132153.19,22.0,26472.74,6,50,2025-02-21,2025-02-27
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,211087.63,19.57,104666.01,6,19,2025-04-02,2025-04-07
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,380220.06,20.93,61110.73,18,85,2025-06-20,2025-06-24
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Active,,13.76,103931.73,18,58,2025-01-22,2025-01-27
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,47720.16,21.13,108774.47,18,70,2025-04-21,2025-04-26
+Quezon City Hub,Salary Loan,OFW Dependent,Low Risk,Restructured,151978.21,9.74,21558.05,6,8,2025-04-17,2025-04-23
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,88998.43,22.37,107763.8,36,0,2025-03-08,2025-03-12
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Restructured,465551.85,16.99,62073.5,18,28,2025-05-20,2025-05-22
+Quezon City Hub,Salary Loan,OFW Dependent,Medium Risk,Active,405978.99,21.17,68595.41,12,62,2025-03-10,2025-03-13
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,320367.84,15.51,80792.21,18,71,2025-03-25,2025-03-31
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Past Due,437015.69,18.48,112270.17,24,55,2025-04-13,2025-04-17
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Restructured,403799.32,16.66,17007.19,18,67,2025-02-08,2025-02-13
+Makati CBD Branch,Salary Loan,Contractual,Low Risk,Past Due,101419.33,19.84,65068.56,6,34,2025-01-13,2025-01-17
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Past Due,447353.91,9.77,87210.81,18,2,2025-02-10,2025-02-13
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Restructured,274277.7,9.44,90884.23,24,6,2025-02-26,2025-03-01
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Past Due,405645.68,12.33,87715.91,12,26,2025-01-12,2025-01-14
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Restructured,449084.74,10.97,29115.69,36,0,2025-01-13,2025-01-15
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Active,,22.01,46436.54,18,79,2025-04-30,2025-05-03
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Restructured,63925.44,11.9,52665.13,24,70,2025-04-07,2025-04-13
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,121688.23,23.63,99465.91,24,43,2025-02-26,2025-03-04
+Makati CBD Branch,OFW Remittance Advance,Regular,High Risk,Restructured,219282.82,13.72,44269.79,12,86,2025-02-09,2025-02-14
+Quezon City Hub,OFW Remittance Advance,Contractual,High Risk,Fully Paid,410827.24,11.32,37124.02,6,40,2025-04-28,2025-04-30
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,431757.99,20.74,115532.04,18,74,2025-03-21,2025-03-26
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Restructured,13406.54,18.71,15930.64,24,41,2025-05-08,2025-05-10
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,260266.18,16.22,119771.19,12,32,2025-06-22,2025-06-25
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Restructured,214531.39,17.11,86066.24,36,49,2025-02-04,2025-02-10
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,118832.83,19.65,101989.28,24,62,2025-01-03,2025-01-09
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,68734.03,12.04,45935.04,12,36,2025-04-30,2025-05-03
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,175431.43,23.94,16503.1,6,58,2025-01-05,2025-01-10
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,472025.75,23.61,92476.3,6,80,2025-01-11,2025-01-16
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Active,168369.44,18.58,102585.18,24,47,2025-05-06,2025-05-10
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Low Risk,Active,264207.4,11.59,92749.99,24,4,2025-03-12,2025-03-14
+Makati CBD Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,354479.29,19.04,29999.28,18,47,2025-04-27,2025-05-02
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,188178.51,9.62,94109.93,12,2,2025-05-18,2025-05-21
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,486173.22,8.98,95736.89,24,46,2025-04-16,2025-04-21
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Active,481599.17,12.49,84146.75,18,61,2025-04-26,2025-05-02
+Makati CBD Branch,OFW Remittance Advance,Regular,High Risk,Active,133373.32,15.67,,18,13,2025-06-11,2025-06-13
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Restructured,253651.77,21.96,103821.75,24,62,2025-03-08,2025-03-12
+Davao Central Branch,Salary Loan,Contractual,High Risk,Active,157430.37,19.77,79428.43,6,60,2025-01-31,2025-02-02
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Past Due,149571.84,20.01,24303.49,12,30,2025-03-16,2025-03-22
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,28074.6,15.1,66200.92,12,16,2025-03-12,2025-03-18
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,308686.52,13.86,23153.18,6,23,2025-03-07,2025-03-13
+Davao Central Branch,Salary Loan,Regular,High Risk,Restructured,256312.72,14.25,57792.02,24,22,2025-03-11,2025-03-17
+Davao Central Branch,Salary Loan,OFW Dependent,High Risk,Active,35224.59,23.81,57746.18,12,81,2025-02-10,2025-02-13
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Fully Paid,146536.77,9.12,21931.03,24,49,2025-06-09,2025-06-13
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,455050.28,21.94,51626.16,24,77,2025-01-20,2025-01-26
+Makati CBD Branch,Small Business Micro-Loan,Regular,Medium Risk,Restructured,127385.33,17.47,26654.8,18,78,2025-06-27,2025-07-03
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,80998.49,15.3,99864.7,6,78,2025-06-02,2025-06-07
+Makati CBD Branch,Salary Loan,Contractual,Medium Risk,Past Due,249831.85,19.74,114507.24,24,69,2025-05-20,2025-05-24
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,492968.72,16.04,22593.23,36,26,2025-02-08,2025-02-10
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Active,128607.08,22.04,,6,14,2025-05-25,2025-05-29
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Fully Paid,339346.42,22.46,69870.54,12,49,2025-02-14,2025-02-18
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,383193.61,15.04,46454.4,18,35,2025-05-19,2025-05-23
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,126442.4,12.79,23070.52,12,7,2025-03-11,2025-03-17
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,366826.01,17.68,67565.55,12,78,2025-05-05,2025-05-11
+Davao Central Branch,Salary Loan,Regular,Low Risk,Restructured,190213.74,22.64,98424.13,6,2,2025-05-31,2025-06-03
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Restructured,319829.86,11.77,89244.08,12,61,2025-04-01,2025-04-03
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,320429.56,18.16,20273.73,24,46,2025-03-11,2025-03-16
+Quezon City Hub,Salary Loan,Regular,High Risk,Past Due,272529.6,18.29,22654.69,12,76,2025-06-15,2025-06-19
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Active,54241.99,19.86,57301.69,18,87,2025-05-10,2025-05-12
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Restructured,419298.22,10.54,46005.5,18,60,2025-03-25,2025-03-27
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,167182.23,19.6,39400.35,36,31,2025-03-30,2025-04-02
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Restructured,101394.07,22.59,,18,12,2025-03-20,2025-03-25
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Past Due,29979.82,11.29,99365.69,12,0,2025-04-23,2025-04-27
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,299537.54,12.18,112568.95,18,33,2025-04-03,2025-04-08
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Active,342006.54,23.56,57535.78,6,61,2025-03-13,2025-03-16
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,18128.04,11.31,110141.66,18,78,2025-06-14,2025-06-20
+Makati CBD Branch,Salary Loan,Contractual,Medium Risk,Fully Paid,260925.6,21.74,48757.05,24,77,2025-02-18,2025-02-20
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,120982.93,16.13,65025.88,6,81,2025-02-21,2025-02-25
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Fully Paid,326134.67,12.33,,36,70,2025-02-02,2025-02-08
+Davao Central Branch,Salary Loan,Self-Employed,Medium Risk,Restructured,95439.55,22.0,82249.98,24,30,2025-01-22,2025-01-25
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,348559.49,15.4,117793.02,12,63,2025-04-24,2025-04-29
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Restructured,199500.32,16.48,78366.78,12,24,2025-05-13,2025-05-15
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,468997.69,14.07,52570.48,12,37,2025-01-18,2025-01-22
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Past Due,77385.26,17.69,83020.83,24,13,2025-06-15,2025-06-21
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Fully Paid,177122.51,11.03,27906.67,24,7,2025-04-28,2025-05-04
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,65602.03,14.56,108309.2,24,53,2025-04-27,2025-04-29
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,463099.87,23.53,67823.81,6,1,2025-02-06,2025-02-11
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,439896.28,12.5,62181.72,6,80,2025-03-05,2025-03-08
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Active,136391.4,18.68,,12,77,2025-05-18,2025-05-23
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Active,333392.18,13.54,80602.31,18,88,2025-03-20,2025-03-25
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Restructured,410438.88,20.49,22536.46,12,55,2025-06-19,2025-06-24
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Active,282048.4,10.53,86674.81,36,83,2025-05-03,2025-05-05
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Medium Risk,Active,269528.78,23.53,40402.83,6,84,2025-06-25,2025-06-27
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,128507.62,15.53,89965.03,24,60,2025-02-13,2025-02-16
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,55620.36,12.16,,6,21,2025-03-23,2025-03-28
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Past Due,449635.72,9.64,99415.64,24,34,2025-03-28,2025-03-30
+Cebu IT Park Branch,Salary Loan,Contractual,Low Risk,Past Due,451204.85,11.13,73012.6,36,15,2025-01-16,2025-01-19
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Restructured,320219.71,16.56,69617.84,36,49,2025-02-23,2025-02-26
+Quezon City Hub,Salary Loan,Regular,Low Risk,Restructured,176124.6,13.72,30001.98,6,42,2025-04-12,2025-04-17
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Fully Paid,181112.69,21.35,96411.35,24,16,2025-06-12,2025-06-16
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,365718.28,15.18,43497.98,36,79,2025-04-08,2025-04-13
+Davao Central Branch,Salary Loan,Regular,High Risk,Active,449584.03,12.36,67153.02,12,57,2025-06-05,2025-06-09
+Quezon City Hub,Salary Loan,Regular,Low Risk,Active,444672.35,18.07,44848.78,12,1,2025-01-02,2025-01-05
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,392139.02,19.46,29051.98,24,3,2025-04-04,2025-04-06
+Quezon City Hub,Small Business Micro-Loan,Contractual,Medium Risk,Past Due,324595.51,11.09,81103.56,6,84,2025-05-21,2025-05-27
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Restructured,51228.58,11.1,20704.86,36,38,2025-06-18,2025-06-21
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,89198.07,9.07,93607.75,6,5,2025-02-28,2025-03-02
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Active,450291.55,19.91,48346.61,12,80,2025-03-10,2025-03-13
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Active,307150.24,18.79,15014.14,36,88,2025-04-29,2025-05-04
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,14506.56,15.86,68668.56,6,68,2025-04-02,2025-04-06
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Restructured,59721.06,21.58,19919.45,18,68,2025-02-14,2025-02-17
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,335115.87,20.99,43997.8,24,19,2025-05-28,2025-05-30
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Past Due,12480.18,17.57,89232.53,24,63,2025-01-24,2025-01-29
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Low Risk,Restructured,88795.95,21.96,21582.41,18,15,2025-04-01,2025-04-07
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,278879.56,11.69,103130.54,12,50,2025-04-04,2025-04-09
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,349028.65,10.23,15401.09,36,36,2025-02-27,2025-03-03
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Past Due,329461.02,12.68,40916.51,24,72,2025-06-04,2025-06-09
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,119891.96,9.38,92794.93,18,68,2025-06-03,2025-06-09
+Quezon City Hub,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,358967.82,16.73,48208.37,18,41,2025-05-08,2025-05-10
+Cebu IT Park Branch,Salary Loan,Contractual,Medium Risk,Active,126252.05,23.02,25698.7,12,56,2025-01-07,2025-01-10
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,169445.85,9.11,52824.56,12,65,2025-06-19,2025-06-23
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,375780.79,10.39,43391.3,6,8,2025-02-16,2025-02-22
+Quezon City Hub,Salary Loan,Regular,Medium Risk,Past Due,328320.12,15.51,103484.75,24,85,2025-02-22,2025-02-26
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,426119.47,22.98,47901.53,6,63,2025-02-07,2025-02-12
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Active,332230.32,13.4,97837.91,18,85,2025-02-22,2025-02-26
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Fully Paid,288471.22,16.36,108646.58,36,21,2025-05-23,2025-05-29
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,55900.64,9.14,60550.83,36,33,2025-06-03,2025-06-06
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Restructured,190180.74,10.8,110544.03,12,54,2025-02-17,2025-02-20
+Quezon City Hub,Salary Loan,OFW Dependent,High Risk,Active,139949.16,23.79,54618.4,36,28,2025-04-05,2025-04-09
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Restructured,129554.93,23.46,116228.23,36,37,2025-05-27,2025-05-29
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,486775.17,8.58,24375.4,36,17,2025-05-17,2025-05-21
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,202617.89,23.25,87137.02,18,70,2025-03-05,2025-03-10
+Makati CBD Branch,Salary Loan,Regular,Low Risk,Restructured,447102.81,18.41,66850.47,36,64,2025-04-03,2025-04-06
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,319257.93,21.95,55703.12,36,0,2025-05-05,2025-05-08
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Restructured,399457.54,15.55,81434.75,36,87,2025-06-28,2025-07-01
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,256292.18,16.49,88904.99,6,3,2025-02-08,2025-02-10
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Past Due,292682.9,16.08,15458.14,18,3,2025-01-04,2025-01-06
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,251333.67,18.84,32530.07,12,81,2025-05-06,2025-05-12
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Active,105669.06,10.66,89869.84,6,26,2025-01-03,2025-01-07
+Makati CBD Branch,Salary Loan,Contractual,Low Risk,Restructured,364001.54,8.96,84970.47,24,42,2025-03-05,2025-03-09
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,147578.46,13.27,116434.99,18,58,2025-01-29,2025-02-03
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Fully Paid,21914.82,19.42,94908.97,18,31,2025-04-26,2025-04-29
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Restructured,326281.42,11.63,114831.13,24,32,2025-01-11,2025-01-13
+Davao Central Branch,Salary Loan,Contractual,High Risk,Fully Paid,96784.23,18.94,88766.75,24,27,2025-04-07,2025-04-12
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,470824.71,23.53,46295.48,24,54,2025-04-12,2025-04-17
+Davao Central Branch,Salary Loan,Regular,Low Risk,Active,477425.0,9.96,26063.32,12,59,2025-06-04,2025-06-06
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,458283.55,18.93,97091.51,36,69,2025-01-21,2025-01-25
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,191377.76,15.38,82635.67,18,61,2025-02-08,2025-02-11
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,17573.74,21.96,20059.53,36,79,2025-04-12,2025-04-16
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Past Due,464876.1,11.25,52805.3,36,33,2025-02-15,2025-02-20
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,219810.23,19.24,115463.98,24,86,2025-03-07,2025-03-10
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,483660.86,21.49,67542.12,12,87,2025-04-01,2025-04-07
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,482173.79,23.14,60436.56,6,55,2025-06-13,2025-06-18
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Fully Paid,427974.63,19.09,63058.46,12,12,2025-04-21,2025-04-25
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Restructured,154279.96,16.21,36932.69,36,55,2025-03-23,2025-03-27
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,198697.89,18.08,53714.25,12,17,2025-05-03,2025-05-07
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Restructured,427056.97,21.97,53830.39,24,53,2025-04-09,2025-04-11
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Past Due,165291.78,17.34,20497.28,6,76,2025-02-04,2025-02-09
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Fully Paid,93051.45,8.97,95594.6,24,42,2025-06-08,2025-06-11
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,282832.62,22.93,58732.97,6,38,2025-06-05,2025-06-09
+Quezon City Hub,Emergency Cash Loan,Contractual,Low Risk,Active,468715.84,19.19,101328.89,36,60,2025-04-13,2025-04-17
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,351054.6,18.99,104286.54,6,41,2025-05-09,2025-05-11
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Active,289329.97,11.84,37259.38,6,80,2025-01-25,2025-01-28
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Active,57616.48,18.71,84022.12,6,78,2025-02-12,2025-02-17
+Quezon City Hub,OFW Remittance Advance,Contractual,High Risk,Restructured,311353.54,14.6,64589.59,12,17,2025-03-25,2025-03-31
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Past Due,495126.39,18.59,107416.46,12,22,2025-02-20,2025-02-22
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,78641.17,10.15,37652.77,36,53,2025-05-10,2025-05-15
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,263981.53,18.7,86170.39,6,29,2025-05-06,2025-05-12
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Active,439912.81,23.99,78813.97,18,57,2025-03-10,2025-03-14
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,372976.62,9.25,46006.66,36,67,2025-01-09,2025-01-13
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,351537.71,23.65,29343.09,6,66,2025-01-02,2025-01-05
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,354217.2,14.81,83422.17,6,70,2025-06-11,2025-06-17
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,186150.66,22.0,92552.73,12,17,2025-06-08,2025-06-12
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Restructured,153860.0,20.63,48140.87,36,6,2025-01-10,2025-01-14
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,406586.97,17.29,82707.42,6,39,2025-04-24,2025-04-27
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Restructured,406955.56,19.95,56488.75,6,69,2025-03-17,2025-03-22
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Restructured,434865.44,22.12,89886.72,36,85,2025-06-13,2025-06-17
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Active,457487.87,14.76,35917.6,18,64,2025-03-26,2025-03-28
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Active,260557.78,13.57,108472.58,36,67,2025-02-18,2025-02-20
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Fully Paid,255742.98,18.85,45178.01,36,48,2025-03-11,2025-03-16
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,401164.64,21.02,53617.53,18,51,2025-06-26,2025-07-02
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,High Risk,Fully Paid,328482.33,20.32,21099.65,36,28,2025-05-11,2025-05-14
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Active,353963.77,20.87,26708.78,6,20,2025-05-13,2025-05-15
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,399938.41,15.25,69165.5,36,89,2025-03-31,2025-04-02
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,446102.62,21.18,43097.23,18,77,2025-01-26,2025-01-31
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,175617.63,10.36,102725.42,24,8,2025-03-13,2025-03-19
+Quezon City Hub,OFW Remittance Advance,Self-Employed,High Risk,Past Due,194035.65,16.94,16542.81,36,46,2025-01-05,2025-01-11
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Fully Paid,56051.15,8.59,54804.88,12,75,2025-01-15,2025-01-20
+Quezon City Hub,OFW Remittance Advance,Regular,Medium Risk,Past Due,293357.27,13.53,50421.28,6,41,2025-05-03,2025-05-05
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Past Due,27611.71,14.18,17029.4,6,50,2025-05-24,2025-05-27
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,238143.03,14.64,28058.68,12,55,2025-01-01,2025-01-03
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,275895.87,19.28,58432.48,12,50,2025-05-24,2025-05-30
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Past Due,150405.21,14.52,66750.78,36,69,2025-06-14,2025-06-16
+Davao Central Branch,Emergency Cash Loan,Regular,Medium Risk,Active,299508.3,15.45,57450.42,12,19,2025-01-03,2025-01-06
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Active,24945.12,12.18,70748.46,24,87,2025-06-29,2025-07-03
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Past Due,28300.61,14.29,77488.83,18,26,2025-02-16,2025-02-18
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,413074.27,12.02,16042.0,12,37,2025-04-05,2025-04-10
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Fully Paid,186493.41,9.63,63729.99,12,71,2025-01-13,2025-01-17
+Makati CBD Branch,Salary Loan,Self-Employed,High Risk,Past Due,72259.65,17.85,116167.42,24,64,2025-04-30,2025-05-05
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,265899.2,18.86,69498.39,6,53,2025-02-24,2025-03-01
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Active,387296.84,18.1,86141.94,6,23,2025-05-29,2025-06-03
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,115752.3,15.68,47745.71,36,46,2025-03-07,2025-03-09
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Past Due,315216.33,14.39,96269.09,24,70,2025-06-04,2025-06-10
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,51820.26,21.88,96156.76,18,82,2025-06-15,2025-06-19
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,35324.04,16.55,69736.09,18,85,2025-03-31,2025-04-03
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Past Due,270363.77,15.93,,24,62,2025-03-03,2025-03-09
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Restructured,274911.21,8.9,28182.77,18,56,2025-04-12,2025-04-14
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,322340.65,13.79,16779.5,6,54,2025-06-23,2025-06-28
+Davao Central Branch,OFW Remittance Advance,Regular,High Risk,Restructured,365784.75,14.39,95866.61,18,59,2025-05-19,2025-05-22
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,488167.52,14.68,99751.33,18,61,2025-01-08,2025-01-12
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,262987.17,17.49,27621.76,24,29,2025-04-07,2025-04-13
+Quezon City Hub,OFW Remittance Advance,Regular,Medium Risk,Fully Paid,168248.67,16.77,42886.2,24,21,2025-04-27,2025-05-03
+Davao Central Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,399641.24,17.92,16843.0,18,74,2025-03-05,2025-03-08
+Davao Central Branch,Salary Loan,Contractual,High Risk,Active,142707.8,20.36,45797.4,12,83,2025-01-21,2025-01-23
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,225096.0,21.1,96179.9,24,28,2025-04-25,2025-04-29
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,48443.63,19.63,69385.86,36,40,2025-03-26,2025-03-29
+Quezon City Hub,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,22421.86,23.31,51550.04,36,41,2025-01-20,2025-01-25
+Makati CBD Branch,OFW Remittance Advance,Contractual,High Risk,Past Due,481697.72,8.78,54032.63,6,64,2025-01-08,2025-01-12
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Restructured,419630.26,11.53,15142.13,18,30,2025-02-27,2025-03-05
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Past Due,351027.36,8.62,46479.06,12,29,2025-02-15,2025-02-18
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Fully Paid,210386.94,18.54,82878.17,6,17,2025-01-31,2025-02-06
+Davao Central Branch,Salary Loan,Contractual,High Risk,Past Due,94914.22,22.42,117290.42,18,16,2025-04-03,2025-04-09
+Cebu IT Park Branch,Salary Loan,Self-Employed,High Risk,Restructured,86654.15,12.27,103941.39,24,37,2025-01-09,2025-01-15
+Quezon City Hub,Salary Loan,Regular,High Risk,Restructured,132619.02,22.87,17477.47,36,13,2025-01-15,2025-01-17
+Davao Central Branch,Salary Loan,Contractual,High Risk,Fully Paid,279121.07,9.43,109348.86,12,86,2025-04-04,2025-04-10
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Past Due,360152.0,22.98,97235.83,36,88,2025-06-03,2025-06-08
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Active,333496.71,13.95,96939.49,24,78,2025-05-18,2025-05-23
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Past Due,147167.61,10.07,63089.55,18,55,2025-01-29,2025-02-02
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,477883.99,16.03,56790.56,24,21,2025-03-21,2025-03-27
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,371569.49,12.48,46806.15,24,66,2025-02-05,2025-02-11
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,281633.49,12.92,21897.96,36,55,2025-03-25,2025-03-28
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Past Due,309743.17,13.26,38964.71,12,18,2025-04-19,2025-04-21
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Active,215604.03,20.95,40893.38,24,56,2025-04-28,2025-05-02
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Fully Paid,131388.18,16.86,65828.09,36,43,2025-02-06,2025-02-12
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Restructured,184426.61,13.33,93481.66,12,34,2025-03-27,2025-03-30
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,381344.59,17.96,64750.03,18,0,2025-03-12,2025-03-14
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,17052.81,19.6,21073.67,18,51,2025-05-31,2025-06-04
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,66875.59,12.73,115567.93,6,84,2025-06-18,2025-06-22
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Restructured,32541.29,14.91,113986.05,36,69,2025-04-03,2025-04-09
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Active,,10.39,97444.9,12,36,2025-03-21,2025-03-25
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,429175.69,11.31,119089.43,24,64,2025-04-12,2025-04-15
+Cebu IT Park Branch,Salary Loan,Self-Employed,Low Risk,Active,354792.35,19.06,72170.64,18,50,2025-06-05,2025-06-09
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,242345.18,11.31,116090.68,12,0,2025-06-25,2025-06-30
+Quezon City Hub,Salary Loan,Contractual,Low Risk,Active,57938.74,16.64,22938.53,36,20,2025-06-15,2025-06-18
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Restructured,250891.78,19.49,53396.48,6,52,2025-06-08,2025-06-10
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Past Due,242001.17,10.16,38665.03,18,15,2025-01-14,2025-01-16
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,94868.92,17.29,35562.47,12,60,2025-04-27,2025-05-03
+Quezon City Hub,Emergency Cash Loan,Self-Employed,High Risk,Restructured,222587.31,12.48,29784.31,12,53,2025-03-14,2025-03-20
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Restructured,205267.32,23.43,80353.43,12,39,2025-04-01,2025-04-06
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,311766.55,15.99,97038.79,36,25,2025-03-31,2025-04-02
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Active,321195.89,20.99,75721.33,36,79,2025-01-29,2025-01-31
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,32198.96,17.03,30431.08,36,64,2025-06-28,2025-06-30
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,193560.18,9.17,100168.0,24,73,2025-02-18,2025-02-20
+Davao Central Branch,Salary Loan,Contractual,Medium Risk,Past Due,316671.36,18.31,81775.24,12,63,2025-06-20,2025-06-24
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Past Due,256536.77,23.25,55757.4,18,42,2025-03-13,2025-03-16
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,429680.02,17.82,85783.68,36,16,2025-05-13,2025-05-16
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Past Due,332759.88,21.2,42290.02,36,58,2025-02-11,2025-02-16
+Quezon City Hub,OFW Remittance Advance,Regular,High Risk,Fully Paid,,22.21,51245.18,12,22,2025-05-15,2025-05-19
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Active,44578.69,12.04,111336.01,36,6,2025-02-11,2025-02-13
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Fully Paid,324785.45,11.79,45502.97,24,43,2025-06-13,2025-06-15
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Active,22990.54,17.97,64348.77,24,52,2025-04-15,2025-04-21
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Past Due,297030.03,14.87,108464.82,36,70,2025-01-27,2025-02-02
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Restructured,470712.82,21.52,89310.74,12,78,2025-02-27,2025-03-04
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,291982.35,22.45,21531.34,12,33,2025-02-15,2025-02-17
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Restructured,200203.26,13.98,30466.82,12,45,2025-03-07,2025-03-12
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Active,325211.23,12.17,15823.37,6,67,2025-01-25,2025-01-29
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Past Due,234543.92,20.6,81246.79,36,77,2025-03-14,2025-03-17
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Fully Paid,277352.23,12.76,62005.71,12,77,2025-04-27,2025-04-29
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,471317.76,21.25,29098.86,24,15,2025-06-04,2025-06-08
+Makati CBD Branch,Salary Loan,Self-Employed,High Risk,Active,199190.29,15.07,115583.08,18,70,2025-05-09,2025-05-11
+Quezon City Hub,OFW Remittance Advance,Contractual,High Risk,Restructured,480983.38,18.85,70614.27,18,18,2025-03-28,2025-04-03
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Fully Paid,453621.81,9.98,40398.8,12,1,2025-03-15,2025-03-20
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Low Risk,Past Due,105937.66,18.17,67563.37,18,9,2025-06-19,2025-06-25
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,43987.04,15.5,86360.13,18,49,2025-06-29,2025-07-02
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,59381.22,17.59,23005.12,6,80,2025-06-02,2025-06-08
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Past Due,18928.69,11.1,43843.9,24,11,2025-05-05,2025-05-07
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Past Due,56277.05,19.92,99731.38,24,69,2025-03-08,2025-03-14
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,344673.32,21.87,63264.81,6,21,2025-01-06,2025-01-08
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,44882.44,11.86,72390.6,6,31,2025-05-05,2025-05-08
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,166298.06,9.98,60445.68,18,83,2025-02-27,2025-03-05
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,High Risk,Fully Paid,423988.9,8.87,19609.49,36,0,2025-03-11,2025-03-16
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,21403.25,18.45,32403.73,18,53,2025-02-22,2025-02-27
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Active,409089.56,17.91,61781.87,6,57,2025-03-07,2025-03-12
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,148108.84,16.97,36964.47,24,69,2025-02-27,2025-03-05
+Quezon City Hub,Salary Loan,Regular,Low Risk,Fully Paid,67900.77,12.1,20247.8,18,82,2025-03-23,2025-03-29
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,351401.21,14.56,103583.21,36,17,2025-03-28,2025-04-03
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Fully Paid,318181.99,17.71,118025.22,18,5,2025-01-02,2025-01-04
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Past Due,439961.29,16.2,98280.0,12,44,2025-05-30,2025-06-02
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,370184.81,23.81,104647.42,18,22,2025-02-06,2025-02-11
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,403705.66,10.61,40407.6,6,22,2025-05-28,2025-05-30
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Restructured,148196.94,19.27,115865.83,24,25,2025-04-13,2025-04-18
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,96945.38,14.77,35677.2,24,76,2025-01-24,2025-01-26
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Restructured,377801.23,15.14,114900.13,6,6,2025-04-22,2025-04-28
+Makati CBD Branch,Salary Loan,Regular,Low Risk,Past Due,405349.02,19.62,119456.03,12,78,2025-03-06,2025-03-11
+Davao Central Branch,Salary Loan,Regular,Low Risk,Fully Paid,495347.52,19.23,89730.89,6,43,2025-05-09,2025-05-15
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Past Due,212182.66,23.86,118020.09,18,26,2025-04-27,2025-05-02
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Past Due,192288.86,10.49,74801.68,6,25,2025-04-26,2025-04-30
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,390442.35,10.11,42251.89,6,78,2025-04-15,2025-04-17
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Active,176993.73,19.73,60884.57,12,35,2025-01-03,2025-01-07
+Davao Central Branch,Emergency Cash Loan,Contractual,Low Risk,Active,466071.09,17.46,77323.9,18,54,2025-02-15,2025-02-17
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,430622.25,12.75,22673.56,36,63,2025-02-24,2025-02-27
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Medium Risk,Restructured,220207.07,9.73,80346.04,36,56,2025-03-16,2025-03-21
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,377926.82,9.83,118023.67,24,68,2025-02-14,2025-02-17
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,379726.01,22.36,34961.3,6,60,2025-06-03,2025-06-06
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,60530.7,11.47,98222.49,24,1,2025-03-18,2025-03-20
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,452250.92,13.51,110329.37,12,54,2025-01-24,2025-01-28
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Active,257573.66,12.01,114088.67,36,79,2025-02-04,2025-02-10
+Davao Central Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,414964.16,14.0,115814.24,6,86,2025-01-24,2025-01-26
+Quezon City Hub,Salary Loan,Regular,Low Risk,Active,166824.3,9.58,69753.26,12,37,2025-01-28,2025-02-03
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,448806.38,16.55,117617.33,12,79,2025-01-16,2025-01-19
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,200708.82,9.55,94517.57,6,77,2025-02-28,2025-03-06
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,15310.45,20.91,31975.5,12,28,2025-05-24,2025-05-28
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,453637.17,12.12,65074.51,6,25,2025-01-15,2025-01-17
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,High Risk,Restructured,54730.47,16.87,90424.77,6,34,2025-01-11,2025-01-15
+Quezon City Hub,Emergency Cash Loan,Regular,Low Risk,Active,166463.68,22.14,40970.73,18,78,2025-03-20,2025-03-24
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Fully Paid,475530.36,18.59,82264.59,24,66,2025-04-25,2025-04-27
+Makati CBD Branch,Salary Loan,Self-Employed,High Risk,Restructured,475797.5,16.76,84993.05,12,86,2025-03-09,2025-03-13
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Past Due,290984.57,13.53,32083.47,12,28,2025-02-12,2025-02-17
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,High Risk,Past Due,319600.23,13.66,74333.96,18,33,2025-03-10,2025-03-15
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,229738.31,18.88,96020.83,18,40,2025-05-21,2025-05-26
+Davao Central Branch,OFW Remittance Advance,Contractual,Low Risk,Active,153673.28,23.91,67384.04,18,40,2025-05-18,2025-05-24
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,171045.63,18.76,16270.83,36,22,2025-03-16,2025-03-20
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Fully Paid,339534.04,17.15,15949.04,36,70,2025-04-13,2025-04-15
+Davao Central Branch,Emergency Cash Loan,Regular,Medium Risk,Active,378663.52,19.83,52488.08,36,2,2025-02-10,2025-02-12
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,397873.73,15.71,112250.38,6,57,2025-06-27,2025-07-03
+Quezon City Hub,Salary Loan,Contractual,Low Risk,Fully Paid,396912.89,9.43,39011.06,12,31,2025-02-28,2025-03-02
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Active,,17.22,81608.19,24,30,2025-02-08,2025-02-13
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Active,252265.95,23.34,38317.97,6,81,2025-01-03,2025-01-07
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,38203.79,11.22,48775.35,12,42,2025-01-07,2025-01-09
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Medium Risk,Active,279269.15,19.2,104044.42,12,6,2025-02-18,2025-02-20
+Quezon City Hub,Emergency Cash Loan,Self-Employed,High Risk,Past Due,226349.95,11.61,91530.45,18,0,2025-01-26,2025-01-29
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,444975.05,16.81,25016.92,18,60,2025-06-10,2025-06-13
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Low Risk,Fully Paid,181948.36,10.0,60013.71,6,13,2025-04-11,2025-04-14
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Past Due,,15.48,18062.83,18,51,2025-06-25,2025-06-29
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,80065.92,20.22,65493.47,12,5,2025-03-20,2025-03-25
+Quezon City Hub,Salary Loan,Contractual,High Risk,Past Due,383140.21,13.89,84555.57,18,9,2025-01-02,2025-01-07
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Past Due,312926.85,18.81,27442.78,36,70,2025-05-07,2025-05-12
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Fully Paid,59550.11,20.83,45332.92,18,89,2025-06-09,2025-06-13
+Davao Central Branch,Small Business Micro-Loan,Contractual,High Risk,Restructured,51212.33,22.87,56772.85,12,29,2025-05-12,2025-05-16
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Active,353474.87,12.14,111550.76,6,20,2025-01-20,2025-01-23
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Past Due,45653.87,14.69,119291.78,24,59,2025-04-27,2025-04-29
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,412711.43,10.86,19715.69,18,80,2025-06-13,2025-06-19
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,356058.69,23.88,94905.83,12,73,2025-02-01,2025-02-07
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,49860.9,22.87,54031.03,24,62,2025-01-28,2025-01-30
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,51570.48,16.87,56208.11,24,41,2025-03-18,2025-03-21
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,493453.39,21.55,94197.82,36,50,2025-01-01,2025-01-03
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Restructured,193392.69,16.57,111434.78,24,63,2025-02-25,2025-02-27
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,191614.65,18.17,114847.5,12,75,2025-02-04,2025-02-10
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,408271.79,9.88,75597.87,12,55,2025-04-22,2025-04-25
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Past Due,474151.8,20.21,52497.72,18,79,2025-01-30,2025-02-03
+Quezon City Hub,Salary Loan,Self-Employed,Low Risk,Active,493140.52,10.48,97692.65,18,40,2025-02-23,2025-03-01
+Quezon City Hub,Salary Loan,OFW Dependent,Medium Risk,Past Due,379155.31,21.3,41355.15,18,31,2025-02-05,2025-02-09
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Active,194367.2,20.62,74227.77,24,14,2025-03-21,2025-03-24
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Restructured,50915.35,19.49,52650.74,24,61,2025-02-27,2025-03-01
+Quezon City Hub,OFW Remittance Advance,Regular,Medium Risk,Restructured,390801.99,9.06,83946.26,36,26,2025-03-24,2025-03-29
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,283618.08,13.2,40241.89,18,27,2025-03-06,2025-03-11
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,217868.78,12.58,35117.26,6,80,2025-03-10,2025-03-13
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,454113.65,14.08,111415.1,36,63,2025-05-08,2025-05-13
+Quezon City Hub,Emergency Cash Loan,Regular,High Risk,Active,64486.77,9.86,25689.39,6,58,2025-02-20,2025-02-24
+Davao Central Branch,Salary Loan,Regular,High Risk,Fully Paid,251386.3,23.02,68125.58,24,57,2025-01-22,2025-01-27
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Low Risk,Restructured,15563.29,17.08,38189.54,36,1,2025-04-17,2025-04-20
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,239643.71,13.24,19087.65,36,35,2025-04-19,2025-04-22
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,37588.61,14.65,18781.98,12,70,2025-04-26,2025-04-30
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,68220.78,15.43,33398.29,24,12,2025-04-11,2025-04-16
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Active,67587.86,17.81,106010.89,24,14,2025-04-10,2025-04-15
+Davao Central Branch,Salary Loan,Regular,Low Risk,Active,328113.05,16.49,44660.27,36,88,2025-06-13,2025-06-15
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Active,375561.99,22.75,114798.21,24,86,2025-03-09,2025-03-15
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,295850.69,16.2,76070.34,36,59,2025-02-05,2025-02-08
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,481464.55,23.88,60844.49,12,21,2025-06-29,2025-07-01
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,193686.58,21.7,75909.33,36,62,2025-06-27,2025-06-30
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Active,149998.92,11.73,69253.33,24,89,2025-06-18,2025-06-20
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,435613.57,22.92,94671.51,24,74,2025-05-26,2025-06-01
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Restructured,119561.96,10.3,44662.09,36,73,2025-01-22,2025-01-24
+Quezon City Hub,Salary Loan,Contractual,High Risk,Past Due,481979.04,21.17,52070.29,36,24,2025-03-07,2025-03-10
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Past Due,15955.69,14.4,108879.9,36,47,2025-01-21,2025-01-26
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Active,485240.63,22.11,114377.93,18,42,2025-04-10,2025-04-13
+Davao Central Branch,Emergency Cash Loan,Contractual,Low Risk,Active,,21.95,108718.61,24,37,2025-05-08,2025-05-12
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,446660.13,20.99,59042.04,24,40,2025-02-13,2025-02-17
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Fully Paid,268573.54,20.75,96938.38,18,44,2025-04-13,2025-04-17
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Restructured,496552.75,13.22,65015.25,36,87,2025-02-16,2025-02-20
+Cebu IT Park Branch,Salary Loan,Regular,High Risk,Active,46160.32,9.75,67241.68,12,39,2025-02-08,2025-02-14
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,281388.6,14.75,36491.41,36,16,2025-01-29,2025-02-03
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,484958.24,11.19,77068.68,36,87,2025-02-23,2025-02-28
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Past Due,266317.94,19.27,34544.27,18,56,2025-03-31,2025-04-03
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Past Due,318405.33,13.86,49814.29,24,1,2025-03-26,2025-03-28
+Davao Central Branch,Salary Loan,Contractual,Medium Risk,Past Due,350916.86,23.62,104778.17,36,61,2025-01-17,2025-01-20
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Past Due,232725.12,18.44,36742.96,24,87,2025-03-21,2025-03-24
+Quezon City Hub,OFW Remittance Advance,Contractual,High Risk,Active,317503.46,21.25,22471.62,6,8,2025-06-08,2025-06-11
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Active,296314.01,10.55,22245.8,24,67,2025-03-14,2025-03-17
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Fully Paid,451567.43,21.86,113782.37,12,80,2025-02-18,2025-02-23
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,32268.73,22.8,68226.65,12,16,2025-04-11,2025-04-13
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,147671.96,16.05,57988.27,36,49,2025-01-02,2025-01-05
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,475701.63,17.9,100142.25,24,39,2025-06-25,2025-06-30
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,446229.25,20.35,102761.72,36,57,2025-05-22,2025-05-25
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,233271.81,11.21,49880.06,18,74,2025-02-28,2025-03-04
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Past Due,313864.97,16.29,87829.9,12,84,2025-04-07,2025-04-10
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Past Due,145916.78,14.68,95967.9,36,20,2025-04-09,2025-04-12
+Davao Central Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,102179.37,10.77,83738.32,18,17,2025-04-13,2025-04-19
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,237212.22,14.2,30917.48,36,54,2025-06-28,2025-07-02
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,183142.59,9.56,106967.72,24,28,2025-01-02,2025-01-04
+Makati CBD Branch,Salary Loan,Contractual,Medium Risk,Past Due,295991.49,8.9,71604.93,24,23,2025-02-10,2025-02-13
+Quezon City Hub,OFW Remittance Advance,Self-Employed,High Risk,Past Due,48089.97,10.6,44659.6,24,73,2025-05-03,2025-05-05
+Makati CBD Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,487453.46,23.43,59648.96,24,16,2025-03-23,2025-03-27
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,493243.26,17.02,18944.96,6,17,2025-05-24,2025-05-27
+Cebu IT Park Branch,Salary Loan,Self-Employed,Low Risk,Active,352099.24,23.47,28426.01,18,41,2025-05-12,2025-05-18
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Fully Paid,272687.22,15.2,95382.41,18,83,2025-05-20,2025-05-25
+Quezon City Hub,Salary Loan,Self-Employed,Low Risk,Fully Paid,161668.53,13.33,15001.22,24,44,2025-01-29,2025-02-04
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,High Risk,Restructured,408759.56,16.35,58739.41,6,81,2025-05-15,2025-05-21
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Active,345518.27,15.31,69863.57,24,16,2025-01-14,2025-01-19
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Restructured,89682.3,10.14,20736.61,6,72,2025-01-12,2025-01-17
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,456354.32,18.43,117173.21,24,13,2025-04-09,2025-04-14
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,413043.25,11.85,38743.16,12,48,2025-05-13,2025-05-16
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Past Due,475401.96,18.1,46940.87,12,28,2025-03-22,2025-03-24
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,365602.56,18.58,,36,3,2025-04-16,2025-04-18
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,310573.45,10.86,39193.75,24,81,2025-02-01,2025-02-06
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,214939.09,9.45,15154.75,18,19,2025-03-15,2025-03-21
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Fully Paid,467036.96,20.6,91581.2,36,46,2025-06-20,2025-06-24
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,434371.31,15.63,116518.78,12,8,2025-03-22,2025-03-27
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,32157.15,9.4,38550.82,24,76,2025-03-10,2025-03-16
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Active,22919.82,23.92,84619.96,36,78,2025-02-14,2025-02-20
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,,9.4,92899.11,24,26,2025-04-16,2025-04-19
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,407171.13,19.27,104084.66,12,14,2025-05-17,2025-05-20
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Past Due,493765.3,23.75,59376.07,36,18,2025-06-26,2025-06-28
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,83704.28,12.21,46807.75,12,89,2025-06-10,2025-06-12
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,301124.05,10.7,49155.99,6,51,2025-04-10,2025-04-14
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,196636.52,10.38,89825.24,12,25,2025-05-26,2025-05-30
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,485258.05,13.2,100761.84,24,88,2025-01-09,2025-01-13
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Past Due,422638.27,10.07,34069.47,18,25,2025-03-03,2025-03-07
+Cebu IT Park Branch,Salary Loan,Regular,High Risk,Restructured,420781.07,19.23,53948.81,12,25,2025-01-29,2025-02-04
+Cebu IT Park Branch,Salary Loan,Self-Employed,High Risk,Restructured,239659.65,9.47,109703.72,18,45,2025-05-05,2025-05-11
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,213261.56,16.4,99702.82,6,48,2025-04-24,2025-04-26
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,143969.47,23.95,118410.13,36,81,2025-06-02,2025-06-05
+Quezon City Hub,Salary Loan,Regular,High Risk,Active,37623.99,21.12,94196.07,36,52,2025-05-23,2025-05-26
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Past Due,433713.96,18.04,56285.5,18,2,2025-05-14,2025-05-19
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Fully Paid,408321.49,13.25,,36,65,2025-04-30,2025-05-06
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,499861.66,18.17,84406.5,12,41,2025-06-19,2025-06-23
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Active,498352.05,16.67,23237.86,18,18,2025-06-06,2025-06-10
+Makati CBD Branch,Salary Loan,Regular,High Risk,Past Due,282161.54,15.1,72172.18,24,16,2025-03-20,2025-03-25
+Davao Central Branch,Emergency Cash Loan,Contractual,High Risk,Fully Paid,386803.83,10.53,89478.69,12,32,2025-04-03,2025-04-06
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Past Due,472935.21,22.24,32568.74,12,75,2025-01-04,2025-01-08
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,,15.47,96966.33,12,48,2025-03-23,2025-03-26
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,131200.57,11.52,76296.14,24,55,2025-06-26,2025-07-01
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Active,230766.63,14.2,114983.29,6,62,2025-06-21,2025-06-24
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,73288.11,14.92,19454.34,36,2,2025-03-16,2025-03-19
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Active,477485.0,21.33,42859.24,18,48,2025-01-14,2025-01-17
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,307025.57,19.87,78163.16,6,54,2025-05-11,2025-05-15
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,122034.97,20.42,46138.79,18,25,2025-04-24,2025-04-26
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,High Risk,Past Due,339133.34,8.67,90014.54,36,71,2025-03-03,2025-03-09
+Davao Central Branch,Emergency Cash Loan,Contractual,High Risk,Fully Paid,312882.84,14.95,94695.55,24,51,2025-04-16,2025-04-19
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,185499.73,15.96,25764.18,12,6,2025-03-05,2025-03-08
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,65643.22,8.8,68954.72,12,45,2025-04-12,2025-04-15
+Cebu IT Park Branch,Salary Loan,Contractual,Medium Risk,Past Due,339070.87,12.53,68433.51,24,45,2025-06-22,2025-06-24
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Active,264950.77,20.28,53774.48,6,15,2025-04-16,2025-04-21
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,388436.01,10.63,112957.11,6,23,2025-01-20,2025-01-24
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,264880.12,16.8,101888.16,18,60,2025-02-27,2025-03-01
+Cebu IT Park Branch,Salary Loan,Contractual,High Risk,Restructured,427568.94,11.84,88206.99,24,53,2025-04-22,2025-04-25
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,280434.35,8.69,90004.3,6,61,2025-02-26,2025-02-28
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Past Due,284859.61,12.24,63480.2,24,0,2025-04-29,2025-05-01
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Restructured,439560.27,23.63,111704.42,36,48,2025-04-07,2025-04-09
+Davao Central Branch,Emergency Cash Loan,Contractual,High Risk,Past Due,207706.6,20.92,87932.52,12,24,2025-04-02,2025-04-07
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Active,75667.46,23.37,91543.01,12,9,2025-02-21,2025-02-27
+Makati CBD Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,24103.51,16.06,105477.54,12,79,2025-02-06,2025-02-10
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Past Due,380017.26,10.2,43777.52,24,15,2025-01-08,2025-01-13
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,313951.68,16.99,99742.44,24,57,2025-02-13,2025-02-18
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Active,354999.09,15.54,35500.26,18,71,2025-04-08,2025-04-14
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,114352.44,21.59,,12,28,2025-05-13,2025-05-18
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,76822.02,10.02,50239.1,18,5,2025-04-28,2025-04-30
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,17126.89,16.07,117745.17,12,15,2025-03-10,2025-03-12
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Past Due,181787.9,10.83,104936.41,18,19,2025-06-08,2025-06-11
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Fully Paid,299059.67,13.53,,18,79,2025-02-14,2025-02-19
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,202199.58,19.93,91340.96,36,70,2025-05-17,2025-05-20
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,224362.71,15.88,74017.64,18,77,2025-02-01,2025-02-05
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Past Due,453037.76,14.33,114444.52,24,42,2025-02-02,2025-02-04
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Active,180645.18,14.61,67107.17,18,25,2025-05-06,2025-05-10
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,261854.85,15.62,54954.36,12,89,2025-03-08,2025-03-14
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Fully Paid,393989.98,20.67,32118.71,18,77,2025-01-30,2025-02-01
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Past Due,204305.96,22.33,97551.59,6,70,2025-04-24,2025-04-28
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Active,314822.48,23.31,92116.61,12,32,2025-01-29,2025-02-04
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,432558.22,20.7,55357.28,6,25,2025-05-11,2025-05-15
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,475265.11,13.39,17645.31,12,44,2025-01-30,2025-02-05
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,82066.01,19.17,103094.72,24,83,2025-05-17,2025-05-23
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,464027.94,15.28,16198.89,24,62,2025-06-03,2025-06-05
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,251136.98,12.45,88888.48,24,66,2025-05-10,2025-05-13
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Active,136539.75,21.53,116877.0,6,51,2025-03-03,2025-03-09
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,234976.52,9.1,60954.44,36,67,2025-01-03,2025-01-09
+Davao Central Branch,Emergency Cash Loan,Contractual,Low Risk,Restructured,490215.96,22.48,39672.21,12,25,2025-06-23,2025-06-25
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Past Due,251382.87,15.65,89011.46,24,74,2025-03-09,2025-03-12
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,171088.29,18.38,100798.45,12,1,2025-01-25,2025-01-30
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Active,320366.42,18.72,72375.18,6,13,2025-06-28,2025-07-03
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,127671.35,22.37,116538.7,36,29,2025-05-21,2025-05-24
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,47173.03,18.37,20425.22,6,48,2025-02-13,2025-02-17
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,73151.06,18.02,68003.54,12,11,2025-06-12,2025-06-14
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,72742.46,9.53,90437.66,36,89,2025-02-24,2025-02-27
+Makati CBD Branch,OFW Remittance Advance,Contractual,High Risk,Past Due,84432.32,16.54,105577.25,36,43,2025-05-17,2025-05-22
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Past Due,78025.31,10.83,33821.84,6,32,2025-05-10,2025-05-16
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,324028.62,19.93,99000.37,24,12,2025-02-10,2025-02-15
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Active,99121.24,16.44,73034.24,12,77,2025-06-21,2025-06-27
+Quezon City Hub,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,179376.97,19.04,56638.14,18,87,2025-03-05,2025-03-07
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Low Risk,Restructured,449426.32,9.15,28830.08,18,25,2025-01-31,2025-02-06
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,242241.2,9.81,105856.05,6,20,2025-02-16,2025-02-19
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,337103.29,19.6,31513.69,12,27,2025-05-10,2025-05-16
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,94436.74,9.62,47527.73,12,47,2025-04-06,2025-04-10
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,104221.62,9.6,45454.78,6,39,2025-03-18,2025-03-21
+Quezon City Hub,Salary Loan,OFW Dependent,High Risk,Active,30025.62,8.69,106498.47,12,65,2025-04-20,2025-04-22
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Restructured,92778.18,23.33,85633.81,24,72,2025-03-10,2025-03-13
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,146509.27,19.93,98651.55,6,86,2025-02-27,2025-03-03
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Past Due,96735.14,13.98,41299.13,24,78,2025-04-16,2025-04-18
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,53464.24,13.1,80611.78,12,76,2025-02-13,2025-02-18
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Restructured,69111.58,13.92,75033.33,6,22,2025-03-15,2025-03-19
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,High Risk,Restructured,235781.6,20.51,102447.19,12,80,2025-02-25,2025-02-27
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Active,111103.52,18.75,110139.14,6,47,2025-06-20,2025-06-26
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,188492.23,11.37,16276.46,12,1,2025-05-07,2025-05-10
+Makati CBD Branch,Salary Loan,Regular,Low Risk,Restructured,256674.46,11.2,85772.09,24,83,2025-06-11,2025-06-13
+Quezon City Hub,Salary Loan,Contractual,High Risk,Active,348293.47,10.03,20442.76,24,19,2025-01-30,2025-02-02
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,29262.95,18.73,72630.16,12,58,2025-03-12,2025-03-18
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,401711.1,20.35,45201.44,6,45,2025-04-28,2025-04-30
+Davao Central Branch,Salary Loan,Regular,Low Risk,Restructured,317671.19,12.61,47211.54,18,2,2025-02-24,2025-03-01
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Active,50061.93,8.82,52060.64,24,54,2025-03-08,2025-03-12
+Quezon City Hub,Salary Loan,OFW Dependent,Low Risk,Fully Paid,438053.53,9.77,80235.71,24,11,2025-05-21,2025-05-23
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,461227.48,23.5,50075.25,18,39,2025-01-03,2025-01-09
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,39928.2,13.08,91933.4,12,65,2025-01-26,2025-01-28
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,145670.05,20.42,57475.38,6,77,2025-02-26,2025-03-01
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Restructured,405038.63,18.18,22177.09,12,15,2025-05-06,2025-05-08
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Past Due,376647.25,14.42,97294.78,36,82,2025-06-01,2025-06-06
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,High Risk,Restructured,100415.3,11.69,45004.62,24,33,2025-02-22,2025-02-24
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Past Due,112581.17,10.38,60440.52,36,43,2025-02-12,2025-02-16
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,191531.33,18.03,86971.61,24,5,2025-02-18,2025-02-20
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Active,247416.26,20.51,49907.9,24,76,2025-02-11,2025-02-14
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Fully Paid,312944.84,18.48,20941.49,36,63,2025-01-11,2025-01-13
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,190767.68,16.72,54261.71,36,21,2025-04-13,2025-04-18
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Past Due,236642.01,9.15,114167.1,12,17,2025-04-08,2025-04-14
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,376260.76,23.51,82382.11,36,11,2025-05-26,2025-05-28
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,27974.77,20.88,85505.31,12,51,2025-03-26,2025-03-28
+Makati CBD Branch,OFW Remittance Advance,Contractual,Low Risk,Active,133694.1,13.04,81389.63,12,50,2025-04-10,2025-04-14
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Active,359541.3,23.69,35894.17,12,70,2025-04-14,2025-04-19
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,448651.35,17.83,58925.06,24,47,2025-06-29,2025-07-05
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Fully Paid,260721.95,17.53,93848.68,24,18,2025-02-15,2025-02-18
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,,20.1,25644.15,36,5,2025-02-13,2025-02-15
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,High Risk,Restructured,62514.29,21.08,44174.54,24,83,2025-01-22,2025-01-28
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Fully Paid,229232.06,18.68,44013.51,36,26,2025-04-24,2025-04-27
+Davao Central Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,270982.46,10.49,60361.99,24,52,2025-05-05,2025-05-10
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,128810.55,13.74,117938.72,6,47,2025-05-04,2025-05-09
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,High Risk,Active,141929.18,22.89,22087.77,6,6,2025-01-30,2025-02-05
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Restructured,194869.24,11.98,69463.6,36,58,2025-01-08,2025-01-11
+Davao Central Branch,Salary Loan,Regular,High Risk,Restructured,19834.89,14.27,33833.29,24,68,2025-04-08,2025-04-13
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Active,167818.79,15.2,116921.04,24,10,2025-02-26,2025-03-04
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,113609.52,15.31,26896.87,12,14,2025-04-21,2025-04-26
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,170473.7,18.0,57378.11,18,63,2025-03-14,2025-03-19
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,68683.44,23.12,92477.92,36,2,2025-04-25,2025-04-30
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,446358.37,12.23,88978.21,18,68,2025-01-20,2025-01-24
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,300860.3,10.38,59386.51,18,22,2025-01-25,2025-01-28
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Restructured,342760.14,11.56,51385.04,36,52,2025-01-19,2025-01-25
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,,22.25,56749.3,24,36,2025-01-05,2025-01-11
+Cebu IT Park Branch,Salary Loan,Contractual,Medium Risk,Restructured,254236.68,18.51,42749.01,36,8,2025-03-16,2025-03-19
+Quezon City Hub,Small Business Micro-Loan,Contractual,Low Risk,Restructured,52590.94,12.93,36559.96,18,14,2025-05-08,2025-05-11
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,273182.21,21.15,65719.17,24,2,2025-03-13,2025-03-16
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Active,297552.15,21.85,43196.04,6,69,2025-06-04,2025-06-07
+Makati CBD Branch,OFW Remittance Advance,Regular,High Risk,Restructured,375265.34,21.62,45183.47,36,16,2025-02-09,2025-02-11
+Quezon City Hub,Salary Loan,Self-Employed,Low Risk,Restructured,221513.18,22.74,83959.39,36,25,2025-01-26,2025-02-01
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Fully Paid,72514.35,12.41,116696.42,24,20,2025-01-27,2025-01-29
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,149050.19,20.2,78381.91,6,71,2025-03-24,2025-03-29
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,187910.33,15.64,23082.84,6,20,2025-05-08,2025-05-13
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,326499.45,21.55,22936.28,24,10,2025-06-27,2025-07-03
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,289681.37,19.79,114899.44,12,37,2025-06-19,2025-06-24
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Low Risk,Active,184487.4,20.53,46215.53,36,71,2025-06-06,2025-06-09
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Past Due,493392.47,18.67,24667.03,36,87,2025-06-16,2025-06-18
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Low Risk,Restructured,306829.66,11.25,77899.68,18,34,2025-06-18,2025-06-21
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Active,126241.13,16.95,80483.12,24,13,2025-02-02,2025-02-07
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,59873.41,23.76,83093.01,18,13,2025-04-07,2025-04-09
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,84900.98,23.03,43077.21,18,9,2025-04-21,2025-04-24
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,130519.29,9.17,16586.62,6,11,2025-01-16,2025-01-22
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,88733.87,11.05,116326.61,36,37,2025-01-23,2025-01-26
+Quezon City Hub,Salary Loan,Regular,High Risk,Restructured,101417.84,10.54,41343.77,18,33,2025-05-15,2025-05-20
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,149696.63,19.75,85982.76,6,40,2025-01-26,2025-01-28
+Davao Central Branch,Emergency Cash Loan,Contractual,Low Risk,Past Due,94953.06,21.18,89196.14,24,9,2025-04-06,2025-04-12
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Restructured,449415.06,11.81,79050.78,18,16,2025-01-12,2025-01-14
+Davao Central Branch,Emergency Cash Loan,Contractual,Low Risk,Past Due,49314.54,16.34,,36,16,2025-03-13,2025-03-19
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,267010.58,21.53,43465.11,18,66,2025-05-13,2025-05-15
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,211094.45,19.86,77755.17,24,61,2025-04-16,2025-04-21
+Makati CBD Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,491365.52,16.9,105940.04,18,0,2025-04-27,2025-05-03
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,64899.06,17.65,114407.04,36,11,2025-06-26,2025-06-30
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,204949.24,16.38,26120.11,6,3,2025-01-26,2025-01-28
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,485040.51,13.11,31257.0,36,41,2025-05-13,2025-05-15
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,High Risk,Restructured,434098.49,17.26,114197.31,6,12,2025-01-22,2025-01-25
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,410365.31,19.18,92336.2,12,84,2025-01-13,2025-01-19
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Active,136372.39,22.04,107714.35,36,85,2025-06-05,2025-06-09
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Fully Paid,93734.92,18.36,36276.43,36,3,2025-06-10,2025-06-15
+Davao Central Branch,OFW Remittance Advance,Contractual,Low Risk,Restructured,337635.18,20.3,76696.52,24,81,2025-04-17,2025-04-20
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,465394.23,10.98,88619.66,18,68,2025-01-23,2025-01-27
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,282813.82,15.65,86411.75,6,18,2025-04-07,2025-04-13
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Active,290090.22,8.64,57855.93,6,1,2025-01-18,2025-01-22
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Active,147189.76,12.32,16616.46,24,11,2025-04-27,2025-04-29
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Fully Paid,387051.54,19.76,76207.24,24,80,2025-01-30,2025-02-01
+Makati CBD Branch,Salary Loan,Contractual,Low Risk,Fully Paid,101651.44,23.87,41575.66,18,73,2025-01-26,2025-01-29
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,168602.83,10.04,62276.7,18,5,2025-05-24,2025-05-30
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,218463.85,14.72,115546.01,36,7,2025-02-08,2025-02-14
+Makati CBD Branch,Salary Loan,Regular,High Risk,Active,258729.09,20.9,56898.71,12,50,2025-06-10,2025-06-14
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Past Due,128780.77,11.66,103179.17,18,10,2025-06-03,2025-06-06
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,66270.04,17.1,34796.76,24,62,2025-06-25,2025-07-01
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Past Due,309203.82,19.86,85608.35,18,56,2025-06-15,2025-06-17
+Davao Central Branch,Small Business Micro-Loan,Contractual,High Risk,Fully Paid,151428.97,18.05,117585.73,6,11,2025-05-10,2025-05-14
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,294806.73,11.41,25698.78,12,72,2025-04-23,2025-04-28
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Restructured,85637.73,14.01,15873.59,36,1,2025-05-14,2025-05-16
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,245758.65,20.65,60526.19,6,7,2025-02-15,2025-02-18
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,270968.82,17.09,24725.68,6,10,2025-02-19,2025-02-25
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Fully Paid,35393.53,8.58,93580.36,12,52,2025-06-15,2025-06-17
+Quezon City Hub,Small Business Micro-Loan,Contractual,Low Risk,Past Due,174936.1,20.3,111027.61,36,9,2025-04-16,2025-04-21
+Davao Central Branch,Salary Loan,Regular,Low Risk,Restructured,75863.19,9.05,60572.2,24,84,2025-05-26,2025-05-31
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Past Due,41053.74,20.06,42164.72,36,83,2025-06-04,2025-06-07
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Fully Paid,495080.51,11.64,60612.35,18,7,2025-06-18,2025-06-20
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Restructured,167953.38,23.35,90962.02,6,35,2025-03-13,2025-03-17
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,406838.48,14.2,15950.69,18,75,2025-03-15,2025-03-17
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Past Due,134773.92,13.57,76892.67,24,13,2025-01-17,2025-01-22
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Fully Paid,343936.33,10.81,79395.63,18,53,2025-06-06,2025-06-09
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Restructured,382511.65,13.24,81957.27,36,84,2025-03-11,2025-03-14
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Past Due,301862.98,22.09,40412.32,18,85,2025-05-30,2025-06-03
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,241072.33,23.94,89975.54,24,20,2025-01-06,2025-01-09
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Past Due,211802.05,14.21,24596.11,24,49,2025-01-26,2025-01-29
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,180945.45,15.45,35923.39,24,38,2025-06-16,2025-06-19
+Davao Central Branch,Salary Loan,Contractual,Medium Risk,Past Due,465469.28,19.69,107134.35,36,19,2025-05-20,2025-05-23
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Restructured,417003.51,22.24,92565.93,24,87,2025-04-09,2025-04-12
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,482863.19,17.69,16443.28,6,86,2025-05-22,2025-05-27
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,High Risk,Past Due,70905.64,14.57,41079.51,24,6,2025-01-22,2025-01-24
+Davao Central Branch,Salary Loan,Regular,Low Risk,Active,368125.06,14.9,37512.68,18,8,2025-02-20,2025-02-26
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Active,469786.82,19.28,43434.66,18,0,2025-05-31,2025-06-03
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Active,98804.2,8.55,40993.78,18,25,2025-06-25,2025-07-01
+Davao Central Branch,Salary Loan,OFW Dependent,Low Risk,Fully Paid,42583.17,18.1,21565.26,36,37,2025-04-14,2025-04-20
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,High Risk,Active,373149.12,14.01,63188.75,18,37,2025-06-27,2025-07-02
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,291491.83,20.81,91937.01,36,60,2025-03-30,2025-04-02
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,422496.1,9.94,78706.83,36,43,2025-05-21,2025-05-27
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Restructured,78488.46,17.62,85651.53,24,85,2025-05-18,2025-05-21
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,399680.98,15.96,23520.66,6,43,2025-01-09,2025-01-13
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,108797.39,18.46,114906.52,24,73,2025-03-20,2025-03-24
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,90191.41,9.51,103041.64,24,61,2025-02-21,2025-02-25
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,90490.24,17.49,99534.48,36,5,2025-05-10,2025-05-16
+Makati CBD Branch,Salary Loan,Regular,Low Risk,Active,409141.61,17.2,101413.3,36,16,2025-06-02,2025-06-06
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Past Due,335946.64,17.19,112934.6,18,50,2025-01-13,2025-01-18
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,266302.06,17.85,72146.67,18,37,2025-02-20,2025-02-25
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,185826.94,18.99,36029.61,24,23,2025-02-03,2025-02-09
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,439828.26,20.98,79762.28,12,50,2025-02-04,2025-02-07
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Active,202298.1,12.68,93002.56,12,9,2025-05-11,2025-05-13
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Past Due,410133.73,21.29,92481.33,18,71,2025-04-30,2025-05-03
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,225176.11,16.22,69752.15,12,20,2025-03-11,2025-03-14
+Davao Central Branch,Salary Loan,Contractual,High Risk,Past Due,194702.77,9.69,22188.17,18,69,2025-06-25,2025-06-28
+Quezon City Hub,Salary Loan,Self-Employed,High Risk,Past Due,236713.09,9.41,53966.86,36,84,2025-05-27,2025-05-30
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Fully Paid,157675.16,13.68,111680.49,24,56,2025-03-08,2025-03-10
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,376328.6,20.67,76367.14,6,38,2025-04-13,2025-04-17
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,256332.99,19.47,,24,87,2025-03-14,2025-03-17
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Past Due,123784.22,20.72,43229.62,18,32,2025-04-26,2025-05-01
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,450791.54,16.52,53687.14,18,58,2025-05-13,2025-05-19
+Quezon City Hub,Emergency Cash Loan,Regular,Low Risk,Restructured,198106.7,15.32,109011.34,24,17,2025-03-08,2025-03-14
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Past Due,276340.9,10.79,84978.62,18,55,2025-05-19,2025-05-24
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Fully Paid,454171.33,13.59,97675.64,12,56,2025-05-01,2025-05-04
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,315876.62,15.23,62706.27,12,75,2025-04-04,2025-04-06
+Cebu IT Park Branch,Salary Loan,Contractual,High Risk,Active,67280.04,9.87,81175.96,18,47,2025-05-09,2025-05-13
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Restructured,470517.74,11.92,41080.28,18,41,2025-04-01,2025-04-07
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,317576.95,17.77,89073.39,12,26,2025-04-02,2025-04-06
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,174103.75,19.9,59898.14,18,73,2025-03-04,2025-03-06
+Quezon City Hub,Salary Loan,OFW Dependent,Low Risk,Past Due,78243.32,23.97,61467.28,18,51,2025-01-29,2025-02-04
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Restructured,399072.34,22.96,83178.84,24,41,2025-01-12,2025-01-16
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,High Risk,Past Due,313835.65,18.46,113309.47,6,31,2025-03-18,2025-03-20
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Low Risk,Past Due,271395.94,15.03,21720.67,12,25,2025-02-10,2025-02-14
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Restructured,448007.37,18.36,101598.04,24,24,2025-05-10,2025-05-13
+Davao Central Branch,Salary Loan,OFW Dependent,High Risk,Active,396412.63,20.68,45700.23,6,74,2025-02-06,2025-02-08
+Cebu IT Park Branch,Salary Loan,Self-Employed,Low Risk,Active,84320.69,10.33,61611.54,18,22,2025-06-22,2025-06-26
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Restructured,162743.81,14.85,17300.9,18,56,2025-06-25,2025-06-28
+Makati CBD Branch,Emergency Cash Loan,Regular,High Risk,Past Due,131759.68,21.52,46609.84,24,51,2025-01-24,2025-01-27
+Quezon City Hub,Emergency Cash Loan,Contractual,Low Risk,Active,374533.68,14.45,67776.28,18,86,2025-04-09,2025-04-11
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,26430.89,17.36,20898.49,36,30,2025-05-30,2025-06-04
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Past Due,289245.95,17.61,66565.05,24,63,2025-04-10,2025-04-16
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,383604.76,11.36,112346.62,6,70,2025-05-19,2025-05-21
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Past Due,439615.16,14.11,26066.29,24,32,2025-02-27,2025-03-02
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,177620.06,13.68,95266.28,12,84,2025-06-23,2025-06-26
+Quezon City Hub,Salary Loan,Contractual,High Risk,Fully Paid,412416.08,8.91,58015.46,24,1,2025-01-29,2025-01-31
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,64209.55,8.87,83793.24,18,17,2025-06-12,2025-06-17
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Fully Paid,424761.62,21.39,42324.84,18,46,2025-05-23,2025-05-29
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Past Due,72469.44,12.73,31746.69,36,32,2025-03-01,2025-03-05
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Low Risk,Active,204670.77,16.53,31848.57,36,83,2025-04-05,2025-04-07
+Quezon City Hub,Salary Loan,Contractual,High Risk,Fully Paid,400674.73,13.13,22401.65,36,34,2025-02-11,2025-02-17
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Active,83459.54,23.08,34492.9,6,50,2025-02-12,2025-02-18
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Active,122333.18,12.52,84743.04,36,17,2025-03-15,2025-03-18
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,363903.76,15.16,107577.51,6,87,2025-06-26,2025-06-30
+Davao Central Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,,22.03,100483.2,36,71,2025-06-09,2025-06-11
+Cebu IT Park Branch,Salary Loan,Contractual,High Risk,Active,324162.34,21.55,86939.1,6,29,2025-03-05,2025-03-08
+Davao Central Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,350034.74,11.38,26595.35,24,43,2025-01-02,2025-01-05
+Cebu IT Park Branch,Salary Loan,Regular,Low Risk,Past Due,275934.98,20.94,45364.68,24,52,2025-06-01,2025-06-06
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,133381.54,15.6,47529.72,18,9,2025-03-07,2025-03-13
+Makati CBD Branch,Small Business Micro-Loan,Contractual,High Risk,Fully Paid,179391.04,15.99,41245.48,6,86,2025-06-15,2025-06-17
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,98982.88,10.57,69075.59,12,51,2025-01-31,2025-02-02
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,455140.78,9.75,71233.15,18,48,2025-04-25,2025-04-27
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Restructured,295861.98,19.78,,24,10,2025-01-26,2025-01-29
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,206417.19,16.2,52147.86,6,65,2025-01-29,2025-02-03
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,236382.84,15.27,101998.34,36,57,2025-03-19,2025-03-23
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,474168.84,19.81,97875.75,12,89,2025-01-25,2025-01-28
+Makati CBD Branch,Salary Loan,Self-Employed,Low Risk,Fully Paid,85142.19,20.37,47318.56,24,35,2025-02-17,2025-02-21
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Active,297252.62,10.96,110947.79,18,32,2025-03-06,2025-03-11
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Active,257885.45,17.96,115045.58,6,46,2025-03-08,2025-03-14
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,309612.58,10.6,49307.97,12,12,2025-03-31,2025-04-02
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Active,18873.99,20.15,,6,39,2025-05-26,2025-05-30
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Active,437340.72,18.68,68091.59,36,88,2025-05-17,2025-05-20
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,466737.96,23.33,113817.69,18,67,2025-02-07,2025-02-11
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,286915.26,9.57,107013.54,6,41,2025-03-28,2025-04-03
+Davao Central Branch,Emergency Cash Loan,Regular,Medium Risk,Active,351358.9,9.38,25769.64,24,18,2025-05-29,2025-05-31
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Active,462024.7,12.87,56236.73,18,81,2025-03-06,2025-03-10
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,356546.93,12.56,73103.97,24,18,2025-05-29,2025-06-04
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Restructured,84744.13,12.33,67828.91,6,57,2025-01-27,2025-01-30
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,292381.3,22.55,35355.62,18,22,2025-04-16,2025-04-21
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Active,,12.37,105175.76,24,53,2025-05-03,2025-05-06
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Active,217824.03,12.72,86078.78,36,79,2025-02-13,2025-02-15
+Makati CBD Branch,Salary Loan,Self-Employed,High Risk,Restructured,370857.68,20.27,102980.38,36,64,2025-04-10,2025-04-13
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Past Due,467839.84,15.47,105170.25,6,11,2025-01-28,2025-01-31
+Davao Central Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,463528.57,20.54,93577.36,18,23,2025-06-22,2025-06-25
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,230911.29,9.51,61117.11,12,33,2025-01-17,2025-01-20
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,65486.64,16.06,79107.41,18,52,2025-05-07,2025-05-09
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Fully Paid,492572.19,9.02,31838.37,36,7,2025-05-03,2025-05-09
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Restructured,421060.06,9.47,85732.77,24,17,2025-06-17,2025-06-21
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,71084.71,22.55,33821.59,12,56,2025-05-11,2025-05-16
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,461212.52,10.66,87864.71,6,4,2025-03-17,2025-03-21
+Makati CBD Branch,Salary Loan,Contractual,Low Risk,Past Due,436249.22,16.75,39107.81,12,25,2025-02-15,2025-02-19
+Quezon City Hub,OFW Remittance Advance,Contractual,High Risk,Active,264230.65,14.87,27342.89,6,29,2025-06-07,2025-06-12
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Fully Paid,299724.96,13.88,32354.87,12,53,2025-03-10,2025-03-12
+Davao Central Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,205511.32,22.45,15209.17,6,12,2025-05-17,2025-05-22
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,36833.2,8.84,,6,82,2025-03-26,2025-03-28
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Active,174246.65,18.79,91902.11,12,28,2025-01-11,2025-01-15
+Makati CBD Branch,Small Business Micro-Loan,Regular,Medium Risk,Past Due,403398.19,23.43,69068.0,12,2,2025-03-10,2025-03-12
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Past Due,,17.18,31943.09,6,89,2025-04-09,2025-04-15
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Restructured,173414.59,23.02,23773.21,36,57,2025-04-01,2025-04-06
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,205102.66,9.31,17008.54,12,75,2025-06-08,2025-06-14
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Active,273323.85,14.99,32403.56,18,1,2025-06-10,2025-06-14
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,460729.25,12.53,108539.83,24,74,2025-06-16,2025-06-21
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Restructured,179709.54,19.83,40361.37,6,27,2025-04-04,2025-04-08
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,180007.07,23.71,52198.49,6,81,2025-06-23,2025-06-29
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Restructured,371375.61,12.48,26061.28,24,76,2025-06-14,2025-06-18
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,231586.79,18.64,38347.94,36,85,2025-04-25,2025-04-30
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Fully Paid,120056.36,11.57,69518.58,24,75,2025-01-31,2025-02-05
+Quezon City Hub,Salary Loan,Contractual,Low Risk,Active,231695.36,17.26,78814.03,12,1,2025-01-11,2025-01-15
+Cebu IT Park Branch,Salary Loan,Contractual,Medium Risk,Past Due,79019.94,15.69,40761.99,24,6,2025-03-28,2025-04-02
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Active,96429.62,23.57,21061.88,6,25,2025-05-01,2025-05-06
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,254200.21,17.93,56058.45,24,89,2025-05-10,2025-05-14
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Fully Paid,215273.47,13.92,39591.35,18,87,2025-04-15,2025-04-21
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Low Risk,Active,458274.49,10.27,38053.16,12,75,2025-01-27,2025-02-01
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,187573.01,10.84,115785.59,24,15,2025-01-02,2025-01-07
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,294488.29,11.99,,6,22,2025-04-13,2025-04-18
+Quezon City Hub,OFW Remittance Advance,Regular,Medium Risk,Active,319809.5,12.39,,12,39,2025-04-11,2025-04-16
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Restructured,16416.28,21.68,58656.39,6,59,2025-01-21,2025-01-25
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,335133.31,17.2,60039.16,36,72,2025-02-27,2025-03-05
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,97237.62,16.61,71795.03,18,31,2025-05-13,2025-05-19
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Medium Risk,Active,480924.46,10.28,88125.13,36,14,2025-06-29,2025-07-01
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Active,82844.74,21.83,88725.34,18,12,2025-06-22,2025-06-27
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Restructured,213165.82,19.7,33027.86,24,4,2025-03-26,2025-03-31
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Active,51821.34,9.55,67511.84,12,74,2025-04-03,2025-04-05
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,498468.38,19.47,58255.6,24,73,2025-01-20,2025-01-26
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Fully Paid,256075.56,16.92,106405.33,18,51,2025-03-02,2025-03-05
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,301738.66,9.77,81298.99,18,76,2025-02-07,2025-02-10
+Quezon City Hub,Emergency Cash Loan,Contractual,Medium Risk,Restructured,42867.47,15.6,70912.93,18,40,2025-05-28,2025-06-03
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Active,377480.63,16.01,27116.44,6,52,2025-01-25,2025-01-30
+Davao Central Branch,Salary Loan,Regular,High Risk,Fully Paid,112853.74,11.07,78591.98,12,49,2025-05-10,2025-05-13
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,450046.6,23.16,27306.41,24,14,2025-05-01,2025-05-05
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,110518.42,21.67,50406.69,24,6,2025-06-09,2025-06-13
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,103436.98,18.87,29998.41,36,39,2025-01-26,2025-01-28
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Fully Paid,27909.34,15.67,87667.73,18,27,2025-06-18,2025-06-24
+Makati CBD Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,241312.8,14.88,36656.47,18,31,2025-03-08,2025-03-14
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,286772.16,18.59,56145.23,18,14,2025-01-01,2025-01-04
+Quezon City Hub,Salary Loan,Contractual,High Risk,Past Due,42197.23,16.95,109045.85,24,84,2025-02-20,2025-02-25
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Past Due,390008.53,9.47,36453.22,36,69,2025-01-05,2025-01-11
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Active,232111.53,16.44,68319.53,6,64,2025-01-13,2025-01-16
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,266951.23,21.0,59023.52,12,3,2025-05-27,2025-05-30
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,225973.75,15.62,,6,10,2025-05-20,2025-05-26
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Past Due,206373.9,9.31,98239.6,24,25,2025-02-17,2025-02-20
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Restructured,284223.76,20.69,22249.82,18,60,2025-06-02,2025-06-04
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Active,86067.72,11.62,64796.78,12,36,2025-02-26,2025-02-28
+Quezon City Hub,Emergency Cash Loan,Regular,Low Risk,Active,99144.78,12.51,73871.22,24,22,2025-04-25,2025-05-01
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Active,432274.95,11.05,80984.78,24,84,2025-02-04,2025-02-09
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,473596.58,13.62,87306.32,24,39,2025-03-17,2025-03-19
+Quezon City Hub,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,192921.56,20.23,41593.6,12,76,2025-04-04,2025-04-06
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,142664.89,16.55,16047.77,12,22,2025-01-05,2025-01-11
+Makati CBD Branch,Emergency Cash Loan,Regular,High Risk,Past Due,325559.78,11.68,90961.58,36,15,2025-01-22,2025-01-26
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,210279.74,22.11,71243.94,36,60,2025-04-13,2025-04-16
+Cebu IT Park Branch,Salary Loan,OFW Dependent,High Risk,Past Due,22439.31,22.13,102792.36,6,67,2025-06-24,2025-06-26
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,86514.77,21.99,101245.78,12,79,2025-05-11,2025-05-15
+Makati CBD Branch,OFW Remittance Advance,Contractual,Low Risk,Active,360826.39,12.2,103549.25,12,30,2025-05-04,2025-05-09
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,332872.73,15.49,65934.94,12,52,2025-02-22,2025-02-26
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,23277.04,23.77,50030.98,36,24,2025-06-08,2025-06-14
+Makati CBD Branch,Salary Loan,Regular,High Risk,Restructured,118766.36,20.47,98113.61,24,43,2025-03-10,2025-03-15
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,123226.65,8.92,62385.88,18,11,2025-04-14,2025-04-19
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,339227.44,9.51,34261.43,36,89,2025-06-10,2025-06-14
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,19658.16,15.69,104772.27,12,8,2025-06-27,2025-07-03
+Makati CBD Branch,Emergency Cash Loan,Contractual,Medium Risk,Past Due,61013.21,22.59,107668.79,36,11,2025-01-16,2025-01-18
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,401958.88,16.85,63962.52,6,68,2025-04-26,2025-04-30
+Quezon City Hub,Salary Loan,Contractual,Low Risk,Past Due,97486.88,16.22,22948.47,12,53,2025-03-17,2025-03-19
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Active,329845.59,10.13,55721.74,6,53,2025-04-19,2025-04-23
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,126709.56,18.68,99371.45,12,27,2025-02-08,2025-02-10
+Davao Central Branch,Small Business Micro-Loan,Contractual,Medium Risk,Active,58726.28,21.24,109686.27,36,55,2025-03-30,2025-04-03
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Medium Risk,Active,129154.37,14.4,36364.64,24,68,2025-06-23,2025-06-28
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Past Due,363910.8,20.52,22032.23,18,76,2025-04-22,2025-04-25
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Restructured,429291.27,23.45,107121.8,6,57,2025-02-16,2025-02-21
+Makati CBD Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,416807.73,11.66,55887.52,36,77,2025-06-21,2025-06-23
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,204619.93,16.61,71884.9,24,74,2025-05-17,2025-05-23
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Restructured,337361.72,12.95,116646.91,36,41,2025-05-08,2025-05-13
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Active,110442.3,20.79,21989.3,6,37,2025-06-27,2025-06-30
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,153642.39,17.45,83073.39,18,67,2025-03-18,2025-03-20
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Active,449204.55,18.34,22781.07,36,52,2025-01-15,2025-01-20
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Active,16370.94,20.87,54424.24,12,32,2025-02-05,2025-02-09
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,High Risk,Fully Paid,51899.18,14.64,99400.53,24,70,2025-03-04,2025-03-10
+Quezon City Hub,Emergency Cash Loan,Self-Employed,High Risk,Restructured,111864.27,22.68,60514.58,36,55,2025-03-10,2025-03-12
+Quezon City Hub,Salary Loan,OFW Dependent,High Risk,Restructured,23000.78,16.76,119704.15,24,71,2025-06-18,2025-06-23
+Davao Central Branch,Emergency Cash Loan,Regular,Medium Risk,Fully Paid,98903.36,10.95,73701.22,12,50,2025-03-15,2025-03-17
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Fully Paid,295690.36,19.29,48722.03,18,73,2025-01-24,2025-01-28
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Past Due,216498.03,20.8,38111.69,18,42,2025-02-18,2025-02-21
+Makati CBD Branch,Emergency Cash Loan,Contractual,High Risk,Past Due,447409.14,13.41,51804.66,12,14,2025-05-26,2025-05-31
+Makati CBD Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,410547.35,21.79,54115.99,24,37,2025-01-07,2025-01-09
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,177490.5,22.55,22214.94,36,14,2025-01-04,2025-01-06
+Makati CBD Branch,OFW Remittance Advance,Regular,Low Risk,Restructured,137117.48,12.79,53805.29,12,4,2025-03-31,2025-04-02
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Active,196049.28,23.74,63745.04,6,82,2025-03-01,2025-03-04
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Active,299244.52,10.68,90887.46,24,53,2025-02-24,2025-02-26
+Davao Central Branch,Salary Loan,Contractual,Medium Risk,Active,141351.18,11.63,83956.6,18,50,2025-01-16,2025-01-22
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Active,315832.96,11.36,89420.39,12,9,2025-01-29,2025-02-04
+Quezon City Hub,Salary Loan,Self-Employed,Low Risk,Restructured,210611.71,22.36,15878.19,18,11,2025-05-31,2025-06-02
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Active,280503.12,18.64,37855.08,24,3,2025-01-14,2025-01-20
+Davao Central Branch,Emergency Cash Loan,Contractual,Medium Risk,Fully Paid,223702.0,10.86,84476.85,18,17,2025-03-20,2025-03-25
+Quezon City Hub,Emergency Cash Loan,Self-Employed,High Risk,Past Due,154288.22,15.33,65818.88,12,79,2025-06-26,2025-07-02
+Quezon City Hub,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,474742.12,18.04,15557.91,24,35,2025-02-02,2025-02-04
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,384166.84,9.79,99471.94,6,24,2025-06-02,2025-06-06
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Fully Paid,78655.46,22.18,96145.01,12,86,2025-01-21,2025-01-26
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,435549.31,20.96,72584.01,36,75,2025-05-25,2025-05-28
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,248841.29,16.33,21978.65,12,35,2025-01-23,2025-01-25
+Makati CBD Branch,Salary Loan,Self-Employed,High Risk,Past Due,,23.49,95484.08,24,66,2025-02-26,2025-03-01
+Makati CBD Branch,Salary Loan,Self-Employed,Medium Risk,Past Due,401929.08,14.98,76289.93,12,8,2025-05-22,2025-05-26
+Cebu IT Park Branch,Salary Loan,Regular,High Risk,Fully Paid,218354.62,23.75,97105.8,6,60,2025-04-03,2025-04-06
+Davao Central Branch,OFW Remittance Advance,Contractual,Low Risk,Past Due,21009.96,18.85,93933.43,6,52,2025-01-20,2025-01-22
+Cebu IT Park Branch,Salary Loan,Regular,Medium Risk,Active,141651.91,18.34,99315.22,36,17,2025-06-07,2025-06-09
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Past Due,275400.77,11.07,69390.85,18,42,2025-01-19,2025-01-23
+Cebu IT Park Branch,Salary Loan,Contractual,High Risk,Restructured,320404.33,22.17,29734.07,24,34,2025-04-13,2025-04-15
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,136364.97,15.13,85471.53,24,62,2025-03-18,2025-03-22
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Fully Paid,78284.48,11.01,80149.75,18,77,2025-05-31,2025-06-04
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Active,419115.82,8.7,92936.58,6,3,2025-02-02,2025-02-04
+Davao Central Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,492357.07,17.18,,6,40,2025-01-18,2025-01-24
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Past Due,267588.19,16.67,35472.4,12,44,2025-03-14,2025-03-18
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,94122.85,19.65,108493.0,36,49,2025-06-10,2025-06-12
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,143430.59,22.3,93747.67,36,78,2025-06-09,2025-06-15
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Restructured,,9.73,110363.99,36,27,2025-01-17,2025-01-21
+Quezon City Hub,Salary Loan,OFW Dependent,Low Risk,Restructured,458006.42,19.84,94665.11,12,41,2025-01-19,2025-01-25
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,,11.4,77701.31,36,79,2025-03-11,2025-03-16
+Cebu IT Park Branch,Salary Loan,Contractual,Low Risk,Fully Paid,292493.07,21.8,83683.94,18,75,2025-04-30,2025-05-05
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,144287.06,21.2,108358.43,12,68,2025-04-11,2025-04-17
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Past Due,281547.22,16.88,75774.71,18,0,2025-02-03,2025-02-07
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Restructured,329195.99,19.51,81401.09,12,38,2025-03-25,2025-03-27
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,416573.48,13.37,31430.06,36,89,2025-06-02,2025-06-05
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,111146.42,15.8,64761.73,18,16,2025-03-15,2025-03-17
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,15387.96,21.24,90221.7,18,87,2025-03-29,2025-04-01
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,77073.96,15.62,43448.98,18,34,2025-03-26,2025-03-29
+Davao Central Branch,Emergency Cash Loan,Contractual,High Risk,Fully Paid,451009.13,14.05,36236.69,12,45,2025-01-11,2025-01-15
+Makati CBD Branch,OFW Remittance Advance,Contractual,Medium Risk,Fully Paid,438206.14,16.16,47951.81,24,41,2025-04-01,2025-04-07
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,302732.42,21.34,40357.57,36,38,2025-05-24,2025-05-26
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,304253.26,13.7,37565.83,18,89,2025-05-07,2025-05-13
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Active,335867.97,11.19,59609.34,24,48,2025-04-23,2025-04-28
+Davao Central Branch,Salary Loan,OFW Dependent,High Risk,Fully Paid,95931.93,19.54,110323.04,36,61,2025-03-21,2025-03-25
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Active,458061.85,21.3,68241.26,36,37,2025-01-07,2025-01-11
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Fully Paid,215197.56,10.06,34731.64,18,22,2025-01-16,2025-01-21
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Past Due,197737.88,12.22,23082.03,18,21,2025-01-16,2025-01-18
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Restructured,264269.68,10.7,88096.4,12,3,2025-06-17,2025-06-22
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Past Due,33013.32,13.89,55193.87,24,48,2025-01-12,2025-01-14
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,91478.85,15.48,101292.25,24,58,2025-02-04,2025-02-07
+Makati CBD Branch,Salary Loan,OFW Dependent,High Risk,Active,371636.47,20.11,84248.63,18,72,2025-01-21,2025-01-25
+Quezon City Hub,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,50571.35,18.59,98605.35,36,67,2025-06-27,2025-06-29
+Davao Central Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,305544.53,18.12,43554.33,18,70,2025-06-20,2025-06-26
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,130221.06,13.96,87697.69,36,86,2025-01-17,2025-01-23
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Fully Paid,200754.85,21.54,42726.51,36,1,2025-02-01,2025-02-05
+Davao Central Branch,Salary Loan,Self-Employed,Medium Risk,Active,151459.93,15.8,113602.19,18,48,2025-02-10,2025-02-15
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Active,184279.63,23.68,81819.3,6,87,2025-05-14,2025-05-19
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Active,,18.33,49073.74,24,30,2025-01-27,2025-01-29
+Makati CBD Branch,OFW Remittance Advance,Contractual,Low Risk,Restructured,155589.64,10.46,43298.75,36,39,2025-05-28,2025-06-02
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Active,287538.27,18.98,35047.29,36,47,2025-06-02,2025-06-06
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Active,243264.7,13.54,87937.3,6,50,2025-03-07,2025-03-09
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,335198.87,19.14,37965.14,12,42,2025-05-17,2025-05-20
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Restructured,469046.57,9.58,77506.84,6,54,2025-04-02,2025-04-07
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,368960.33,11.21,42786.68,6,87,2025-03-02,2025-03-07
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Restructured,,21.76,,36,48,2025-06-15,2025-06-17
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,,12.02,100568.67,24,89,2025-01-03,2025-01-09
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,138509.38,21.47,96692.65,6,79,2025-04-13,2025-04-18
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,301588.19,12.83,94889.39,12,56,2025-02-24,2025-02-28
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Medium Risk,Active,35198.65,18.46,34710.85,18,76,2025-01-01,2025-01-06
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,253219.46,19.26,24280.42,6,14,2025-04-11,2025-04-14
+Quezon City Hub,Small Business Micro-Loan,Regular,Low Risk,Active,302453.0,16.45,88389.63,6,26,2025-02-14,2025-02-19
+Davao Central Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,173779.51,13.23,53676.46,12,67,2025-06-24,2025-06-30
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,High Risk,Active,387746.98,11.8,60396.35,24,79,2025-01-26,2025-01-31
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Fully Paid,62233.14,9.01,18270.65,6,63,2025-05-01,2025-05-03
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Active,46817.51,13.21,42255.53,6,29,2025-05-22,2025-05-27
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Active,366812.49,18.62,18536.02,24,35,2025-02-15,2025-02-21
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,252790.74,23.04,107314.51,12,66,2025-05-02,2025-05-04
+Makati CBD Branch,OFW Remittance Advance,Contractual,High Risk,Fully Paid,347317.17,22.0,40556.65,6,85,2025-01-31,2025-02-04
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,High Risk,Restructured,223065.4,20.37,73520.4,24,85,2025-02-28,2025-03-02
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Low Risk,Active,130737.0,20.72,19092.83,6,48,2025-01-29,2025-02-01
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Fully Paid,411360.14,18.81,85018.98,18,75,2025-04-16,2025-04-18
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Fully Paid,401713.78,12.53,48917.87,36,54,2025-01-17,2025-01-21
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Restructured,350401.27,22.56,109281.51,18,84,2025-05-22,2025-05-27
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Past Due,143351.12,18.9,108252.41,6,55,2025-06-13,2025-06-15
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,,17.19,49155.51,12,67,2025-01-24,2025-01-26
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,186877.21,10.22,109600.89,36,43,2025-04-19,2025-04-21
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,54875.22,15.43,119596.56,18,30,2025-04-01,2025-04-03
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,459483.65,15.64,101668.64,24,57,2025-01-25,2025-01-29
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Medium Risk,Active,77041.13,21.9,103711.49,12,86,2025-02-01,2025-02-07
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,High Risk,Past Due,475616.3,16.97,41145.92,18,52,2025-04-26,2025-05-02
+Quezon City Hub,Salary Loan,Regular,High Risk,Restructured,228542.83,14.4,75553.75,24,83,2025-03-23,2025-03-25
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,100715.14,23.64,22061.87,6,78,2025-04-20,2025-04-24
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,275531.46,10.22,24966.38,24,22,2025-05-26,2025-05-30
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,437743.46,15.05,119883.72,18,27,2025-02-06,2025-02-08
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,368790.19,9.15,49297.12,18,15,2025-01-26,2025-01-29
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Fully Paid,,19.97,93559.31,6,36,2025-05-17,2025-05-19
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,High Risk,Active,332803.85,22.73,99699.83,24,20,2025-03-05,2025-03-08
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,349215.52,12.84,105092.44,24,78,2025-03-13,2025-03-15
+Davao Central Branch,Salary Loan,Regular,High Risk,Fully Paid,426105.87,21.8,119750.97,6,16,2025-05-28,2025-05-31
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,132337.32,13.03,40357.13,24,36,2025-04-16,2025-04-19
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,249818.23,22.62,19236.84,6,76,2025-03-27,2025-03-29
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Past Due,118392.63,20.19,58175.11,12,18,2025-06-07,2025-06-10
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Restructured,493957.32,20.98,28658.47,18,29,2025-02-22,2025-02-27
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,472589.08,8.78,17354.72,12,44,2025-04-02,2025-04-08
+Davao Central Branch,Salary Loan,Regular,High Risk,Active,29319.14,23.42,52844.82,36,17,2025-04-09,2025-04-13
+Makati CBD Branch,OFW Remittance Advance,Contractual,High Risk,Fully Paid,355731.83,19.76,97292.52,36,77,2025-01-11,2025-01-14
+Quezon City Hub,Salary Loan,Self-Employed,High Risk,Fully Paid,463371.68,13.22,74448.97,36,61,2025-01-31,2025-02-03
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,98481.92,21.36,47841.69,6,35,2025-06-26,2025-06-30
+Quezon City Hub,Salary Loan,Contractual,High Risk,Restructured,288293.16,12.86,83705.91,24,83,2025-04-10,2025-04-13
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,458589.27,22.03,39361.91,12,51,2025-03-28,2025-04-01
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,High Risk,Past Due,26633.53,10.24,16510.05,12,18,2025-05-27,2025-05-29
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,351735.93,19.41,95257.11,12,43,2025-05-20,2025-05-25
+Makati CBD Branch,Salary Loan,Regular,High Risk,Fully Paid,155701.01,16.88,80493.02,12,6,2025-01-15,2025-01-20
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,462954.14,10.0,95041.78,36,43,2025-06-08,2025-06-14
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Low Risk,Fully Paid,485818.54,12.25,19088.49,12,67,2025-06-20,2025-06-23
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,472690.58,8.69,102897.56,24,33,2025-04-11,2025-04-17
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Medium Risk,Active,242364.97,15.77,80050.25,36,65,2025-06-14,2025-06-16
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,432400.9,13.17,74156.51,12,68,2025-01-29,2025-02-03
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Active,423829.21,17.77,80584.48,6,54,2025-04-24,2025-04-26
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Fully Paid,166359.23,13.11,105765.49,18,9,2025-04-17,2025-04-19
+Cebu IT Park Branch,Salary Loan,Self-Employed,Medium Risk,Restructured,416168.58,13.15,76628.33,18,41,2025-06-03,2025-06-06
+Davao Central Branch,OFW Remittance Advance,Contractual,Low Risk,Restructured,28133.74,20.02,75999.79,18,40,2025-04-18,2025-04-20
+Makati CBD Branch,Salary Loan,Contractual,Medium Risk,Active,302172.24,9.25,119021.31,36,76,2025-05-10,2025-05-15
+Quezon City Hub,Salary Loan,Self-Employed,Medium Risk,Fully Paid,122704.33,22.49,94456.67,12,68,2025-03-25,2025-03-31
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Restructured,69077.77,21.71,61440.85,36,9,2025-01-15,2025-01-20
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,47707.07,18.85,89276.69,24,9,2025-05-12,2025-05-15
+Cebu IT Park Branch,Salary Loan,Contractual,Low Risk,Fully Paid,351181.5,17.69,55869.2,6,59,2025-02-19,2025-02-24
+Quezon City Hub,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,176538.73,22.33,39031.92,6,50,2025-06-15,2025-06-19
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,365135.72,11.37,77669.45,18,20,2025-01-23,2025-01-29
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,42024.61,9.72,112459.12,18,7,2025-02-28,2025-03-04
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,164492.27,12.21,112559.65,18,64,2025-03-31,2025-04-04
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,274350.73,20.82,50900.05,12,77,2025-04-25,2025-04-28
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Medium Risk,Restructured,397454.35,9.04,70406.13,24,84,2025-03-16,2025-03-18
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,166188.73,17.53,37221.77,24,29,2025-06-05,2025-06-09
+Davao Central Branch,Salary Loan,Regular,High Risk,Active,316686.77,23.93,119541.27,24,84,2025-05-03,2025-05-08
+Quezon City Hub,Salary Loan,Contractual,High Risk,Past Due,444129.1,21.76,118017.38,24,48,2025-05-16,2025-05-18
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Restructured,311772.96,16.58,83198.44,18,8,2025-06-06,2025-06-11
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,High Risk,Past Due,124150.14,9.49,99463.48,6,16,2025-05-19,2025-05-24
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Fully Paid,21956.38,21.39,90085.52,18,68,2025-01-18,2025-01-20
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,436348.45,17.78,77281.61,24,57,2025-02-19,2025-02-21
+Davao Central Branch,Salary Loan,Regular,Low Risk,Active,20422.01,10.28,20601.54,18,56,2025-05-22,2025-05-27
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Restructured,438603.82,9.95,62750.26,24,61,2025-04-28,2025-05-01
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Medium Risk,Active,269179.2,22.6,85852.56,36,51,2025-05-17,2025-05-23
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Past Due,470143.17,18.87,86140.82,6,60,2025-05-19,2025-05-25
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Active,401403.79,21.35,54177.87,36,39,2025-04-18,2025-04-21
+Davao Central Branch,Salary Loan,OFW Dependent,Low Risk,Fully Paid,498987.71,22.12,113877.66,12,37,2025-03-08,2025-03-10
+Quezon City Hub,Salary Loan,Regular,Medium Risk,Fully Paid,181848.79,17.36,32572.49,18,42,2025-06-16,2025-06-21
+Makati CBD Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Fully Paid,385922.26,16.52,67537.74,12,62,2025-03-19,2025-03-25
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Medium Risk,Restructured,206946.15,15.17,87542.82,18,18,2025-06-05,2025-06-10
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,245139.05,13.41,88199.26,36,49,2025-03-16,2025-03-19
+Davao Central Branch,OFW Remittance Advance,Regular,High Risk,Fully Paid,317477.68,15.24,83107.09,24,32,2025-02-08,2025-02-13
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Restructured,438101.79,20.5,43905.26,24,12,2025-01-25,2025-01-28
+Makati CBD Branch,Emergency Cash Loan,Regular,High Risk,Past Due,492200.9,17.83,31401.69,18,77,2025-01-21,2025-01-23
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,386453.97,22.33,81773.73,24,61,2025-05-18,2025-05-21
+Quezon City Hub,OFW Remittance Advance,Contractual,Low Risk,Fully Paid,214705.72,15.37,77926.72,36,42,2025-06-20,2025-06-23
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,216464.93,17.91,33832.38,24,48,2025-01-15,2025-01-21
+Davao Central Branch,Salary Loan,Regular,High Risk,Past Due,371415.33,18.29,89039.61,36,35,2025-02-17,2025-02-22
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Past Due,127000.8,17.67,62793.06,12,9,2025-03-27,2025-04-02
+Davao Central Branch,Emergency Cash Loan,Contractual,High Risk,Past Due,64132.32,19.39,85114.86,36,5,2025-05-29,2025-06-02
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Restructured,183764.86,12.18,102923.54,6,56,2025-04-26,2025-04-29
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Active,150747.11,16.44,32821.49,6,0,2025-02-19,2025-02-23
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Active,155190.98,10.12,17010.21,6,70,2025-05-31,2025-06-06
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,High Risk,Fully Paid,124467.8,14.46,96805.77,18,57,2025-05-21,2025-05-26
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,30625.66,16.06,79018.23,18,20,2025-03-10,2025-03-16
+Quezon City Hub,Salary Loan,Contractual,Medium Risk,Fully Paid,18758.23,18.61,88462.15,18,79,2025-01-04,2025-01-09
+Makati CBD Branch,Emergency Cash Loan,Regular,High Risk,Active,493983.97,23.23,103006.27,36,55,2025-03-19,2025-03-24
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Restructured,219608.84,17.81,99295.15,18,86,2025-01-09,2025-01-11
+Makati CBD Branch,OFW Remittance Advance,OFW Dependent,High Risk,Fully Paid,198320.06,20.03,115896.62,12,19,2025-05-01,2025-05-04
+Quezon City Hub,Small Business Micro-Loan,Contractual,Low Risk,Restructured,343027.17,16.35,71273.18,6,53,2025-04-25,2025-05-01
+Quezon City Hub,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,116944.41,18.33,66292.04,36,24,2025-06-12,2025-06-17
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Restructured,475480.98,9.6,57198.16,6,27,2025-04-11,2025-04-17
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Restructured,395309.06,12.44,31137.56,18,4,2025-05-29,2025-06-04
+Quezon City Hub,Salary Loan,OFW Dependent,Medium Risk,Active,53811.39,14.11,75123.76,36,20,2025-05-26,2025-05-31
+Quezon City Hub,OFW Remittance Advance,Contractual,Medium Risk,Restructured,,15.82,44086.32,24,17,2025-04-07,2025-04-11
+Quezon City Hub,Small Business Micro-Loan,Contractual,High Risk,Past Due,440767.97,9.21,111737.29,12,46,2025-03-22,2025-03-25
+Davao Central Branch,Salary Loan,Self-Employed,High Risk,Active,472918.69,10.67,76235.03,18,69,2025-02-12,2025-02-15
+Davao Central Branch,Salary Loan,Contractual,Low Risk,Fully Paid,239026.74,12.79,77248.22,18,56,2025-04-05,2025-04-07
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Active,310571.58,23.56,52267.09,12,18,2025-01-06,2025-01-08
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Past Due,91846.63,13.64,20458.88,12,64,2025-03-08,2025-03-10
+Davao Central Branch,Salary Loan,Self-Employed,Low Risk,Past Due,495672.63,15.97,18333.1,24,2,2025-05-20,2025-05-23
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Restructured,123519.13,11.54,59450.19,18,41,2025-04-10,2025-04-14
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Medium Risk,Past Due,471938.57,17.97,23879.36,18,20,2025-01-12,2025-01-15
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,High Risk,Past Due,328326.86,12.85,78718.93,6,39,2025-03-07,2025-03-10
+Davao Central Branch,OFW Remittance Advance,Contractual,Medium Risk,Past Due,307791.03,11.71,107502.17,36,66,2025-01-02,2025-01-05
+Makati CBD Branch,Salary Loan,Regular,High Risk,Past Due,261217.37,16.51,107706.06,36,24,2025-05-23,2025-05-26
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Fully Paid,123028.21,8.59,84199.77,6,54,2025-05-31,2025-06-04
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Fully Paid,96498.74,8.62,37179.34,36,83,2025-06-06,2025-06-08
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Active,118038.24,11.9,,12,51,2025-03-22,2025-03-28
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Restructured,101354.75,9.07,108039.81,36,43,2025-05-15,2025-05-17
+Davao Central Branch,OFW Remittance Advance,Regular,Low Risk,Fully Paid,391996.39,10.17,35648.63,36,84,2025-06-05,2025-06-07
+Quezon City Hub,Salary Loan,Regular,Low Risk,Past Due,181561.38,13.75,92429.74,6,55,2025-05-22,2025-05-28
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,38342.91,20.94,45084.55,24,54,2025-06-21,2025-06-24
+Cebu IT Park Branch,Salary Loan,OFW Dependent,Low Risk,Fully Paid,484860.29,17.37,99277.23,36,86,2025-06-07,2025-06-11
+Makati CBD Branch,OFW Remittance Advance,Contractual,Low Risk,Active,443055.08,16.45,119709.98,36,69,2025-06-09,2025-06-13
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Low Risk,Past Due,464598.62,13.05,18152.73,24,76,2025-03-11,2025-03-13
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,497504.83,22.94,,6,86,2025-04-25,2025-05-01
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,High Risk,Fully Paid,95208.67,14.65,80376.21,24,72,2025-03-29,2025-04-03
+Quezon City Hub,Salary Loan,Regular,Low Risk,Restructured,204158.59,9.85,117205.18,6,80,2025-01-06,2025-01-09
+Quezon City Hub,Salary Loan,OFW Dependent,High Risk,Fully Paid,381536.85,18.06,63826.0,12,65,2025-01-27,2025-01-29
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Active,351050.1,10.26,103975.73,6,18,2025-03-23,2025-03-27
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,High Risk,Past Due,85408.99,13.85,21551.38,12,82,2025-03-29,2025-04-04
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Active,409758.23,16.36,50204.3,12,6,2025-04-30,2025-05-06
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Past Due,119975.88,22.05,22036.74,6,62,2025-01-24,2025-01-26
+Davao Central Branch,Small Business Micro-Loan,Contractual,High Risk,Past Due,119670.63,16.15,117411.03,18,41,2025-04-12,2025-04-17
+Makati CBD Branch,OFW Remittance Advance,Regular,High Risk,Restructured,273117.47,19.39,100782.26,6,41,2025-02-03,2025-02-07
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Fully Paid,300540.57,23.89,104517.48,36,58,2025-06-17,2025-06-19
+Cebu IT Park Branch,OFW Remittance Advance,Regular,Low Risk,Active,294242.24,10.54,113486.35,36,19,2025-02-16,2025-02-21
+Cebu IT Park Branch,OFW Remittance Advance,Regular,High Risk,Active,54828.55,12.76,23935.87,18,72,2025-01-24,2025-01-30
+Quezon City Hub,OFW Remittance Advance,OFW Dependent,High Risk,Active,439955.82,14.62,55487.75,12,16,2025-03-06,2025-03-09
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,Medium Risk,Restructured,140144.02,15.04,22458.66,18,26,2025-01-18,2025-01-22
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Restructured,73462.31,14.87,37133.28,36,46,2025-02-13,2025-02-17
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,High Risk,Restructured,445486.56,22.57,39083.41,18,1,2025-03-17,2025-03-22
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Past Due,478269.23,19.57,64256.26,6,62,2025-02-26,2025-02-28
+Cebu IT Park Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Active,432442.53,17.92,43199.03,18,61,2025-04-17,2025-04-23
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Past Due,406662.88,13.3,25602.7,12,18,2025-06-05,2025-06-10
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,High Risk,Active,331068.57,21.27,32586.56,6,16,2025-05-04,2025-05-07
+Quezon City Hub,Small Business Micro-Loan,Regular,High Risk,Active,279920.11,23.3,30463.93,24,68,2025-05-31,2025-06-03
+Quezon City Hub,OFW Remittance Advance,Self-Employed,High Risk,Fully Paid,52623.51,21.23,117173.06,36,38,2025-06-11,2025-06-14
+Quezon City Hub,Salary Loan,Regular,High Risk,Active,210142.07,8.52,94725.71,36,81,2025-05-19,2025-05-24
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Restructured,192617.37,18.36,116614.95,18,70,2025-06-12,2025-06-18
+Davao Central Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,137279.35,9.29,61172.75,6,80,2025-04-26,2025-04-30
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,364475.86,12.49,44228.69,24,38,2025-04-03,2025-04-05
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,252979.11,9.42,98820.79,6,35,2025-02-11,2025-02-15
+Davao Central Branch,Emergency Cash Loan,Self-Employed,High Risk,Fully Paid,49712.65,17.86,49256.66,36,39,2025-01-28,2025-02-03
+Cebu IT Park Branch,Salary Loan,Self-Employed,Low Risk,Past Due,117889.77,19.14,46435.25,6,44,2025-05-03,2025-05-07
+Davao Central Branch,OFW Remittance Advance,OFW Dependent,Low Risk,Active,344796.79,10.27,,24,3,2025-01-24,2025-01-29
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Active,47304.12,14.45,28616.29,18,24,2025-05-16,2025-05-19
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Medium Risk,Restructured,427091.39,15.57,41928.62,12,68,2025-04-16,2025-04-22
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Low Risk,Restructured,252621.8,14.22,52308.57,6,29,2025-04-28,2025-05-04
+Cebu IT Park Branch,Emergency Cash Loan,Contractual,Low Risk,Restructured,245487.42,10.38,85769.39,12,75,2025-02-22,2025-02-26
+Quezon City Hub,Emergency Cash Loan,Self-Employed,Medium Risk,Restructured,300279.81,14.99,21569.31,36,67,2025-05-12,2025-05-17
+Quezon City Hub,Emergency Cash Loan,OFW Dependent,Low Risk,Restructured,414093.67,20.14,37103.23,18,87,2025-04-10,2025-04-14
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Restructured,180426.51,9.6,99947.48,18,28,2025-01-05,2025-01-09
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Active,342227.91,9.74,30426.8,6,72,2025-02-18,2025-02-24
+Makati CBD Branch,Emergency Cash Loan,Regular,Low Risk,Fully Paid,287208.66,14.0,50977.74,18,67,2025-04-08,2025-04-12
+Makati CBD Branch,Small Business Micro-Loan,Regular,Low Risk,Restructured,140843.85,23.1,105789.19,6,50,2025-01-30,2025-02-02
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Low Risk,Active,440528.69,18.86,31267.16,6,23,2025-03-13,2025-03-17
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Restructured,400738.75,19.02,23687.37,12,13,2025-04-13,2025-04-16
+Makati CBD Branch,Salary Loan,Regular,Low Risk,Past Due,332641.4,14.11,65876.49,18,68,2025-03-04,2025-03-10
+Davao Central Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Past Due,426785.05,17.7,46754.05,6,17,2025-06-24,2025-06-29
+Makati CBD Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Active,434974.16,8.66,74157.88,12,41,2025-01-26,2025-01-29
+Davao Central Branch,Small Business Micro-Loan,Regular,Low Risk,Fully Paid,357097.86,18.36,99399.51,24,56,2025-02-06,2025-02-11
+Quezon City Hub,Small Business Micro-Loan,OFW Dependent,Medium Risk,Past Due,420136.53,22.66,29400.59,12,82,2025-01-07,2025-01-12
+Cebu IT Park Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,351761.02,17.99,75973.4,12,11,2025-05-07,2025-05-10
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,Low Risk,Fully Paid,343268.98,22.04,68078.42,6,81,2025-06-17,2025-06-23
+Davao Central Branch,Salary Loan,OFW Dependent,Low Risk,Past Due,313119.58,19.72,30128.27,36,16,2025-04-02,2025-04-04
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Low Risk,Restructured,378831.15,10.37,80519.84,36,29,2025-06-16,2025-06-21
+Cebu IT Park Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Fully Paid,87716.5,22.49,43732.24,36,87,2025-04-13,2025-04-18
+Davao Central Branch,Emergency Cash Loan,Regular,High Risk,Past Due,441626.67,9.53,66222.6,12,74,2025-02-22,2025-02-28
+Quezon City Hub,OFW Remittance Advance,Regular,Low Risk,Fully Paid,437203.33,16.78,23638.59,6,22,2025-05-12,2025-05-18
+Quezon City Hub,Emergency Cash Loan,Regular,Medium Risk,Restructured,,10.7,63256.33,18,80,2025-04-18,2025-04-22
+Cebu IT Park Branch,Small Business Micro-Loan,Regular,Low Risk,Past Due,414650.21,8.68,47178.66,12,0,2025-04-22,2025-04-28
+Makati CBD Branch,Salary Loan,OFW Dependent,Medium Risk,Active,73146.24,15.04,101350.03,12,78,2025-06-02,2025-06-07
+Davao Central Branch,Emergency Cash Loan,Regular,Medium Risk,Past Due,174208.24,13.07,20982.77,6,31,2025-01-07,2025-01-10
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Medium Risk,Past Due,374319.05,16.03,58953.76,24,8,2025-06-05,2025-06-07
+Quezon City Hub,Small Business Micro-Loan,Contractual,Low Risk,Restructured,88772.35,17.45,63135.3,12,14,2025-03-08,2025-03-12
+Makati CBD Branch,Salary Loan,OFW Dependent,Low Risk,Active,410803.84,9.18,91125.64,24,27,2025-04-18,2025-04-21
+Davao Central Branch,Salary Loan,Regular,Medium Risk,Active,417745.75,10.41,75300.2,24,23,2025-04-21,2025-04-23
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,High Risk,Active,258659.19,17.16,85057.3,36,59,2025-05-28,2025-05-30
+Davao Central Branch,OFW Remittance Advance,Self-Employed,High Risk,Restructured,13129.08,13.82,96590.17,6,34,2025-03-24,2025-03-26
+Makati CBD Branch,Small Business Micro-Loan,OFW Dependent,High Risk,Restructured,,19.8,105531.31,24,85,2025-05-04,2025-05-07
+Makati CBD Branch,Salary Loan,Regular,Medium Risk,Restructured,312294.19,18.61,47956.93,6,26,2025-05-19,2025-05-23
+Quezon City Hub,Salary Loan,Regular,Low Risk,Restructured,490781.23,21.61,71492.38,36,82,2025-04-14,2025-04-18
+Makati CBD Branch,OFW Remittance Advance,Regular,Medium Risk,Restructured,319588.63,19.23,103211.35,6,75,2025-03-08,2025-03-10
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,High Risk,Active,137303.75,15.16,118892.37,12,19,2025-01-07,2025-01-10
+Davao Central Branch,Small Business Micro-Loan,Contractual,Low Risk,Fully Paid,320662.79,18.93,108399.53,24,64,2025-05-31,2025-06-02
+Makati CBD Branch,Salary Loan,Contractual,Medium Risk,Restructured,274592.84,12.77,54004.06,6,84,2025-04-20,2025-04-26
+Makati CBD Branch,Emergency Cash Loan,Regular,Medium Risk,Fully Paid,,13.25,35492.48,18,48,2025-02-03,2025-02-07
+Cebu IT Park Branch,OFW Remittance Advance,OFW Dependent,High Risk,Past Due,62420.51,20.73,66386.22,6,0,2025-04-16,2025-04-21
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Past Due,382903.67,15.42,92872.35,24,9,2025-05-27,2025-05-29
+Davao Central Branch,Salary Loan,Regular,Low Risk,Restructured,275220.62,20.87,66719.75,36,46,2025-02-27,2025-03-05
+Quezon City Hub,Salary Loan,OFW Dependent,High Risk,Past Due,481866.08,21.25,65733.99,36,58,2025-01-09,2025-01-13
+Quezon City Hub,OFW Remittance Advance,Regular,High Risk,Fully Paid,177517.36,21.79,103014.19,24,61,2025-02-17,2025-02-20
+Davao Central Branch,Small Business Micro-Loan,Self-Employed,Low Risk,Past Due,319984.73,22.71,52947.4,12,85,2025-04-25,2025-04-29
+Cebu IT Park Branch,Emergency Cash Loan,Regular,High Risk,Past Due,466693.77,15.18,105278.44,12,17,2025-02-10,2025-02-13
+Cebu IT Park Branch,OFW Remittance Advance,Self-Employed,Medium Risk,Fully Paid,60229.77,13.44,57714.5,36,45,2025-02-17,2025-02-20
+Quezon City Hub,Small Business Micro-Loan,Regular,Medium Risk,Past Due,,17.52,49464.48,36,31,2025-06-22,2025-06-24
+Makati CBD Branch,Salary Loan,Contractual,High Risk,Restructured,347064.0,14.25,62668.94,24,26,2025-01-25,2025-01-27
+Cebu IT Park Branch,Emergency Cash Loan,OFW Dependent,Low Risk,Fully Paid,43240.16,17.82,95056.93,12,17,2025-04-26,2025-04-30
+Makati CBD Branch,Small Business Micro-Loan,Contractual,Medium Risk,Fully Paid,157472.15,19.44,28230.21,36,38,2025-03-19,2025-03-25
+Cebu IT Park Branch,Emergency Cash Loan,Regular,Low Risk,Active,357004.32,19.17,35624.02,12,48,2025-04-18,2025-04-22
+Davao Central Branch,Small Business Micro-Loan,Regular,Medium Risk,Active,43001.79,14.31,,36,81,2025-01-25,2025-01-30
+Quezon City Hub,Small Business Micro-Loan,Self-Employed,Medium Risk,Fully Paid,295263.53,11.09,33426.62,6,43,2025-05-27,2025-05-30
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Fully Paid,179482.7,15.17,74611.37,18,71,2025-02-08,2025-02-11
+Makati CBD Branch,Small Business Micro-Loan,Regular,High Risk,Active,314248.6,10.71,75828.02,6,53,2025-04-29,2025-05-01
+Davao Central Branch,Emergency Cash Loan,Regular,Low Risk,Restructured,32413.6,22.3,66410.57,36,33,2025-03-20,2025-03-26
+Cebu IT Park Branch,OFW Remittance Advance,Contractual,High Risk,Past Due,437053.04,13.86,82698.25,18,70,2025-03-21,2025-03-23
+Makati CBD Branch,Emergency Cash Loan,Self-Employed,Medium Risk,Past Due,487009.59,10.89,39131.81,18,35,2025-01-27,2025-02-01
+Cebu IT Park Branch,Small Business Micro-Loan,Contractual,Medium Risk,Past Due,484750.15,8.89,73029.54,36,17,2025-04-14,2025-04-18
+Davao Central Branch,Emergency Cash Loan,Self-Employed,Low Risk,Fully Paid,377329.4,18.51,54078.19,36,37,2025-03-15,2025-03-19
+Quezon City Hub,Emergency Cash Loan,Contractual,Low Risk,Restructured,73742.26,18.37,84475.06,12,58,2025-03-09,2025-03-15
